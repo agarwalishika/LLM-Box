@@ -62,6 +62,8 @@ if not os.path.exists(infobox_templates_file):
                     sep = sep.strip().split(' ')[0]
                     fields.append(sep)
             return fields
+        except ValueError:
+            return -1
         except:
             return x
         
@@ -70,14 +72,23 @@ if not os.path.exists(infobox_templates_file):
         links = f.readlines()
 
     for link in tqdm(links):
-        soup = get_soup(f'{prefix}{link[:-1]}')
-        temp = soup.get_text()
-        fields = get_fields(temp)
-        while(type(fields) is not list):
-            fields = get_fields(temp[fields+len(filter_text):])
-        
-        with open(infobox_templates_file, 'a+') as w:
-            w.write(f'{link[15:].strip()} {" ".join(fields)}\n')
+        try:
+            soup = get_soup(f'{prefix}{link[:-1]}')
+            temp = soup.get_text()
+            fields = get_fields(temp)
+            if type(fields) is int and fields < 0:
+                continue # this wiki does not have an infobox template
+
+            pointer = 0
+
+            while(type(fields) is int):
+                pointer += fields + len(filter_text)
+                fields = get_fields(temp[pointer:])
+            
+            with open(infobox_templates_file, 'a+') as w:
+                w.write(f'{link[15:].strip()} {" ".join(fields)}\n')
+        except:
+            print(f'didnt work for {link}')
     print('scraped the fields of infobox templates')
 else:
     print('try again')
