@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 from tqdm import tqdm
+from config import *
 
 def get_soup(link_url):
     response = requests.get(link_url)
@@ -26,10 +27,7 @@ urls = ['https://en.wikipedia.org/wiki/Category:Infobox_templates',
         'https://en.wikipedia.org/w/index.php?title=Category:Infobox_templates&pagefrom=Russian+inhabited+locality%0AInfobox+Russian+inhabited+locality#mw-pages',
         'https://en.wikipedia.org/w/index.php?title=Category:Infobox_templates&pagefrom=tea%0AInfobox+tea#mw-pages',
         'https://en.wikipedia.org/w/index.php?title=Category:Infobox_templates&pagefrom=windstorm+season%0AInfobox+windstorm+season#mw-pages']
-infobox_template_link_file = 'infobox_template_links.txt'
 
-prefix = 'https://en.wikipedia.org'
-infobox_templates_file = 'infobox_template_with_fields.txt'
 
 if not os.path.exists(infobox_template_link_file):
     for url in urls:
@@ -88,7 +86,8 @@ if not os.path.exists(infobox_templates_file):
             with open(infobox_templates_file, 'a+') as w:
                 w.write(f'{link[15:].strip()} {" ".join(fields)}\n')
         except:
-            print(f'didnt work for {link}')
+            with open('failed_infobox_templates.txt', "a+") as f:
+                f.write(f'didnt work for {link}\n')
     print('scraped the fields of infobox templates')
 else:
     print('try again')
