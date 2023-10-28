@@ -1,0 +1,1 @@
+Infobox_restaurant embed name title logo logo_width logo_alt image image_width image_alt image_caption mapframe pushpin_map coordinates

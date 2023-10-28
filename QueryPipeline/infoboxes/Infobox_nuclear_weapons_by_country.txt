@@ -1,0 +1,1 @@
+Infobox_nuclear_weapons_by_country country_name image_location program_start first_test first_fusion last_test largest_yield total_tests peak_stockpile current_stockpile current_usable_stockpile current_usable_stockpile_megatonnage maximum_range NPT_party

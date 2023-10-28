@@ -1,0 +1,1 @@
+Infobox_polyhedron name image caption type euler faces edges vertices vertex_config schläfli wythoff conway coxeter symmetry rotation_group surface_area volume angle dual properties vertex_figure net net_caption

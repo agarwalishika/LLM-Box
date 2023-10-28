@@ -1,0 +1,1 @@
+Infobox_chromosome name image alt caption length_bp genes type chr centromere_position ensembl_id entrez_id ncbi_id ucsc_id refseq_id genbank_id

@@ -1,0 +1,1 @@
+Infobox_zoo name logo logo_width logo_caption image image_width image_caption slogan date_opened date_opening date_closed location coordinates area floorspace num_animals num_species largest_tank_vol total_tank_vol annual_visitors members exhibits owner director management publictransit website www.example.com

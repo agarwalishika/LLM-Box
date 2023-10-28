@@ -1,0 +1,1 @@
+Infobox_physical_quantity name othernames width background image caption unit otherunits symbols baseunits dimension extensive intensive conserved transformsas derivations

@@ -1,0 +1,1 @@
+Infobox_horse_color name image image_alt caption synonyms variants base modifiers description body mane/tail head/legs skin eyes other

@@ -1,0 +1,1 @@
+Infobox_Ogham_inscription name image ciic cisp country region city produced dimensions text_ogham text_native text_english= text_latin

@@ -1,0 +1,1 @@
+Infobox_pipeline name type photo caption map country state province coordinates LAT LON type:landmark_region:XX display=inline,title

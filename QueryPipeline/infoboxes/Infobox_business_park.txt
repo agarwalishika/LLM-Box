@@ -1,0 +1,1 @@
+Infobox_business_park name image image_upright alt caption map_type relief map_size map_dot_label map_alt map_caption mapframe location address coordinates opening_date closing_date developer construction_cost manager owner architect engineer number_of_tenants number_of_workers size parking website footnotes

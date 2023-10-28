@@ -1,0 +1,1 @@
+Infobox_train_consist title box_width date1 train1 location1 consist1 footnote1

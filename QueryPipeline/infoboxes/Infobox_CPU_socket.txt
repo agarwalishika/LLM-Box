@@ -1,0 +1,1 @@
+Infobox_CPU_socket name image release-date designed-by manufacturer type formfactors contacts protocol fsb voltage dimensions processors predecessor variant successor memory

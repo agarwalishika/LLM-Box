@@ -1,0 +1,1 @@
+Infobox_FIRST_Robotics_Competition_team clubname image caption fullname nickname shortname founded dissolved ground capacity org-runby director m1title mentor1 m2title mentor2 regionals championships results bestcompresult= ATWins ATLosses ATTies firstgame largestwin worstdefeat currentrobot fansgroup awards budget sponsors website current

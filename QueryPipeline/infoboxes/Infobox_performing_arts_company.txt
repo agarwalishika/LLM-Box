@@ -1,0 +1,1 @@
+Infobox_performing_arts_company name native_name native_name_lang logo logo_size logo_caption image imagesize caption formed YYYY MM DD

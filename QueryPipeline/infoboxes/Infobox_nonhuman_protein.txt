@@ -1,0 +1,1 @@
+Infobox_nonhuman_protein Name image width caption Organism TaxID Symbol AltSymbols ATC_prefix ATC_suffix ATC_supplemental CAS_number CAS_supplemental DrugBank EntrezGene HomoloGene PDB RefSeqmRNA RefSeqProtein UniProt ECnumber Chromosome EntrezChromosome GenLoc_start GenLoc_end

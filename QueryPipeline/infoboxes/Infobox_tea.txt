@@ -1,0 +1,1 @@
+Infobox_tea Tea_name Tea_type Tea_color Tea_image Tea_origin Tea_names Tea_quick Tea_temperature Tea_time module

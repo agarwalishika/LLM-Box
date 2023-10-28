@@ -1,0 +1,1 @@
+Infobox_sports_in_region name image imagesize alt caption major_teams major_venues major_championships first_major minor_teams minor_venues minor_championships first_minor university university_division university_conference college college_association college_conference other_venues

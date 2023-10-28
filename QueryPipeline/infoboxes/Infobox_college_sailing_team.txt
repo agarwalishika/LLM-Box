@@ -1,0 +1,1 @@
+Infobox_college_sailing_team name logo logo_size founded university athletic_director coach tenure conference conference_short division location city stateabb state venue water nickname colors color1 color2 color3 color4 fontcolor hex1 hex2 hex3 hex4 champions

@@ -1,0 +1,1 @@
+Infobox_NFL_biography embed name image image_size alt caption number current_team position birth_date yyyy mm dd mf=y

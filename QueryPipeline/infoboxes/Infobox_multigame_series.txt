@@ -1,0 +1,1 @@
+Infobox_multigame_series title bgcolor fgcolor image image1 image2 border border1 border2 caption teams location1 date1 result1 location2 date2 result2 location3 date3 result3 location4 date4 result4 location5 date5 result5 location6 date6 result6 location7 date7 result7 location8 date8 result8 location9 date9 result9 location10 date10 result10 MVP attendance total previous next

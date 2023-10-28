@@ -1,0 +1,1 @@
+Infobox_glacier child name other_name photo photo_width photo_alt photo_caption map map_image map_width map_alt map_caption type location coordinates coords_ref area length width thickness elevation_max elevation_min terminus status embedded

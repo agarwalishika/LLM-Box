@@ -1,0 +1,1 @@
+Infobox_winery name logo logo_size logo_alt logo_caption image image_size image_alt image_caption location_place location_city location_state location_country coordinates

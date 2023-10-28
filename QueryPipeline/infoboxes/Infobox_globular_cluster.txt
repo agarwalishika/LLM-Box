@@ -1,0 +1,1 @@
+Infobox_globular_cluster name image caption credit epoch class constellation ra dec dist_ly dist_pc appmag_v size_v absmag_v= mass_msol mass_kg radius_arcminsec radius_ly radius_pc radius_tidal_arcminsec radius_tidal_ly radius_tidal_pc v_hb metal_fe metal_z age notes names

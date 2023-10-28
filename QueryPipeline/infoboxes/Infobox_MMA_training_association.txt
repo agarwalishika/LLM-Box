@@ -1,0 +1,1 @@
+Infobox_MMA_training_association teamname image imagesize caption logo dateestablished YYYY MM DD

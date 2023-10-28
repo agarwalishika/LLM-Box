@@ -1,0 +1,1 @@
+Infobox_drug_mechanism Name Image Alt Caption Use MOA_text Biological_target ATC_prefix ATC_suffix PDB_ligand PDB_complex

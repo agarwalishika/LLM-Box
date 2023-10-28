@@ -1,0 +1,1 @@
+Infobox_military_rank name native_name image image_size alt caption image2 image_size2 alt2 caption2 image3 image_size3 alt3 caption3 country service abbreviation rank rank NATO Non-NATO pay formation abolished higher lower equivalents history

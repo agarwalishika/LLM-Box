@@ -1,0 +1,1 @@
+Infobox_astronomical_event name image image_size caption alt names event_type class start_time duration detected_by constellation ra dec epoch gal distance redshift source remnant host progenitor progenitor_type b-v notes peak energy website predecessor successor commons embedded

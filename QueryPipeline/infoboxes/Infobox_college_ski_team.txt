@@ -1,0 +1,1 @@
+Infobox_college_ski_team name logo logo_size founded university athletic_director coach tenure association conference conference_short division location homemountain nickname colors color1 color2 color3 color4 hex1 hex2 hex3 hex4 yearsactive NCAAchampion champion USCSAchampion regionalchamp divisionchamp

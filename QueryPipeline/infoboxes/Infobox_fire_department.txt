@@ -1,0 +1,1 @@
+Infobox_fire_department name native_name native_name_lang logo logo_caption logo_alt patch patch_caption patch_alt flag flag_caption flag_alt image_size motto country subdivision_type1 subdivision_name1 subdivision_type2 subdivision_name2 subdivision_type3 subdivision_name3 address coordinates reference1 established YYYY MM DD df=y

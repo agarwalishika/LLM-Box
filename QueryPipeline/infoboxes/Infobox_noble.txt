@@ -1,0 +1,1 @@
+Infobox_noble name title image caption alt CoA more succession reign reign-type predecessor successor suc-type spouse spouse-type issue-type issue issue-link issue-pipe full native_name styles other_titles noble house-type father mother birth_name birth_date YYYY MM DD df=y

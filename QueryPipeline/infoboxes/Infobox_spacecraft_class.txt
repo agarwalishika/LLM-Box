@@ -1,0 +1,1 @@
+Infobox_spacecraft_class name image image_size image_alt image_caption manufacturer designer country operator applications website pcost spacecraft_type spacecraft_bus constellation design_life launch_mass dry_mass payload_capacity crew_capacity volume power batteries equipment orbits length height diameter width winged span capacities location kilos

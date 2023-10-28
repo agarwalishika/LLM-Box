@@ -1,0 +1,1 @@
+Infobox_casino name native_name logo logo_size logo_alt logo_caption image image_size image_alt image_caption pushpin_map pushpin_mapsize pushpin_map_alt pushpin_map_caption pushpin_label_position coordinates

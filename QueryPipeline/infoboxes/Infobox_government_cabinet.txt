@@ -1,0 +1,1 @@
+Infobox_government_cabinet cabinet_name cabinet_number cabinet_type jurisdiction flag flag_border flag_width incumbent image image_size alt caption date_formed YYYY MM DD df=y

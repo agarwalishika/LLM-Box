@@ -1,0 +1,1 @@
+Infobox_retail_market retail_market_name image image_width caption location coordinates address opening_date closing_date developer manager owner architect environment_type goods_sold normal_market_days number_of_tenants floor_area parking website belowstyle footnotes

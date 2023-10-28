@@ -1,0 +1,1 @@
+Infobox_monster_truck name image image_upright alt caption owner driver home_city year_created previous number style chassis engine transmission tires

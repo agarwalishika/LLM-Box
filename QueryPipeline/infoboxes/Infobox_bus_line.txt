@@ -1,0 +1,1 @@
+Infobox_bus_line logo logo_width logo_alt number bgcolor titlecolor box_width subheader operatorlogo oplogo_width image image_width image_alt caption system operator garage vehicle livery pvr status open YYYY MM DD df=y

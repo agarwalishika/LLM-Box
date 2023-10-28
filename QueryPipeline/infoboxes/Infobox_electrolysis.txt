@@ -1,0 +1,1 @@
+Infobox_electrolysis name electrolysisimage Width Caption electrolysistype membranemat bppmat acatalyst ccatalyst aptl cptl celltemp cellpress cellare curdens cellvolt powdens ploadrng specengcomstack specengcomsys cellvolteff h2prod lifetimestack degrat syslife

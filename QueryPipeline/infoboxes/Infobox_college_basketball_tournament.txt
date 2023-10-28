@@ -1,0 +1,1 @@
+Infobox_college_basketball_tournament Type Gender Year Season Image ImageSize ImageUpright Caption Teams FinalFourArena FinalFourCity Champions TitleCount RunnerUp GameCount Semifinal1 FinalFourCount Semifinal2 FinalFourCount2 Coach CoachCount MOP MOPTeam Attendance TopScorer TopScorerTeam TopScorer2 TopScorer2Team Points Canceled PrevYear NextYear

@@ -1,0 +1,1 @@
+Infobox_research_project name title image image_alt caption keywords project_type funding_agency sponsors framework_programme project_reference research_objective location coordinator project_manager participants partners budget funding start end website

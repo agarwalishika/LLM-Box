@@ -1,0 +1,1 @@
+Infobox_fuel name image alt caption image2 alt2 caption2 IUPAC other_names UN_number IMO DOT ADR IATA WHMIS RTECS PEL-OSHA ACGIH_TLV-TWA appearance LEL UEL auto_ignition footnotes

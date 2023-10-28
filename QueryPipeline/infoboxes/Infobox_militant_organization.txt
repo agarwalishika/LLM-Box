@@ -1,0 +1,1 @@
+Infobox_militant_organization name logo caption native_name native_name_lang other_name leader foundation dates YYYY MM DD

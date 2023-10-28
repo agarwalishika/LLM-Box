@@ -1,0 +1,1 @@
+Infobox_ski_tour name image image_caption image_alt imagesize series date venue english localnames nickname competition type organiser director first number last firstwinner_men mostwins_men mostrecent_men firstwinner_ladies mostwins_ladies mostrecent_ladies

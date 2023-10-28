@@ -1,0 +1,1 @@
+Infobox_solar_cycle cycle_num image caption start_date end_date duration max_count max_count_date min_count spotless_count prev_name prev_dates next_name next_dates

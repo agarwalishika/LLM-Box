@@ -1,0 +1,1 @@
+Infobox_chipset Table_name Image img_w Caption Codename CPU Socket Process TDP Southbridge Server Multiple Dual Single UnknownServer Desktop Enthusiast Performance Mainstream Value UnknownDesktop Embedded EmbedLineup Date D3D Predecessor Successor

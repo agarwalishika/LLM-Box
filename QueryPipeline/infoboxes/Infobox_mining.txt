@@ -1,0 +1,1 @@
+Infobox_mining name image width caption subdivision_type state/province country authority official commodity production value employees year

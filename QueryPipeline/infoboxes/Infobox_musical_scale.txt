@@ -1,0 +1,1 @@
+Infobox_musical_scale name image_name image_alt relative parallel dominant subdominant enharmonic first_pitch second_pitch third_pitch fourth_pitch fifth_pitch sixth_pitch seventh_pitch pitch_classes qualities Forte complement interval_vector

@@ -1,0 +1,1 @@
+Infobox_knot_theory name= common image= caption= arf braid braid bridge crosscap crossing genus= hyperbolic linking stick tunnel unknotting conway_notation= ab_notation= d-t dowker thistlethwaite= last last last next next next alternating= class= fibered= pretzel= prime= slice= symmetry= tricolorable= twist=

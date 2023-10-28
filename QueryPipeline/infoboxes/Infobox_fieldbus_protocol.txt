@@ -1,0 +1,1 @@
+Infobox_fieldbus_protocol name type_of_network physical_media network_topology maximum_devices maximum_distance maximum_speed device_addressing governing_body website

@@ -1,0 +1,1 @@
+Infobox_space_shuttle name native_name native_name_lang image image_size alt caption type number country contract named_after status first_flight first_date last_flight last_date retirement date missions crews time orbits distance deployed dockings_mir dockings_iss

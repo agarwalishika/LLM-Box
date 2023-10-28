@@ -1,0 +1,1 @@
+Infobox_golf_facility name image imagesize caption pushpin_map pushpin_relief pushpin_mapsize pushpin_map_alt pushpin_map_caption coordinates location establishment type owner operator holes tournaments greens fairways website course1 designer1 par1 length1 rating1 slope1 record1 module image2 imagesize2 caption2

@@ -1,0 +1,1 @@
+Infobox_effects_unit name		= image		= image_size	= image_caption	= brand		= manufacturer	= distributor	= dates		= price		= effects_type	= hardware	= bypass	= loops		= polyphony	= timbrality	= memory	= oscillator	= filter	= attenuator	= lfo		= pedal_control	= ext_control	= inputs	= outputs	=

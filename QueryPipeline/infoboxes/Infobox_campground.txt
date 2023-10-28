@@ -1,0 +1,1 @@
+Infobox_campground headingcolor name image image_size alt caption logo logo_size logo_alt logo_caption pushpin_map pushpin_label_position pushpin_label pushpin_map_alt coordinates LAT LON type:landmark display=inline,title

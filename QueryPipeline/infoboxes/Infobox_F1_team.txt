@@ -1,0 +1,1 @@
+Infobox_F1_team name long_name logo base principal director website previous_name next_name 2023_drivers 2023_test_drivers 2023_chassis 2023_engine 2023_tyres debut final races cons_champ drivers_champ wins poles fastest_laps last_season last_position

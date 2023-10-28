@@ -1,0 +1,1 @@
+Infobox_telephone_area_code trunk_code area_code area_name number_format country code_descriptor country_calling_code conservation active_date previous_codes earlier_codes area_served codes_list locator_map locator_map_caption coverage_map coverage_map_caption

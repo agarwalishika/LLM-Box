@@ -1,0 +1,1 @@
+Infobox_computing_device name codename aka logo image caption developer manufacturer family type generation release YYYY MM DD

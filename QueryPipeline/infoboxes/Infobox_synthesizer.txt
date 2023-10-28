@@ -1,0 +1,1 @@
+Infobox_synthesizer synth_name synth_manufacturer image image_caption dates price polyphony Monophonic]] timbrality oscillator DCO]] lfo synthesis_type filter Digital]] attenuator aftertouch velocity memory fx chorus]] keyboard left_control mod ext_control

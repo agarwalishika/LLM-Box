@@ -1,0 +1,1 @@
+Infobox_sports_complex embed name native_name native_name_lang nickname logo_image logo_size logo_alt logo_caption image image_size image_upright image_alt image_caption image_map map_size map_alt map_caption pushpin_map coordinates

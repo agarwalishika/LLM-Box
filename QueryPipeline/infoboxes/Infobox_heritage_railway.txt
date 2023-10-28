@@ -1,0 +1,1 @@
+Infobox_heritage_railway name other_name logo logo_width logo_alt color image image_width image_alt caption locale terminus coordinates type:landmark display=inline,title

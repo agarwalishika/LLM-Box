@@ -1,0 +1,1 @@
+Infobox_single_nucleotide_polymorphism rsid name_1 name_2 name_3 gene chromosome region alfred alzgene_geneid alzgene_polyid pdgene_geneid pdgene_polyid szgene_geneid szgene_polyid

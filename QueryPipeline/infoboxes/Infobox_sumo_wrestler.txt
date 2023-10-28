@@ -1,0 +1,1 @@
+Infobox_sumo_wrestler name native_name native_name_lang image image_size alt caption birth_name birth_date YYYY MM DD

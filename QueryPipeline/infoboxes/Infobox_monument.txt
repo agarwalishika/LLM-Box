@@ -1,0 +1,1 @@
+Infobox_monument name native_name image image_size caption location mapframe designer type material length width height weight visitors_num visitors_year begin complete dedicated open restore dismantled dedicated_to map_name map_text map_width map_relief coordinates website extra_label extra

@@ -1,0 +1,1 @@
+Infobox_legislature name native_name native_name_lang transcription_name legislature coa_pic coa_res coa_alt coa_caption logo_pic logo_res logo_alt logo_caption house_type houses chambers body jurisdiction term_limits foundation YYYY MM DD

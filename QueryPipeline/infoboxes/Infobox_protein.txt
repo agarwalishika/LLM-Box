@@ -1,0 +1,1 @@
+Infobox_protein name AltNames image width caption Symbol AltSymbols IUPHAR_id ATC_prefix ATC_suffix ATC_supplemental CAS_number CAS_supplemental DrugBank EntrezGene HGNCid OMIM PDB RefSeq UniProt EC_number Chromosome Arm Band LocusSupplementaryData Wikidata

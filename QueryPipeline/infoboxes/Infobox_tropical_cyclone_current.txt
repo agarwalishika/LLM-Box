@@ -1,0 +1,1 @@
+Infobox_tropical_cyclone_current name=Hurricane category=cat4 type=hurricane time=11:00 HST]] UTC]]) image=Hector track=10E lat=15.2 lon=-143.1 within_units=5 nm]] distance_from=About 1sustained=135 gusts=165 pressure=936 mbar]] hPa]]; inHg]]) movement=[[Points W]]

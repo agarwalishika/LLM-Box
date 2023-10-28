@@ -1,0 +1,1 @@
+Infobox_ski_area name logo logo_width picture caption pushpin_map pushpin_relief location mountain nearest_city coordinates lat long region:ZZ display=inline,title

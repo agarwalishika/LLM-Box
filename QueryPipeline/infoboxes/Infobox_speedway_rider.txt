@@ -1,0 +1,1 @@
+Infobox_speedway_rider name image caption birth_date YYYY MM DD df=y

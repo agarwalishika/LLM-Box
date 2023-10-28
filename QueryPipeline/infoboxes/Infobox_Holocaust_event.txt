@@ -1,0 +1,1 @@
+Infobox_Holocaust_event name image image_size image_alt caption image_map map_size map_alt map_caption pushpin_map pushpin_map_relief pushpin_map_width pushpin_map_alt pushpin_label pushpin_label_position pushpin_map_caption AKA location coordinates

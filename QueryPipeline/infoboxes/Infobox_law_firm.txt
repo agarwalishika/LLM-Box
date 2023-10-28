@@ -1,0 +1,1 @@
+Infobox_law_firm name logo image_size alt headquarters num_offices offices num_partners num_attorneys num_lawyers num_employees practice_areas key_people revenue profit_per_equity_partner date_founded YYYY MM DD

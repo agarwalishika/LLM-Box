@@ -1,0 +1,1 @@
+Infobox_tool name caption image image_size image_upright title alt image2 image2_size image2_upright title2 alt2 caption2 image3 image3_size image3_upright title3 alt3 caption3 other_name classification uses types used_with inventor manufacturer model related

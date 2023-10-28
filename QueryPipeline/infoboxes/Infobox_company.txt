@@ -1,0 +1,1 @@
+Infobox_company name logo logo_caption logo_upright logo_alt type industry predecessor founded YYYY MM DD

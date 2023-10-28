@@ -1,0 +1,1 @@
+Infobox_debate name logo_image logo_caption image caption order host date duration venue location participants footage leadmoderator othermoderators transcript fact_checking website

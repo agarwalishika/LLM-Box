@@ -1,0 +1,1 @@
+Infobox_border name image image_size alt caption territory1 territory2 length enclaves established establishedreason current currentreason disestablished disestablishedreason treaties notes

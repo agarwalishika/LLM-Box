@@ -1,0 +1,1 @@
+Infobox_waterlock name native_name image image_upright alt caption waterway country province state county maint operation first latest length width fall sealevel enda distenda endb distendb heritage map_image map_size map_alt map_caption pushpin_map pushpin_map_size pushpin_map_alt pushpin_map_caption coordinates extra

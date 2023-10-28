@@ -1,0 +1,1 @@
+Infobox_docks name image caption location coordinates LAT LON display=inline,title

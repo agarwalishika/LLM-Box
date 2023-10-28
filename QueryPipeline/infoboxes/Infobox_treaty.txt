@@ -1,0 +1,1 @@
+Infobox_treaty name long_name image image_size alt caption type context date_drafted date_signed YYYY MM DD

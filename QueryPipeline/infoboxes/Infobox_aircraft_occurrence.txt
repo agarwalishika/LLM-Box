@@ -1,0 +1,1 @@
+Infobox_aircraft_occurrence name image image_upright alt caption occurrence_type date 1993 02 24 df=y

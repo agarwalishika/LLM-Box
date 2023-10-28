@@ -1,0 +1,1 @@
+Infobox_furniture name image caption designer made date materials style sold_by height width depth collection

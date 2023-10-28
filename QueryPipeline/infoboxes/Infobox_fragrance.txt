@@ -1,0 +1,1 @@
+Infobox_fragrance name image image_size image_alt caption endorsed_by category designed_for notes top_note heart_note base_note released YYYY MM DD

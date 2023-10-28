@@ -1,0 +1,1 @@
+Infobox_control_chart name proposer subgroupsize measurementtype qualitycharacteristictype distribution sizeofshift arl varchart varcenter varupperlimit varlowerlimit varstatistic meanchart meancenter meanlimits meanupperlimit meanlowerlimit meanstatistic

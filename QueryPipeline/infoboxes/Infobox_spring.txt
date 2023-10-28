@@ -1,0 +1,1 @@
+Infobox_spring name photo photo_width photo_caption map map_image map_width map_caption name_origin location elevation coordinates coords_ref hot_spring_type height duration frequency discharge temperature depth

@@ -1,0 +1,1 @@
+Infobox_boxing_match/doc Fight image caption fight location titles fighter1 nickname1 hometown1 purse1 record1 age1 height1 weight1 style1 recognition1 fighter2 nickname2 hometown2 purse2 record2 age2 height2 weight2 style2 recognition2 result

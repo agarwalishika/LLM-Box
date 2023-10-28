@@ -1,0 +1,1 @@
+Infobox_climbing_route name photo photo_width photo_caption map map_width map_caption location coords coords_ref climbing_area route_type vertical_gain pitches rating grade bolted_by established_by first_ascent first_free_ascent fastest_ascent

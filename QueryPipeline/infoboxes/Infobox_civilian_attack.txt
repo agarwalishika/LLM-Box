@@ -1,0 +1,1 @@
+Infobox_civilian_attack title partof image image_size image_upright alt caption map map_size map_alt map_caption location target coordinates date YYYY MM DD

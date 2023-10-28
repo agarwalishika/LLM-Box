@@ -1,0 +1,1 @@
+Infobox_volleyball_biography name image image_size caption full_name nickname nationality birth_date YYYY MM DD mf=y

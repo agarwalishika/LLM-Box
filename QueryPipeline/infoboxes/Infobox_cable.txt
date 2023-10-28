@@ -1,0 +1,1 @@
+Infobox_cable cable_name cable_logo cable_type fate predecessor successor construction_beginning construction_finished first_traffic design_capacity lit_capacity built_by defunct landings area_served owner homepage footnotes

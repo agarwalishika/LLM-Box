@@ -1,0 +1,1 @@
+Infobox_clothing_type name image_file image_size caption type material location manufacturer url

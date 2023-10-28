@@ -1,0 +1,1 @@
+Infobox_clothing_item image_file caption designer year type material on_display_at

@@ -1,0 +1,1 @@
+Infobox_ice_hockey_team_season Season year Team League LeagueRank Conference ConferenceRank Division DivisionRank Record HomeRecord RoadRecord GoalsFor GoalsAgainst GeneralManager Coach AssistantCoach Captain AltCaptain Arena Attendance MinorLeague GoalsLeader AssistsLeader PointsLeader PIMLeader WinsLeader GAALeader Championship ConferenceWin DivisionWin prev_season next_season

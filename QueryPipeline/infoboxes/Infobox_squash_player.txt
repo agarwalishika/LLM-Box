@@ -1,0 +1,1 @@
+Infobox_squash_player name image alt caption full_name nickname country residence birth_name birth_date YYYY MM DD

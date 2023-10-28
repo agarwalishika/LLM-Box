@@ -1,0 +1,1 @@
+Infobox_volcanic_hotspot title image image_alt image_caption map map_alt map_caption globe_type globe country state province territory region coordinates 0 0 display=inline,title
