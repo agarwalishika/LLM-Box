@@ -1,0 +1,1 @@
+Infobox_oil_field name image caption location_map location_map_width location_map_text relief coordinates

@@ -1,0 +1,1 @@
+Infobox_pier name image image_size alt caption official_name type carries spans locale maint id design designer construction constructor start completed open inaugurated owner operator mainspan length width clearance below traffic renovated rebuilt closed destroyed demolished listed toll map_cue map_image map_text map_width coordinates dd mm ss N dd mm ss E display=inline,title

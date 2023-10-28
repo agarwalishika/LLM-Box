@@ -1,0 +1,1 @@
+Infobox_whitewater_course whitewater_course_name official_name native_name native_name_lang other_name image image_size alt caption locale coordinates

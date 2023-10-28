@@ -1,0 +1,1 @@
+Infobox_Grappling_hold name image image_size alt caption aka parent_style classification parent_hold child_holds attacks counters escapes

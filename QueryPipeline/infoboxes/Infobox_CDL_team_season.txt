@@ -1,0 +1,1 @@
+Infobox_CDL_team_season logo championship_win bg1 bg2 color1 color2 team year record winpct homestand_wins league_place coach gm owner arena playoffs earnings no_prevseason no_nextseason

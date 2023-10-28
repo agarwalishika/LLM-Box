@@ -1,0 +1,1 @@
+Infobox_feature_on_celestial_object name image image_size caption type location coordinates= latitude NS longitude EW globe:GLOBE_type:landmark display=inline,title

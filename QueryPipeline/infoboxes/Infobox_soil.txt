@@ -1,0 +1,1 @@
+Infobox_soil name alternative_name image image_caption image_size type classification_system code profile mineral process parent_material climate ph horizons composition composition_secondary

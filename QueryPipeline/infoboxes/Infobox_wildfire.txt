@@ -1,0 +1,1 @@
+Infobox_wildfire title image image_size alt caption location coordinates reference references cost date time time-begin time-end timezone area acres cause landuse buildings structures livestock injuries fatalities missing evacuated perps motive image_map image_map_alt image_map_caption name pushpin_map pushpin_map_alt pushpin_map_caption

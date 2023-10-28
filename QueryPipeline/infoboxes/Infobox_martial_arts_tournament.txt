@@ -1,0 +1,1 @@
+Infobox_martial_arts_tournament name current_event image caption date locale english localnames nickname discipline competition type organiser director qualification skill weight first number last firstwinner mostwins mostrecent

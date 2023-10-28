@@ -1,0 +1,1 @@
+Infobox_proto-language name altname acceptance target region era familycolor ancestor ancestor2 ... ancestor5 child1 child2 ... child12 listclass boxsize module notes

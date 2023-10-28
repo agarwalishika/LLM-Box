@@ -1,0 +1,1 @@
+Infobox_Audio_over_Ethernet_technology name logo caption manufacturer date switchable routable 10meg 100meg 1gig 5gig 10gig 25gig 40gig agnostic= latency maxchannels samplingrate bitdepth

@@ -1,0 +1,1 @@
+Infobox_launch_pad name image imsize caption site location coordinates Coord

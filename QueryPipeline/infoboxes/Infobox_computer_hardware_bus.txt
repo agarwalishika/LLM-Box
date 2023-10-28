@@ -1,0 +1,1 @@
+Infobox_computer_hardware_bus name fullname logo image image_size alt caption invent-date invent-name super-name super-date replaces width numdev speed style hotplug external website

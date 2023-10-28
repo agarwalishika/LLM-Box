@@ -1,0 +1,1 @@
+Infobox_bug name image image_size alt caption screenshot screenshot_size screenshot_alt screenshot_caption CVE discovered patched discoverer affected affected used website

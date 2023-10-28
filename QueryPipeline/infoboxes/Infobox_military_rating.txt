@@ -1,0 +1,1 @@
+Infobox_military_rating name image caption issued_by type abbreviation specialty

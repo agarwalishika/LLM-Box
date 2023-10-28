@@ -1,0 +1,1 @@
+Infobox_New_York_City_Subway_service service name image1 size1 caption1 image2 size2 caption2 image3 size3 caption3 image4 size4 caption4 north south terminals stations stock

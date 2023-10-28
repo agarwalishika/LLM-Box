@@ -1,0 +1,1 @@
+Infobox_IRC_network name image founded_on YYYY MM DD

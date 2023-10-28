@@ -1,0 +1,1 @@
+Infobox_computer_virus fullname image caption common_name technical_name aliases family classification type subtype isolation_date origin infection_vector author ports_used OS filesize language discontinuation_date

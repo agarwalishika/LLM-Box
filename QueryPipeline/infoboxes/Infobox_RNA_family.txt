@@ -1,0 +1,1 @@
+Infobox_RNA_family Name image width caption Symbol AltSymbols Rfam Rfam_clan miRBase miRBase_family RNA_type Tax_domain GO SO CAS_number EntrezGene HGNCid OMIM PDB RefSeq Chromosome Arm Band LocusSupplementaryData

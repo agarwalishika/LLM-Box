@@ -1,0 +1,1 @@
+Infobox_bridge name native_name native_name_lang image image_size image_upright alt caption coordinates

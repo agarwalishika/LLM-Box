@@ -1,0 +1,1 @@
+Infobox_rugby_football_league_season title logo pixels caption sport structure league duration no_of_teams matches points highest_attendance lowest_attendance avg_attendance attendance

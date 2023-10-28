@@ -1,0 +1,1 @@
+Infobox_PBA_conference title year conference_name subheader logo pixels caption conference duration no_of_games no_of_teams attendance average_attendance TV champion runner-up best_player best_import finals_mvp prevconf_year prevconf_link nextconf_year nextconf_link prev_conf prev_conf_link next_conf next_conf_link

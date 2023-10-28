@@ -1,0 +1,1 @@
+Infobox_tree name= image= image_size= alt= image_caption= map= map_alt= map_size= map_caption= relief= label_position= map_image= native_name=<!--

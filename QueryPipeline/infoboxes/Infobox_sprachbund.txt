@@ -1,0 +1,1 @@
+Infobox_sprachbund name altname acceptance ethnicity region extinct familycolor child1 child2 ... child20 children listclass map mapalt mapcaption map2 mapalt2 mapcaption2 mapsize boxsize module notes

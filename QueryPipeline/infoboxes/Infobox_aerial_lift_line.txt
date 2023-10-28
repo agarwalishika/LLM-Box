@@ -1,0 +1,1 @@
+Infobox_aerial_lift_line line_color name native_name native_name_lang image image_size alt caption image_map image_map_size image_map_alt image_map_caption pushpin_map pushpin_relief pushpin_map_size pushpin_label pushpin_map_alt pushpin_map_caption mapframe alt_name status character system line_no location country coordinates

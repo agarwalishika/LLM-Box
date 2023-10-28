@@ -1,0 +1,10 @@
+didnt work for /wiki/Template:Infobox_Doll
+
+didnt work for /wiki/Template:Infobox_geonames_parent
+
+didnt work for /wiki/Template:Infobox_official_event
+
+didnt work for /wiki/Template:Infobox_unit
+
+didnt work for /wiki/Template:Infobox_year_in_combat_sports
+

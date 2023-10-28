@@ -1,0 +1,1 @@
+Infobox_acquisition logo logo_size logo_upright logo_alt logo_caption logo2 logo2_size logo2_upright logo2_alt logo2_caption logo3 logo3_size logo3_upright logo3_alt logo3_caption name initiator target type cost price initiated completed cancelled canceled resulting_entity resulting entity status footnotes

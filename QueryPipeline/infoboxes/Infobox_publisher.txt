@@ -1,0 +1,1 @@
+Infobox_publisher name image image_size alt caption parent status traded_as nasdaq predecessor founded YYYY MM DD

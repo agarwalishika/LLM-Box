@@ -1,0 +1,1 @@
+Infobox_receptor name signal primary primary agonists antagonists inverse PAMs NAMs IUPHAR DrugBank HMDB

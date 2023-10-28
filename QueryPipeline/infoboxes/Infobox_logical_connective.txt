@@ -1,0 +1,1 @@
+Infobox_logical_connective title other Venn definition truth logic DNF CNF Zhegalkin 0-preserving 1-preserving monotone affine self-dual

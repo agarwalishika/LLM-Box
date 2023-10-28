@@ -1,0 +1,1 @@
+Infobox_bus_company name logo logo_size logo_alt image image_size alt image_caption parent founded YYYY MM DD

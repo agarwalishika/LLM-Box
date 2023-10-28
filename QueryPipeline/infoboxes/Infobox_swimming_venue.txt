@@ -1,0 +1,1 @@
+Infobox_swimming_venue name logo logosize logocaption image imagesize caption fullname formername nicknames city coordinates dd mm ss N/S dd mm ss E/W type:landmark display=inline,title

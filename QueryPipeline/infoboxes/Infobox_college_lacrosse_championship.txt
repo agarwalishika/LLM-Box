@@ -1,0 +1,1 @@
+Infobox_college_lacrosse_championship Type Gender Year Image ImageSize Caption Teams FinalFourArena FinalsField FinalFourCity FinalsCity Champions TitleCount RunnerUp GameCount Semifinal1 FinalFourCount1 Semifinal2 FinalFourCount2 Coach CoachCount MOP MOPTeam AttendSemis AttendFinals AttendRef TopScorer TopScorerTeam TopScorer2 TopScorer2Team Goals

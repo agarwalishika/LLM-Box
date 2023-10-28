@@ -1,0 +1,1 @@
+Infobox_musical_interval main_interval_name inverse other_names abbreviation semitones interval_class just_interval cents_equal_temperament cents_24T_equal_temperament cents_just_intonation

@@ -1,0 +1,1 @@
+Infobox_water_park name logo image caption park resort location location2 location3 coordinates LAT LON type:landmark format=dms display=inline,title

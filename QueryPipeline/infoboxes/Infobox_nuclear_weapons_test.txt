@@ -1,0 +1,1 @@
+Infobox_nuclear_weapons_test name image image_size map_type map_alt map_caption map_size map_dot_label map_dot_mark relief alt caption country test_site coordinates date period number_of_tests test_type device_type max_yield summary previous_series next_series

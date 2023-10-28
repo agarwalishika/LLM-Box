@@ -1,0 +1,1 @@
+Infobox_ages_of_subjects type subject image imagesize caption date1 date2 parentage prevage nextage subage subage# see see#

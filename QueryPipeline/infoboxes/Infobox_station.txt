@@ -1,0 +1,1 @@
+Infobox_station name name_lang native_name native_name_lang symbol symbol_location type image alt caption other_name address borough country coordinates latitude N/S longitude E/W display=inline,title

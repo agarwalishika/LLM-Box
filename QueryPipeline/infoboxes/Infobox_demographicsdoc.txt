@@ -1,0 +1,1 @@
+Infobox_demographics/doc auto_percent type group1 pop1 group2 pop2 group3 pop3 group4 pop4 group5 pop5 group6 pop6 group7 pop7 source

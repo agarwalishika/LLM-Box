@@ -1,0 +1,1 @@
+Infobox_technology_standard title long_name image image_size alt caption abbreviation native_name

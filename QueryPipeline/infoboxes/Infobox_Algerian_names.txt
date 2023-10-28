@@ -1,0 +1,1 @@
+Infobox_Algerian_names title box_color img_name img_size img_alt img_caption littar_name littar_romanization littar_ipa littar_audio littar_meaning arq_abjad arq_latin arq_ipa arq_audio arq_meaning ber_tifinagh ber_latin ber_acronym ber_abjad ber_ipa ber_audio ber_meaning fr_name fr_ipa fr_audio fr_acronym fr_meaning below

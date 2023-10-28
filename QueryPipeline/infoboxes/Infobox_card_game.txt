@@ -1,0 +1,1 @@
+Infobox_card_game title subtitle image image_size alt image_caption logo logo_size logo_alt logo_caption cardback cardback_size cardback_alt cardback_caption alt_name named_variant designer publisher date yyyy mm dd

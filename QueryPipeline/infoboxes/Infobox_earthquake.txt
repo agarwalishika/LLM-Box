@@ -1,0 +1,1 @@
+Infobox_earthquake name image alt caption map map_alt map_caption pushpin_map map2 pre-1900 timestamp isc-event anss-url local-date YYYY MM DD

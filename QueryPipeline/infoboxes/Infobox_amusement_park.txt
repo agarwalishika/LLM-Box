@@ -1,0 +1,1 @@
+Infobox_amusement_park name previous_names logo logo_size logo_alt logo_caption image alt image_size caption slogan resort location location2 location3 coordinates LAT LON type:landmark display=inline,title

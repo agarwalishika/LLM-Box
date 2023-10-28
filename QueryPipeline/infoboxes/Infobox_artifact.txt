@@ -1,0 +1,1 @@
+Infobox_artifact name native_name native_name_lang image image_size alt image_caption image2 image2_size alt2 image2_caption type material size height

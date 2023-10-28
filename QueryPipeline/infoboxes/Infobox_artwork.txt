@@ -1,0 +1,1 @@
+Infobox_artwork title other_language_1 other_title_1 other_language_2 other_title_2 wikidata image image_upright alt caption artist year YYYY

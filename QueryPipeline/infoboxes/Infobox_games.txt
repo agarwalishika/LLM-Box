@@ -1,0 +1,1 @@
+Infobox_games name logo size caption host_city host country motto organizer organiser edition nations teams debuting_countries athletes sports events dates opening_link opening YYYY MM DD

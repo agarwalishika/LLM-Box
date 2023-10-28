@@ -1,0 +1,1 @@
+Infobox_tornado_year name=Name image=Image caption=Image image2=Second caption2=Second timespan=Time max_F max_location=Location max_date=Date max_location2=Location max_date2=Date tornadoes_usa=Total total_damages_usa=Total total_fatalities_world=Total year=Subject

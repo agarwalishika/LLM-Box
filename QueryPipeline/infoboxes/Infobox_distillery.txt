@@ -1,0 +1,1 @@
+Infobox_distillery name type logo logo_size logo_alt logo_caption image image_size image_alt alt= image_caption caption= location coordinates LAT LON region:GB_type:landmark display=inline,title

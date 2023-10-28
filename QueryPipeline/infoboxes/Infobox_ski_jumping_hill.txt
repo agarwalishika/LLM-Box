@@ -1,0 +1,1 @@
+Infobox_ski_jumping_hill hill_name nickname image caption constructor(s) location city country coordinates lat lon display=inline,title

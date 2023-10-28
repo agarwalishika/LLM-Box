@@ -1,0 +1,1 @@
+Infobox_Pan_American_Games_event event year image image_size alt caption venue venues date start_date YYYY MM DD mf=y

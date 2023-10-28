@@ -1,0 +1,1 @@
+Infobox_Canadian_legislation short_title type parliament long_title year citation introduced_by territorial_extent si_made_date si_laid_date royal_assent commencement repeal_date replaces primary_legislation amendments related_legislation repealing_legislation= status original_text legislation_history revised_text

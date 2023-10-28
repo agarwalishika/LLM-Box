@@ -1,0 +1,1 @@
+Infobox_postage_stamp common_name image caption stamp_type Definitive]] country_of_issue country_of_production location_of_production date_of_production YYYY MM DD

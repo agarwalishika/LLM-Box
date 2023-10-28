@@ -1,0 +1,1 @@
+Infobox_NHL_team team_name CAN_eng text_color bg_color current logo_image logo_alt conference division founded history arena city uniform_image team_colors media_affiliates owner general_manager head_coach captain minor_league_affiliates stanley_cups avco conf_titles presidents'_trophies division_titles website

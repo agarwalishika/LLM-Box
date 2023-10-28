@@ -1,0 +1,1 @@
+Infobox_law_school name image image_size alt caption motto parent religious established type endowment parent dean head= city state province country coordinates students faculty ranking acceptance yield bar website aba logo logo_size logo_alt

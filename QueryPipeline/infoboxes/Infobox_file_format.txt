@@ -1,0 +1,1 @@
+Infobox_file_format name icon iconcaption icon_size screenshot screenshot_size caption _noextcode extension extensions _nomimecode mime type_code uniform_type conforms_to magic max_size developer released YYYY mm dd df=yes/no

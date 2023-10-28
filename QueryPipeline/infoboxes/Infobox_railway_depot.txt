@@ -1,0 +1,1 @@
+Infobox_railway_depot embed name depot_logo logo_upright logo_alt logo_caption image image_upright image_alt caption location coordinates LAT LONG type:landmark display=inline,title

@@ -1,0 +1,1 @@
+Infobox_college_gymnastics_team name logo logo_size founded university athletic_director coach tenure conference division arena capacity nickname color1 color2 color3 fontcolor hex1 hex2 hex3 national_champion fouronthefloor supersix ncaa_regionals= ncaa_tourneys conference_champion

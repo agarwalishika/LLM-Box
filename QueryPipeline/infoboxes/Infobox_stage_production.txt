@@ -1,0 +1,1 @@
+Infobox_stage_production name image image_size alt caption company genre type premiere YYYY MM DD df=y

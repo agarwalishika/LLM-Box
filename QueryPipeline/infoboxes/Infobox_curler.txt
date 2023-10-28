@@ -1,0 +1,1 @@
+Infobox_curler name role gender image image_size alt caption other_names birth_name birth_date yyyy mm dd

@@ -1,0 +1,1 @@
+Infobox_lottery name native_name native_name_lang image alt caption region launch_date YYYY MM DD df=y

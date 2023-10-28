@@ -1,0 +1,1 @@
+Infobox_bodybuilder name gender image caption nickname full_name birth_date YYYY MM DD

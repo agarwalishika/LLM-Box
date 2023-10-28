@@ -1,0 +1,1 @@
+Infobox_historic_site name native_name native_language native_name2 native_language2 native_name3 native_language3 other_name image image_size alt caption mapframe locmapin map_relief map_width map_caption map_dot_mark coordinates LAT LON display=inline,title

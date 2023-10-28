@@ -1,0 +1,1 @@
+Infobox_referendum name country flag_year flag_image date YYYY MM DD

@@ -1,0 +1,1 @@
+Infobox_currency name local_name local_name_lang obsolete image_1 image_title_1 image_alt_1 iso_code issuing_authority issuing_authority_website date_of_introduction date_of_introduction_source using_countries inflation_rate inflation_source_date unit symbol nickname plural subunit_ratio_1 1 100

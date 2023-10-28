@@ -1,0 +1,1 @@
+Infobox_protein_family class Symbol Name image caption Pfam Pfam_clan InterPro SMART PROSITE MEROPS CATH SCOP TCDB OPM OPM CAZy CDD Membranome Membranome

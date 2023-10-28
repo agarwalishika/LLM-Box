@@ -1,0 +1,1 @@
+Infobox_cycling_hill_climb name image image_size image_alt caption location start end altitude_m altitude_ft length_m length_ft length_km length_mi max_elevation_m max_elevation_ft gradient maxgradient website url

@@ -1,0 +1,1 @@
+Infobox_electronic_component name image caption type working_principle invented first_produced pins symbol symbol_caption

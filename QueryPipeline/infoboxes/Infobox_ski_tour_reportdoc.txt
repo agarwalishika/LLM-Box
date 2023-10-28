@@ -1,0 +1,1 @@
+Infobox_ski_tour_report/doc name image image_caption image_alt image_size series race_no season_no venue date YYYY MM DD

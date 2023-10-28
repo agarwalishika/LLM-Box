@@ -1,0 +1,1 @@
+Infobox_CPU_architecture name image image_size alt caption designer bits introduced version design type encoding branching endianness page extensions open predecessor successor registers gpr fpr vpr

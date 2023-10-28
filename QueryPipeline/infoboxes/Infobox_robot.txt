@@ -1,0 +1,1 @@
+Infobox_robot name logo logosize logoalt image imagesize alt caption inventor manufacturer country year_of_creation price type purpose derived_from replaced_by website

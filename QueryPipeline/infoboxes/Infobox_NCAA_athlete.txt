@@ -1,0 +1,1 @@
+Infobox_NCAA_athlete color fontcolor name image image_size caption college conference sport jersey position class major minor nickname career_start career_end height_ft height_in weight_lb nationality birth_date YYYY MM DD

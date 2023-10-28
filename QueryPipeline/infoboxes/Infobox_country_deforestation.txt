@@ -1,0 +1,1 @@
+Infobox_country_deforestation country the_country= image frameless]] caption location forest_type forest_area XX sqmi km2 abbr=on

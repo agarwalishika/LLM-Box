@@ -1,0 +1,1 @@
+Infobox_cricket_final title other_titles image event team1 team1flag team1score team1overs team1score1 team1overs1 team1score2 team1overs2 team2 team2flag team2score team2overs team2score1 team2overs1 team2score2 team2overs2 rain details date stadium city man_of_the_match man_of_the_match_title umpires attendance previous next

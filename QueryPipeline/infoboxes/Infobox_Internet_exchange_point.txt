@@ -1,0 +1,1 @@
+Infobox_Internet_exchange_point name image image_size full_name abbreviation founded location

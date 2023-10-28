@@ -1,0 +1,1 @@
+Infobox_SRX_race_report Year Race_Name Details_ref Type Race_No Season_No Description Image image_size image_alt Caption Fulldate YYYY MM DD

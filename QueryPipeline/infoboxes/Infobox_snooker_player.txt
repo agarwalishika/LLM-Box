@@ -1,0 +1,1 @@
+Infobox_snooker_player name honorific_suffix image image_size alt caption birth_date YYYY MM DD df=yes

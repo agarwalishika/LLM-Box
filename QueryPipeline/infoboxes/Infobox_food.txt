@@ -1,0 +1,1 @@
+Infobox_food name name_lang name_italics image image_size image_alt caption alternate_name type course place_of_origin region associated_cuisine creator creators year mintime maxtime served main_ingredient minor_ingredient variations serving_size calories calories_ref protein fat carbohydrate glycemic_index similar_dish cookbook commons other no_recipes

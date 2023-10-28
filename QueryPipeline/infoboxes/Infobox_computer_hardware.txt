@@ -1,0 +1,1 @@
+Infobox_computer_hardware name logo logo-size logo_caption image image-size caption invent-date invent-name conn1 via1_1 class-name class1 manuf1 designfirm manufacturer introduced discontinued cost type processor frequency memory slots rom coprocessor connection ports power color dpi speed language weight dimensions

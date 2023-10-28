@@ -1,0 +1,1 @@
+Infobox_baseball_season_yearly name season image imagesize caption league current_league1 y1 division1 y3 current_league2 y2 division2 y4 ballpark y5 city y6 record divisional_place league_place owners managers general_managers presbo television radio

@@ -1,0 +1,1 @@
+Infobox_4-polytope Name Image_File Image_Caption Type Schl�fli CD Cell_List Face_List Edge_Count Vertex_Count Vertex_Figure Petrie_Polygon Coxeter_Group Symmetry_Group Dual Property_List Index

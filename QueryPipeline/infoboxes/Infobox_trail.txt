@@ -1,0 +1,1 @@
+Infobox_trail name embed cellstyle photo photo_size photo_alt caption title established began completed closed_date length location designation trailheads use elev_gain_and_loss elev_change highest lowest grade difficulty season months waymark sights hazards surface ROW maintainer certification website map map_name map_caption map_size map_alt route route_state

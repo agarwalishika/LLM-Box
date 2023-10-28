@@ -1,0 +1,1 @@
+Infobox_FIBA_tourney gender type year logo size caption host host2 dates motto teams confederations federations venues cities games attendance champions champions-flagvar title_number mvp ppg_p ppg_t rpg_p rpg_t apg_p apg_t website prevseason nextseason

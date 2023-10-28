@@ -1,0 +1,1 @@
+Infobox_anthem title transcription english_title image image_size alt caption prefix type country alt_title en_alt_title alt_title_2 en_alt_title_2 author lyrics_date composer music_date published adopted readopted until successor predecessor sound sound_title

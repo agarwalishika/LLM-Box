@@ -1,0 +1,1 @@
+Infobox_Unicode_block style blockname rangestart rangeend script1 script2-5 alphabets symbols assigned controls nonchar deprecated occupiedby latest 1_0_0 1_0_1 1_1 2_0 2_1 3_0 3_1 3_2 4_0 4_1 5_0 5_1 5_2 6_0 6_1 6_2 6_3 7_0 8_0 9_0 10_0 11_0 12_0 12_1 13_0 14_0 15_0 15_1 sources codechart note

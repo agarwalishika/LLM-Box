@@ -1,0 +1,1 @@
+Infobox_coin Denomination Country Value Unit Mass_g Mass_troy_oz Mass_grain Mass_ounce Mass_special Gold_troy_oz Silver_troy_oz Diameter_mm Diameter_inch Diameter_special Thickness_mm Thickness_inch Thickness_special Edge Orientation Composition Years YYYY

@@ -1,0 +1,1 @@
+Infobox_oil_refinery name image photo imagesize image caption location_map coordinates coordinates_ref location_map location_map_width location_map_text country province state city operator owner founded YYYY

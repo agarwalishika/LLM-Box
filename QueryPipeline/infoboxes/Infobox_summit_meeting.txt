@@ -1,0 +1,1 @@
+Infobox_summit_meeting name other_titles logo logo_alt image alt caption country date YYYY MM DD

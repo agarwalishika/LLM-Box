@@ -1,0 +1,1 @@
+Infobox_curling_club name native_name image image_size alt caption image2 image2_size alt2 caption2 motto motto_translation location coord arena_name arena_location arena_coord host_name host_location host_coord established founder club_type closed usca_region uswca_region cca_region sheets rock_colors rock_colours website
