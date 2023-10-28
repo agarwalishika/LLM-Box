@@ -48,6 +48,7 @@ if not os.path.exists(infobox_template_link_file):
 
 if not os.path.exists(infobox_templates_file):
     filter_text = "{{Infobox"
+    
     def get_fields(temp):
         try:
             x = temp.index(filter_text)
