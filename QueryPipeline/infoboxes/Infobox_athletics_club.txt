@@ -1,0 +1,1 @@
+Infobox_athletics_club name type native_name native_name_lang image image_border image_size alt caption fullname short founded YYYY MM DD df=y

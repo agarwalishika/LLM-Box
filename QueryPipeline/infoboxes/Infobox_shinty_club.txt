@@ -1,0 +1,1 @@
+Infobox_shinty_club clubname image fullname gaelicname nickname founded ground manager chieftain league season position reservemanager reserveleague reserveseason reserveposition pattern_la1 pattern_b1 pattern_ra1 leftarm1 body1 rightarm1 shorts1 socks1 pattern_la2 pattern_b2 pattern_ra2 leftarm2 body2 rightarm2 shorts2 socks2

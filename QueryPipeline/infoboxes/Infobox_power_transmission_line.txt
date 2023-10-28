@@ -1,0 +1,1 @@
+Infobox_power_transmission_line name photo caption map country state province coordinates 0.00000 0.00000 type:landmark_region:US display=inline

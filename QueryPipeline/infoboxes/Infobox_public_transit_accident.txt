@@ -1,0 +1,1 @@
+Infobox_public_transit_accident name image image_size image_alt caption image_map image_map_alt image_map_caption pushpin_map pushpin_map_alt pushpin_map_caption coordinates latitude longitude type:event display=inline,title

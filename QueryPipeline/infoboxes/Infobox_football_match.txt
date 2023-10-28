@@ -1,0 +1,1 @@
+Infobox_football_match title other_titles image alt event caption team1 team1association team1score team2 team2association team2score details date YYYY MM DD df=y

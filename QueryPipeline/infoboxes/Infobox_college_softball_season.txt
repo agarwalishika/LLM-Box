@@ -1,0 +1,1 @@
+Infobox_college_softball_season title duration no_of_games no_of_teams preseason1 DefendingChampions attendance average_attendance TV tournament_link tournament TourneyDuration ConferenceBids WCWSDuration WCWS_link WCWS WCWSChamp WCWSTitleCount WCWSRunnerUp WCWSCount WCWSCoach WCWSCoachCount WCWSMOP MOPTeam prevseason_year nextseason_year

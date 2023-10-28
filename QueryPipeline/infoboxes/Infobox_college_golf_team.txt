@@ -1,0 +1,1 @@
+Infobox_college_golf_team name logo logo_size founded university athletic_director coach coach-tenure mens mens-tenure womens womens-tenure conference division location course par yards nickname color1 color2 color3 hex1 hex2 hex3 NCAAchampion NCAArunnerUp Individualchampion NCAAmatchplay NCAAappearance All-American Conferencechampion Individualconference

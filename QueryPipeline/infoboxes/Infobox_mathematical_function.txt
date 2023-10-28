@@ -1,0 +1,1 @@
+Infobox_mathematical_function name image= imagesize= imagealt= parity= domain= codomain= range= period= zero= plusinf= minusinf= max= min= vr1= f1= vr2= f2= vr3= f3= vr4= f4= vr5= f5= asymptote= root= critical= inflection= fixed= notes

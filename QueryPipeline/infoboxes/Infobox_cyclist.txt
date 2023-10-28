@@ -1,0 +1,1 @@
+Infobox_cyclist name image image_size caption full_name nickname birth_name birth_date birth_place height weight currentteam discipline role ridertype amateuryears1 amateurteam1 amateuryears2 amateurteam2 proyears1 proteam1 proyears2 proteam2 majorwins medaltemplates show-medals

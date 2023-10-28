@@ -1,0 +1,1 @@
+Infobox_badminton_player name image image_size alt caption nickname full_name birth_name country birth_date YYYY MM DD

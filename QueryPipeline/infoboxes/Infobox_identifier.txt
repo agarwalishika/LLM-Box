@@ -1,0 +1,1 @@
+Infobox_identifier name image image_size image_caption image_alt image_border full_name acronym number start_date YYYY MM DD df=y

@@ -1,0 +1,1 @@
+Infobox_storm_IF name image alt caption type maintype formed YYYY MM DD df=y

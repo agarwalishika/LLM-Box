@@ -1,0 +1,1 @@
+Infobox_dog_breed/doc name image image_alt image_caption image2 image_alt2 image_caption2 altname nickname stock country distribution height maleheight femaleheight weight maleweight femaleweight coat colour color litter_size life_span kc_name kc_std kc2_name kc2_std fcistd notrecognised notrecognized extinct note

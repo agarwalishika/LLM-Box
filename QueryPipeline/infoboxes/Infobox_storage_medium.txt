@@ -1,0 +1,1 @@
+Infobox_storage_medium name logo logo_size logo_alt image image_size image_caption image_alt type encoding capacity blocksize read write standard owner manufacturer use dimensions weight extended_from extended_to released discontinued

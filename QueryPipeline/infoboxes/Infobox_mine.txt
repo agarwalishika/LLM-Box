@@ -1,0 +1,1 @@
+Infobox_mine name image width caption alt pushpin_map pushpin_mapsize pushpin_map_alt pushpin_map_caption= pushpin_image pushpin_label pushpin_label_position coordinates latitude N/S longitude E/W display=inline,title

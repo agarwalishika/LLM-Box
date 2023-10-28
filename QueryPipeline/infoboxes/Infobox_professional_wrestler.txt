@@ -1,0 +1,1 @@
+Infobox_professional_wrestler name image image_size image_upright landscape alt caption birth_name birth_date YYYY MM DD

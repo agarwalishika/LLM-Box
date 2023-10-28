@@ -1,0 +1,1 @@
+Infobox_PBA_conference_finals year conference image runnerup runnerup_coach runnerup_games champion champion_coach champion_games date= YYYY MM DD

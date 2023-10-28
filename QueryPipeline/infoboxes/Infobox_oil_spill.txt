@@ -1,0 +1,1 @@
+Infobox_oil_spill name image image_size	= image_caption	= location	= coordinates	= spill_date	= cause operator	= casualties	= volume	= area		= coast

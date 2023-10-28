@@ -1,0 +1,1 @@
+Infobox_WRC_driver name image image_size alt caption nationality full_name birth_date yyyy mm dd

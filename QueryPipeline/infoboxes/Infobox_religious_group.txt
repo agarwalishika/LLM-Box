@@ -1,0 +1,1 @@
+Infobox_religious_group group flag flag_size flag_alt flag_caption image image_size image_alt image_caption population founder regions tablehdr region1 pop1 ref1 region2 pop2 ref2 region3 region31 pop3 pop31 ref3 ref31 religions scriptures languages related-c website notes

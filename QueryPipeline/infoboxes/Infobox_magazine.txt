@@ -1,0 +1,1 @@
+Infobox_magazine title logo logo_size image_file image_size image_alt image_caption editor editor6= editor_title editor_title6= previous_editor staff_writer photographer category frequency format circulation publisher paid_circulation unpaid_circulation circulation_year total_circulation founder founded firstdate YYYY MM DD

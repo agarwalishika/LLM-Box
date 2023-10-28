@@ -1,0 +1,1 @@
+Infobox_cemetery name native_name native_name_lang image image_size alt caption pushpin map_type map_size map_caption mapframe established abandoned closed location country coordinates type style owner size graves interments cremations leases website findagraveid politicalgeo footnotes nrhp embedded

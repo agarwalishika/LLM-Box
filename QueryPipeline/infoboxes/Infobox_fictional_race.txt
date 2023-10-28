@@ -1,0 +1,1 @@
+Infobox_fictional_race name series franchise=; image alt caption first_major first_minor first_issue=; first_date last_major last_minor last_issue= last_date creator based_on character author

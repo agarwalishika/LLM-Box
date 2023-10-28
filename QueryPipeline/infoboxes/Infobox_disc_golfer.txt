@@ -1,0 +1,1 @@
+Infobox_disc_golfer name image image_size caption full_name nickname birth_date YYYY MM DD

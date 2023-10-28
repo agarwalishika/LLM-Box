@@ -1,0 +1,1 @@
+Infobox_molecular_geometry Examples= Image_File=(filename.ext) Symmetry_group= Atom_direction= Bond_angle= mu=

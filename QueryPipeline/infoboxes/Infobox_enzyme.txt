@@ -1,0 +1,1 @@
+Infobox_enzyme name AltNames image image_size caption EC_number CAS_number GO_code

@@ -1,0 +1,1 @@
+Infobox_rail_service box_width name color logo logo_width image image_width alt caption type status locale predecessor first YYYY MM DD df=y

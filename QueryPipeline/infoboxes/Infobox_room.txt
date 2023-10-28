@@ -1,0 +1,1 @@
+Infobox_room name image alt caption building location country coordinates LAT LONG type:landmark display=inline,title

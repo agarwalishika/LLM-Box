@@ -1,0 +1,1 @@
+Infobox_banknote denomination country value unit width_mm height_mm weight_g security_features paper_type years_of_printing nature_of_rarity estimated_value obverse obverse_design obverse_designer obverse_design_date reverse reverse_design reverse_designer reverse_design_date

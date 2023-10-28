@@ -1,0 +1,1 @@
+Infobox_weather_type name= image= imagesize= area season= effect=

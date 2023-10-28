@@ -1,0 +1,1 @@
+Infobox_field_hockey_player/sandbox name image image_size alt caption full_name birth_name birth_date YYYY MM DD df=y

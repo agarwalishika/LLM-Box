@@ -1,0 +1,1 @@
+Infobox_transmitter name image image_upright alt caption map_name map_caption map_relief map_label map_label_position map location mast_height tower_height coordinates gridref built demolished collapsed relay BBC ITV localtv switchover

@@ -1,0 +1,1 @@
+Infobox_gem name image caption type_of_stone weight x.xx carat g

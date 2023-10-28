@@ -1,0 +1,1 @@
+Infobox_mobile_phone name logo logosize logoalt image imagesize alt caption codename aka brand developer manufacturer slogan colors series family modelnumber networks released YYYY MM DD

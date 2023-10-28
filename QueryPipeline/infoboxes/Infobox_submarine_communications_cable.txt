@@ -1,0 +1,1 @@
+Infobox_submarine_communications_cable cable_name map owners key_people landing_points technology design_capacity current_capacity length topology first_use_date YYYY MM DD df=y

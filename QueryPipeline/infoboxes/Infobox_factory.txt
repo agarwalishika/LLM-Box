@@ -1,0 +1,1 @@
+Infobox_factory name image image_size alt caption location_map location_map_size location_map_caption location_map_alt coordinates

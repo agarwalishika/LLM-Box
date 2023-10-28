@@ -1,0 +1,1 @@
+Infobox_polygon name image caption type euler edges schl�fli wythoff coxeter symmetry area angle perimeter dual properties

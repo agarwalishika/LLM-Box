@@ -1,0 +1,1 @@
+Infobox_navigation_satellite_system name= image= image_caption= country= type= status= operator= coverage= precision= satellites_nominal= satellites_current= first_launch= last_launch= launch_total= regime= orbit_height= cost=

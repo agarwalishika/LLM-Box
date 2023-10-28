@@ -1,0 +1,1 @@
+Infobox_Triathlon_World_Cup name numraces menfirst mensecond menthird menmostwins womenfirst womensecond womenthird womenmostwins

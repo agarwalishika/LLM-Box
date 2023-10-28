@@ -1,0 +1,1 @@
+Infobox_climbing_area name alt_name photo photo_width photo_alt photo_caption map map_image map_width map_alt map_caption location nearest_city range coordinates climbing_type height pitches ratings grades rock_type quantity development aspect season elevation ownership access camping classic_climbs stars website

@@ -1,0 +1,1 @@
+Infobox_library name native_name native_name_lang logo logo_size logo_alt image image_size image_upright alt caption country type scope established year month day

@@ -1,0 +1,1 @@
+Infobox_magnetosphere name image image_size alt caption background discovery_ref discoverer discovered field_ref Radius Magnetic Field tilt longitude Period harmonics wind_ref Speed IMF SDensity magnetosphere_ref type Bow Magnetopause Size Magnetotail Ions Plasma Loading Plasma Particle aurora_ref Spectrum Power Radio

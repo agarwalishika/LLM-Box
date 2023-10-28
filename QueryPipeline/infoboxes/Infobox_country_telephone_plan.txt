@@ -1,0 +1,1 @@
+Infobox_country_telephone_plan country country_link continent map_image map_caption map_size map_alt regulator plan_membership plan_type nsn_length number_format plan_link plan_date country_calling_code international_prefix trunk_prefix codes_list

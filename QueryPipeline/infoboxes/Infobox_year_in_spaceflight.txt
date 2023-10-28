@@ -1,0 +1,1 @@
+Infobox_year_in_spaceflight year= first= last= total= success= failed= partial= uncertain catalogued= landings= firstflight= firstsat= firstlaunch= firsttrav= firstsublaunch= maidens= retired= orbital= orbitcrew= suborbital= suborbitcrew= totalcrew= EVAs=

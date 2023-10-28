@@ -1,0 +1,1 @@
+Infobox_fault name other_name namedfor namedby yeardef image image_size image_alt image_caption pushpin_map

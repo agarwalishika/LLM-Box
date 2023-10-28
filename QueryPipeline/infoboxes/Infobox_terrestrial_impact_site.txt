@@ -1,0 +1,1 @@
+Infobox_terrestrial_impact_site name other_name photo photo_size photo_alt photo_caption map map_alt map_caption map_size location label label_position coordinates coordinates_ref confidence diameter depth rise imp_size age exposed drilled bolide translation language pronunciation topo access country state province district municipality module

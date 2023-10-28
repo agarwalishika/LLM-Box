@@ -1,0 +1,1 @@
+Infobox_plant_disease color name image caption common_names causal_agents hosts vectors EPPO_code second_EPPO_code distribution symptoms treatment

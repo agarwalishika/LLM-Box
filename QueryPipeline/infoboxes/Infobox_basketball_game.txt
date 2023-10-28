@@ -1,0 +1,1 @@
+Infobox_basketball_game game_name image visitor home visitor_total home_total visitor_per1 visitor_per2 visitor_per3 visitor_per4 visitor_OT visitor_OT2 visitor_OT3 home_per1 home_per2 home_per3 home_per4 home_OT home_OT2 home_OT3 date officials Alice Bob Charles

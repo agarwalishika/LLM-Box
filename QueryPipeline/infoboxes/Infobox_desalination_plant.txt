@@ -1,0 +1,1 @@
+Infobox_desalination_plant name image image_size alt caption location_map location_map_width location_map_text location location coordinates

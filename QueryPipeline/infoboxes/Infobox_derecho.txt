@@ -1,0 +1,1 @@
+Infobox_derecho name image alt image radar radaralt radar date duration= durationref track trackref wind windloc windref windest= windestloc windestref hail hailloc hailref tornadoes torloc torref fscale ef casualties casualtiesref fatalities fatalref damage damageref damagetype dmgtyperef areas areasref worstareas worstareasref series related

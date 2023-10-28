@@ -1,0 +1,1 @@
+Infobox_book_series name image image_caption books author editors title_orig translator illustrator cover_artist country language discipline genre= publisher pub_date english_pub_date media_type number_of_books list_books oclc preceded followed website

@@ -1,0 +1,1 @@
+Infobox_First_Tech_Challenge_game game_title logo year number_teams number_qual_tournaments number_champ_tournaments championship_location champions inspire_winner think_winner innovate_winner motivate_winner connect_winner design_winner control_winner promote_winner homepage altlogo altlogocaption below prevseason nextseason

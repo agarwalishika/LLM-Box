@@ -1,0 +1,1 @@
+Infobox_fictional_artifact name image image_size alt caption source source_type company first first_ep first_type date creator episode_creator based_on adapted_by genre type owner uses traits affiliation

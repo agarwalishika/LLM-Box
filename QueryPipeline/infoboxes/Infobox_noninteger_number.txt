@@ -1,0 +1,1 @@
+Infobox_non-integer_number title= rationality= symbol= decimal= algebraic= continued_fraction= continued_fraction_linear= continued_fraction_periodic= continued_fraction_finite= binary= hexadecimal=

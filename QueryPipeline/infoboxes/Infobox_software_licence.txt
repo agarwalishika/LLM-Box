@@ -1,0 +1,1 @@
+Infobox_software_licence name image caption author version publisher date spdx OSI Debian FSF GPL copyleft linking website deprecated

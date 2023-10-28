@@ -1,0 +1,1 @@
+Infobox_document document_name image image_size image_alt caption image2 image2_size image2_alt caption2 orig_lang_code title_orig date_created date_presented date_ratified date_effective date_repeal date_superseded location_of_document commissioned writer signers media_type subject purpose official_website wikisource wikisource1 wikisource2 wikisource3 wikisource4 wikisource5

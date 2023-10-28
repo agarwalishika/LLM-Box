@@ -1,0 +1,1 @@
+Infobox_ecoregion name image image_size image_alt caption map map_size map_alt map_caption biogeographic_realm biome animals bird_species mammal_species border borders area country countries state region_type elevation coordinates geology seas rivers climate soil conservation global200 habitat_loss habitat_loss_ref protected protected_ref embedded

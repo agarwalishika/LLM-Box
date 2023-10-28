@@ -1,0 +1,1 @@
+Infobox_military_operation name partof subtitle image image_upright alt caption scope type location location2 coordinates coordinates2 map_type map_size map_caption map_label map_label2 planned planned_by commanded_by objective target date YYYY MM DD df=y

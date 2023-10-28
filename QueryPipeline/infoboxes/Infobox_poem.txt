@@ -1,0 +1,1 @@
+Infobox_poem name image image_size caption subtitle author original_title original_title_lang translator written first illustrator cover_artist country language series subject genre form meter metre rhyme publisher publication_date media_type lines pages size_weight isbn oclc preceded_by followed_by wikisource orig_lang_code native_wikisource

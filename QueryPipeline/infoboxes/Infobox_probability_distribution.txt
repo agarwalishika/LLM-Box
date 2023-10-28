@@ -1,0 +1,1 @@
+Infobox_probability_distribution name type pdf_image cdf_image notation parameters support pdf cdf quantile mean median mode variance mad skewness kurtosis entropy cross_entropy mgf cf pgf fisher moments KLdiv JSDiv

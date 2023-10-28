@@ -1,0 +1,1 @@
+Infobox_titulardiocese titleoverride archbishopric bishopric border jurisdiction name latin local image image_size image_alt caption coat coat_size coat_alt coat_caption flag flag_size flag_alt incumbent incumbent_note style country territory province metropolitan subdivisions headquarters coordinates

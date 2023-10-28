@@ -1,0 +1,1 @@
+Infobox_monoisoform/sandbox isoformCount isoformgroup polymer_type image image_source protein_type structure subunit_genes alias subunit1 nick1 allele1a images1 nick2 allele2a images2 nick3 allele3a images3 nick4 allele4a images4 nick5 allele5a images5 rareIsoforms rnick1 rallele1a rimages1 rnick2 rallele2a rimages2 rnick3 rallele3a rimages3 linkout

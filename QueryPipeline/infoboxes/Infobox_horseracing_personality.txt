@@ -1,0 +1,1 @@
+Infobox_horseracing_personality honorific_prefix name honorific_suffix image image_size image_upright alt caption native_name native_name_lang full_name other_names nickname occupation birth_date YYYY MM DD df=y

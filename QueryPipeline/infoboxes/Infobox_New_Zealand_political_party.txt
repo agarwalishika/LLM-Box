@@ -1,0 +1,1 @@
+Infobox_New_Zealand_political_party name_english name_maori party_logo leader president deputy foundation YYYY MM DD df=y

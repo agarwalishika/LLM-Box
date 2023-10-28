@@ -1,0 +1,1 @@
+Infobox_famine name native_name image image_upright thumbtime caption country location coordinates

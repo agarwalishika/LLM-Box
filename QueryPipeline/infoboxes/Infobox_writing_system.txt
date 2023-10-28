@@ -1,0 +1,1 @@
+Infobox_writing_system name altname type qid SHline SHtype SHform typedesc typedesc-prefix creator date published time official languages fam1 fam2 fam15 print sisters children sample imagesize caption direction direction unicode iso15924 iso15924 footnotes ipa-note

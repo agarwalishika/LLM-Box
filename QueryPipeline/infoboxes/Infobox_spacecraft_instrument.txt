@@ -1,0 +1,1 @@
+Infobox_spacecraft_instrument Name Image Caption Operator Manufacturer Type Function Mission_Duration Began Ceased Webpage Mass Dimensions Number Power_consumption Resolution Spectral_Band Data_Rate Spacecraft SC_Operator Launch Rocket Launch_Site COSPAR Orbit Decay

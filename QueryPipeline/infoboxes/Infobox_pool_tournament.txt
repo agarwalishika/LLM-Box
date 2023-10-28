@@ -1,0 +1,1 @@
+Infobox_pool_tournament tournament_name= dates= startdate= enddate= venue= city= country= organisation= format= Total winners_share= highest_break= defending_champion= winner= runner_up= score= previous= next=

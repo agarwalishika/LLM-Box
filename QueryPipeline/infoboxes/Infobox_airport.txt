@@ -1,0 +1,1 @@
+Infobox_airport name ensign ensign_size ensign_alt nativename nativename-a nativename-r image image_size image_alt caption image2 image2_size image2_alt caption2 IATA ICAO FAA TC LID GPS WMO type owner-oper owner operator city-served location opened YYYY MM DD

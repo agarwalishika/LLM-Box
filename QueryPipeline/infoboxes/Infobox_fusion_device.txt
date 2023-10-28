@@ -1,0 +1,1 @@
+Infobox_fusion_device name fullname image imagetitle type city state country affiliation major_radius 00 m

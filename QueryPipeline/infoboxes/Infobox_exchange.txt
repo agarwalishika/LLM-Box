@@ -1,0 +1,1 @@
+Infobox_exchange name alt_name logo image image_size alt type city country coor founded closed owner key_people currency commodity listings mcap volume indexes homepage footnotes

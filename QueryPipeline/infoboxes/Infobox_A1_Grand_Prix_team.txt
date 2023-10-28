@@ -1,0 +1,1 @@
+Infobox_A1_Grand_Prix_team team_name flag_name country founded seat_holder chairman drivers car_name first_race events championships sprint_wins main_wins poles fastest_laps total_points current_season current_position current_points

@@ -1,0 +1,1 @@
+Infobox_language_family name altname acceptance ethnicity region extinct speakers date ref familycolor fam1 fam2 ... fam15 family ancestor ancestor2 protoname child1 child2 ... child20 children listclass map mapalt mapcaption map2 mapalt2 mapcaption2 mapsize boxsize iso2, iso5 iso6 lingua glotto(2�5) glottoname(2�5) ELP ELPname module notes

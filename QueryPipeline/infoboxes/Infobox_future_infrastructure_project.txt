@@ -1,0 +1,1 @@
+Infobox_future_infrastructure_project property_name location proposer official status type estimated max min planned planned image_name image_size caption osm_id supporters stakeholders opponents geometry footnotes

@@ -1,0 +1,1 @@
+Infobox_comics_creator name name_nonEN nonUS image image_size alt caption birth_name birth_date birth_place death_date death_place nationality nationality2 area alias notable collaborators awards partner spouse children relatives signature signature_alt module website bodyclass

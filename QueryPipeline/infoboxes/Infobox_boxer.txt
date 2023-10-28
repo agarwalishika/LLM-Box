@@ -1,0 +1,1 @@
+Infobox_boxer name image image_size image_border alt caption real_name nickname weight height reach nationality birth_name birth_date year month day

@@ -1,0 +1,1 @@
+Infobox_beer_style name image caption origin yeast alcohol color bitterness originalgravity finalgravity maltpercentage

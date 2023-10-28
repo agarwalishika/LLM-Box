@@ -1,0 +1,1 @@
+Infobox_constituency name type constituency_link parl_name map1 map_size image image_size map_entity map_year caption district region population electorate towns future year abolished members seats elects_howmany party local_council next previous
