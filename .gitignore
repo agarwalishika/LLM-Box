@@ -1,3 +1,4 @@
 *.txt
 pagerank.bz2
 pagerank.rank
+*.sqlite3
