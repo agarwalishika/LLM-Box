@@ -1,1 +1,1 @@
-Infobox_short_story name image caption author title_orig translator country language series genre published_in publication_type publisher media_type pub_date english_pub_date preceded_by followed_by preceded_by_italics followed_by_italics pages wikisource native_wikisource orig_lang_code
+Infobox_short_story name image caption author title_orig translator country language series genre published_in publication_type publisher media_type pub_date english_pub_date preceded_by followed_by preceded_by_italics followed_by_italics wikisource native_wikisource orig_lang_code
