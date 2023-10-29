@@ -1,4 +1,4 @@
-OPENAI_API_KEY = 'hi'
+OPENAI_API_KEY = "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"
 
 infobox_template_link_file = 'infobox_template_links.txt'
 prefix = 'https://en.wikipedia.org'
