@@ -8,3 +8,32 @@ didnt work for /wiki/Template:Infobox_unit
 
 didnt work for /wiki/Template:Infobox_year_in_combat_sports
 
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_mythical_creature
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_medical_condition
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_drug
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_scientist
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_medical_condition
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_drug
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_scientist
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_medical_condition
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_drug
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_scientist
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_medical_condition
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_drug
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_scientist
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_medical_condition
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_drug
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_scientist
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_medical_condition
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_drug
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_scientist
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_medical_condition
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_drug
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict
+didnt work for https://en.wikipedia.org/wiki/Template:Infobox_scientist
