@@ -14,10 +14,15 @@
 """
 import os
 import random
-import webbrowser 
+import webbrowser
+import pickle
+import re
 
 ## CHANGE ME:
-REVIEWER_NAME = "Siddharth"
+REVIEWER_NAME = "Ishika"
+
+with open('articles.pkl', 'rb') as f:
+    ARTICLES = pickle.load(f)
 
 ## DO NOT CHANGE BELOW THIS LINE
 labels = ["ground_truth", "llm_box"]
@@ -151,6 +156,9 @@ def start_new_review(rev_num, label):
     with open(os.path.join(os.getcwd(),"manual_eval",REVIEWER_NAME,f'feedback_{rev_num}.txt'),"+w") as file:
         for q in questions:
             file.write(f'{q}\n\n')
+        article_temp = re.sub(r'[^a-zA-Z0-9,.!?;:(){}|\n"\'-]', ' ', ARTICLES[rev_num])
+        file.write(f'{"".join(["-"]*100)}\n\n{article_temp}\n\n')
+        
     
     generate_visual_infobox(rev_num, label)
     
@@ -159,7 +167,7 @@ def select_label():
     return random.choice(labels)
 
 def generate_visual_infobox(rev_num, label):
-    with open(os.path.join(os.getcwd(), "articles", "generated_infoboxes",label,f"{rev_num}.txt")) as file:
+    with open(os.path.join(os.getcwd(), "./", "generated_infoboxes",label,f"{rev_num}.txt")) as file:
         lines = file.readlines()
         with open(os.path.join(os.getcwd(), "manual_eval", "temp.html"), "+w") as html_file:
             html_file.write(beginning_html)
