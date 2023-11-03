@@ -117,14 +117,14 @@ def setup_review():
 def review_loop():
     i = 0
 
-    user_prompt_string = f"Thank you for reviewing!\n \
-    We have created a file named 'feedback_{i}' for you under 'manual_eval/Your_Name/'\n \
-    Please view the infobox in your browser and answer the question in the feedback doc.\n \
-    You will have to open the wikipedia article for the infobox subject to answer the questions.\n \
-    When you are finished, close the feedback doc and type in the terminal 'continue' to proceed or 'end' to finish."
+    user_prompt_string = """Thank you for reviewing!\n 
+    We have created a file named 'feedback_{i}' for you under 'manual_eval/{reviewer}/'\n 
+    Please view the infobox in your browser and answer the question in the feedback doc.\n 
+    You will have to open the wikipedia article for the infobox subject to answer the questions.\n 
+    When you are finished, close the feedback doc and type in the terminal 'continue' to proceed or 'end' to finish."""
     label = select_label()
     start_new_review(i, label)
-    print(user_prompt_string)
+    print(user_prompt_string.format(i=i, reviewer=REVIEWER_NAME))
 
     while True:
         user_input = input("Type 'continue' to proceed or 'end' to stop: ")
@@ -133,7 +133,7 @@ def review_loop():
             i += 1
             label = select_label()
             start_new_review(i, label)
-            print(user_prompt_string)
+            print(user_prompt_string.format(i=i, reviewer=REVIEWER_NAME))
             # The loop will continue
         elif user_input.lower() == "end":
             finish_single_review(i, label)
