@@ -176,7 +176,11 @@ def generate_visual_infobox(rev_num, label):
                     line = line.replace("|","")
                     parts = line.split("   ") if label == "ground_truth" else line.split(" = ")
                     key = parts[0]
-                    value = parts[1]
+                    try:
+                        value = parts[1]
+                    except:
+                        print(f"ERROR ERROR ERROR ERROR parts is: {parts}. if the value is empty, all good, move on. otherwise something is wrong.")
+                        value = "" # there
                     html_file.write(row_template.format(key=key, value=value))
 
             html_file.write(ending_html)
