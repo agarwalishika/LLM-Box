@@ -1,0 +1,59 @@
+{{Infobox drug
+| drug name   Hyperthyroidism
+| type   Medical condition
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category  
+| routes of administration   
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   
+| elimination half-life   
+| duration of action  
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   
+| molecular weight   
+}}
+
+Hyperthyroidism is a medical condition characterized by excessive production of thyroid hormones by the thyroid gland. It is often used interchangeably with the term thyrotoxicosis, which encompasses excessive thyroid hormone production from any cause. Symptoms of hyperthyroidism include irritability, muscle weakness, sleeping problems, a fast heartbeat, heat intolerance, diarrhea, enlargement of the thyroid, hand tremor, and weight loss. Elderly individuals and pregnant women may experience milder symptoms. In rare cases, a life-threatening complication called thyroid storm can occur, leading to confusion and high temperature.
+
+Graves' disease is the most common cause of hyperthyroidism in the United States, accounting for 50  to 80  of cases. Other causes include multinodular goiter, toxic adenoma, thyroid inflammation, excessive iodine intake, and pituitary adenoma. Diagnosis is typically based on signs and symptoms, confirmed through blood tests that show low thyroid stimulating hormone (TSH) and elevated T3 or T4 levels. Additional tests such as radioiodine uptake, thyroid scan, and measurement of antithyroid autoantibodies may help determine the underlying cause.
+
+Treatment options for hyperthyroidism depend on the cause and severity of the condition. The three main treatment approaches are radioiodine therapy, medications, and thyroid surgery. Radioiodine therapy involves oral administration of iodine-131, which gradually destroys the thyroid over several weeks to months. Subsequent hypothyroidism is managed with synthetic thyroid hormone replacement. Medications, such as beta blockers, can help control symptoms, while anti-thyroid medications aim to reduce thyroid hormone production.
+
+Please note that the infobox template does not include fields specific to medical conditions, so some sections may be left blank.

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Europe
+| Image   Flag of Europe.svg
+| Image size   250px
+| Alt   The flag of Europe consists of twelve golden stars forming a circle on a blue field.
+| Use   110000
+| Symbol   Symbol of Europe, Symbol of the European Union
+| Proportion   3:5
+| Adoption   1955 (by the Council of Europe), 1985 (by the European Union)
+| Design   A circle of twelve golden stars on a blue field
+| Designer   Ars ne Heitz
+}}

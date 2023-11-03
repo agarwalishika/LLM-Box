@@ -1,0 +1,27 @@
+{{Infobox Doctor Who episode
+| number   152
+| serial name   Remembrance of the Daleks
+| show   Doctor Who
+| quotes   "To victory, Ace!"
+| type   Serial
+| image   Remembrance of the Daleks.jpg
+| caption   The Doctor and Ace face off against the Daleks
+| image size   250px
+| alt   The Doctor and Ace standing in front of a Dalek
+| doctor   Sylvester McCoy
+| doctors   7th
+| companion   Sophie Aldred
+| companions   Ace
+| cast   
+  Sylvester McCoy as the Doctor
+  Sophie Aldred as Ace
+  Simon Williams as Group Captain Gilmore
+  Dursley McLinden as Mike Smith
+  Pamela Salem as Rachel Jensen
+  Karen Gledhill as Allison Williams
+  George Sewell as Ratcliffe
+| director   Andrew Morgan
+| writer   Ben Aaronovitch
+| based on   
+}}
+

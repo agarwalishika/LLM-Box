@@ -1,0 +1,18 @@
+{{Infobox_mythical_creature
+| name = Dodo
+| image = Dodo.jpg
+| image_size = 250px
+| image_upright = 
+| caption = Illustration of a dodo from the 1865 book Alice's Adventures in Wonderland
+| Grouping = Bird
+| Sub_Grouping = 
+| Similar_entities = 
+| Family = Raphidae
+| Folklore = Fictional character
+| First_Attested = 1865
+| AKA = 
+| Country = Mauritius
+| Region = Indian Ocean
+| Habitat = Island of Mauritius
+| Details = Extinct bird, caricature of Lewis Carroll (Charles Lutwidge Dodgson)
+}}

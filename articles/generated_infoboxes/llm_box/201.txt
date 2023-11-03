@@ -1,0 +1,27 @@
+{{Infobox film
+| name   Army of Darkness
+| image   Army of Darkness poster.jpg
+| alt   The poster features a man holding a shotgun and a chainsaw, surrounded by skeletons and a castle in the background.
+| caption   Theatrical release poster
+| director   Sam Raimi
+| producer   Robert Tapert
+| writer   Sam Raimi
+| screenplay   Sam Raimi
+| story   Sam Raimi
+| based on   Characters by Sam Raimi
+| starring   Bruce Campbell
+Embeth Davidtz
+| music   Joseph LoDuca
+| cinematography   Bill Pope
+| editing   Bob Murawski
+| studio   Renaissance Pictures
+| distributor   Universal Pictures
+| released   
+| runtime   81 minutes
+| country   United States
+| language   English
+| budget    11 million
+| gross    21.5 million
+| preceded by   Evil Dead II (1987)
+| followed by   Evil Dead (2013)
+}}

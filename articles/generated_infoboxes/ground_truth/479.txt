@@ -1,0 +1,7 @@
+{{Infobox 
+| Central pontine myelinolysis   Central pontine myelinolysis 
+| Other names   Osmotic demyelination syndrome, central pontine demyelination 
+| Axial fat-saturated T2-weighted image showing hyperintensity in the pons with sparing of the peripheral fibers, the patient was an alcoholic admitted with a serum Na of 101 treated with hypertonic saline, he was left with quadriparesis, dysarthria, and altered mental status   Axial fat-saturated T2-weighted image showing hyperintensity in the pons with sparing of the peripheral fibers, the patient was an alcoholic admitted with a serum Na of 101 treated with hypertonic saline, he was left with quadriparesis, dysarthria, and altered mental status 
+| Specialty   Neurology 
+| Causes   Alcoholism,malnutrition 
+}}

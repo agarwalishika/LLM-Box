@@ -1,0 +1,40 @@
+{{Infobox film
+| name   Four Weddings and a Funeral
+| image   
+| alt   
+| caption   
+| director   Mike Newell
+| producer   Duncan Kenworthy
+| writer   Richard Curtis
+| starring   Hugh Grant
+Andie MacDowell
+Kristin Scott Thomas
+James Fleet
+Simon Callow
+John Hannah
+Charlotte Coleman
+David Bower
+Corin Redgrave
+Rowan Atkinson
+| music   Richard Rodney Bennett
+| cinematography   Michael Coulter
+| editing   Jon Gregory
+| studio   PolyGram Filmed Entertainment
+Channel Four Films
+| distributor   Gramercy Pictures (US)
+| released   9 March 1994 (UK)
+| runtime   117 minutes
+| country   United Kingdom
+| language   English
+| budget    3 million
+| gross    245.7 million
+| awards   Academy Award for Best Picture (nominated)
+Academy Award for Best Original Screenplay (nominated)
+Golden Globe Award for Best Actor - Motion Picture Musical or Comedy (won)
+BAFTA Award for Best Actor in a Leading Role (won)
+BAFTA Award for Best Film (won)
+BAFTA Award for Best Direction (won)
+BAFTA Award for Best Actress in a Supporting Role (won)
+| website   
+}}
+

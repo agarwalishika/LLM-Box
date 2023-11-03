@@ -1,0 +1,31 @@
+{{Infobox Doctor Who episode
+| number   88
+| serial name   The Deadly Assassin
+| show   Doctor Who
+| quotes   "The Time Lords are an immensely civilized race. We can control our own environment, we can live forever, barring accidents and we have the secret of space-time travel."
+| type   Serial
+| image   The Deadly Assassin.jpg
+| caption   The Doctor on the catwalk with the rifle
+| image size   250px
+| alt   The Doctor holding a rifle on a catwalk
+| doctor     Tom Baker   (Fourth Doctor)
+| doctors     Tom Baker   (Fourth Doctor)
+| companion   None
+| companions   None
+| cast   
+    Tom Baker   as the   Fourth Doctor  
+    Peter Pratt   as the   Master (Doctor Who)|Master  
+    Bernard Horsfall   as   Chancellor Goth  
+    Angus MacKay   as   Castellan Spandrell  
+| director     David Maloney  
+| writer     Robert Holmes  
+| producer     Philip Hinchcliffe  
+| executive producer     None  
+| composer     Dudley Simpson  
+| production code   4R
+| series     Doctor Who (season 14)|Season 14  
+| length   4 episodes, 25 minutes each
+| original airdate   30 October   20 November 1976
+| precedes   "  The Hand of Fear  "
+| follows   "  The Face of Evil  "
+}}

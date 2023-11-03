@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Legend of Sleepy Hollow
+| image   
+| caption   
+| author   Washington Irving
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Horror, Gothic fiction
+| published in   The Sketch Book of Geoffrey Crayon, Gent
+| publication type   Collection of essays and short stories
+| publisher   
+| media type   Print
+| pub date   1820
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Oregon
+| Image   Flag of Oregon.svg
+| Image size   200px
+| Alt   The flag of Oregon
+| Use   110000
+| Symbol   
+| Proportion   3:5
+| Adoption   February 26, 1925
+| Design   A two-sided flag in navy blue and gold with an optional gold fringe. On the front is the escutcheon from the state seal and on the reverse is a gold figure of a beaver, the state animal.
+| Designer   
+}}

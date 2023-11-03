@@ -1,0 +1,20 @@
+{{Infobox book
+| name   Darwin's Dangerous Idea: Evolution and the Meanings of Life
+| image   
+| image size   
+| image upright   
+| caption   
+| author   Daniel Dennett
+| language   English
+| subject   Evolutionary biology, Philosophy of science
+| genre   Non-fiction
+| publisher   Simon   Schuster
+| pub date   1995
+| media type   Print (Hardcover and Paperback)
+| pages   
+| isbn   0-684-80290-2
+| oclc   31767333
+| preceded by   Consciousness Explained
+| followed by   
+| awards   Finalist for the 1995 National Book Award in non-fiction and the 1996 Pulitzer Prize for General Non-Fiction
+}}

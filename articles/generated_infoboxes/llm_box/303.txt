@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   On Fairy-Stories
+| image   
+| caption   
+| author   J. R. R. Tolkien
+| title orig   
+| translator   
+| country   United Kingdom
+| language   English
+| series   
+| genre   Essay
+| published in   
+| publication type   Lecture
+| publisher   University of St Andrews
+| media type   Print
+| pub date   1939
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

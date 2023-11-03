@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Sierra Leone
+| Image   Flag of Sierra Leone.svg
+| Image size   250px
+| Alt   National flag of Sierra Leone
+| Use   National flag
+| Symbol   
+| Proportion   2:3
+| Adoption   27 April 1961
+| Design   A tricolour consisting of three horizontal green, white and blue bands
+| Designer   College of Arms
+}}

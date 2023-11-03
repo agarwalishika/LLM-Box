@@ -1,0 +1,23 @@
+{{Infobox medical intervention
+| name   Bipolar disorder
+| synonyms   Manic depression
+| image   
+| caption   
+| alt   
+| specialty   Psychiatry
+| symptoms   Periods of depression and periods of abnormally elevated mood
+| complications   Suicide, self-harm, anxiety disorders, substance use disorders
+| causes   Genetic and environmental factors
+| risk factors   Childhood abuse, long-term stress
+| diagnosis   Based on symptoms and history
+| differential diagnosis   Attention deficit hyperactivity disorder, 
+| treatment   Medication, psychotherapy, lifestyle changes
+| prognosis   Chronic condition with periods of remission and relapse
+| frequency    2  of the population
+| deaths   6  by suicide over 20 years
+| medication   Mood stabilizers, antipsychotics, antidepressants
+| related conditions   Cyclothymia, bipolar I disorder, bipolar II disorder
+| prevention   Early intervention, stress management
+| notable cases   
+| website   
+}}

@@ -1,0 +1,17 @@
+{{Infobox book
+| name   The Ones Who Walk Away from Omelas
+| image   
+| caption   
+| author   Ursula K. Le Guin
+| country   United States
+| language   English
+| genre   Philosophical fiction
+| publisher   
+| pub date   1973
+| media type   Print (hardcover and paperback)
+| pages   
+| awards   Hugo Award for Best Short Story (1974)
+| isbn   
+| preceded by   
+| followed by   
+}}

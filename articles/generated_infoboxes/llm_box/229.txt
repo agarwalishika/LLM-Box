@@ -1,0 +1,26 @@
+{{Infobox film
+| name   Fearless
+| image   
+| caption   Theatrical release poster
+| director   Peter Weir
+| producer   Mark Rosenberg
+| writer   Rafael Yglesias
+| based on   ''Fearless'' by Rafael Yglesias
+| starring   Jeff Bridges
+Isabella Rossellini
+Rosie Perez
+John Turturro
+| music   Maurice Jarre
+| cinematography   Allen Daviau
+| editing   William M. Anderson
+| studio   Spring Creek Productions
+| distributor   Warner Bros.
+| released   September 24, 1993
+| runtime   122 minutes
+| country   United States
+| language   English
+| budget    30 million
+| gross    7.5 million
+| awards   
+| website   
+}}

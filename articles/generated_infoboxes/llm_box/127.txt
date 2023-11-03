@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Erymanthian boar
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Legendary creature
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   Greek mythology
+| First Attested   
+| AKA   Aper Erymanthius
+| Country   Greece
+| Region   Arcadia
+| Habitat   Glens of Lampeia, Mount Erymanthos
+| Details   A mythical creature in Greek mythology, the Erymanthian boar was a shaggy and wild boar of vast weight and foaming jaws. It was known to be tameless and lived in the thick-wooded heights of Erymanthus. The boar would sally from its habitat to harry the groves of Arcady and abuse the land of Psophis. It was captured by Heracles as part of his fourth labor and brought alive to Eurystheus in Mycenae. The tusks of the boar are said to be preserved in the sanctuary of Apollo at Cumae, although this claim is considered unlikely. The Erymanthian boar was associated with Artemis and was believed to be sent by her as a punishment to lay waste to farmers' fields.
+}}

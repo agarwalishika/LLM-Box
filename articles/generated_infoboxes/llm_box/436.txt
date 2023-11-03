@@ -1,0 +1,21 @@
+{{Infobox Doctor Who episode
+| number   127
+| serial name   Enlightenment
+| show   Doctor Who
+| quotes   "I am not a number, I am a free man!"
+| type   Science fiction
+| image   Enlightenment.jpg
+| caption   The Doctor and his companions aboard the Edwardian yacht
+| image size   250px
+| alt   The Doctor and his companions aboard the Edwardian yacht
+| doctor     Fifth Doctor|5th  
+| doctors   Peter Davison
+| companion     Tegan Jovanka  ,   Vislor Turlough  
+| companions   Janet Fielding, Mark Strickson
+| cast   
+| doctor   Peter Davison
+| guests   Valentine Dyall
+| director   Fiona Cumming
+| writer   Barbara Clegg
+| based on   
+}}

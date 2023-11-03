@@ -1,0 +1,31 @@
+{{Infobox film
+| name   Son of Godzilla
+| image   Son of Godzilla poster.jpg
+| alt   
+| caption   Japanese theatrical release poster
+| native name                
+| language   Japanese
+| title   Kaij -t  no Kessen: Gojira no Musuko
+| director   Jun Fukuda
+| producer   Tomoyuki Tanaka
+| writer   Shinichi Sekizawa
+| starring   Tadao Takashima
+Akira Kubo
+Akihiko Hirata
+Beverly Maeda
+| music   Masaru Sato
+| cinematography   Kazuo Yamada
+| editing   Michiko Ikeda
+| studio   Toho Co., Ltd
+| distributor   Toho Co., Ltd
+| released   
+  December 16, 1967 (Japan)
+  1969 (United States)
+| runtime   86 minutes
+| country   Japan
+| language   Japanese
+| budget   
+| gross   
+| preceded by   Godzilla vs. the Sea Monster
+| followed by   Destroy All Monsters
+}}

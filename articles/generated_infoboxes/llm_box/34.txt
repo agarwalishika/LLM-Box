@@ -1,0 +1,23 @@
+{{Infobox character
+| name   Kathryn Janeway
+| image   Kate Mulgrew as Captain Janeway.jpg
+| caption   Kate Mulgrew as Captain Janeway
+| series   Star Trek
+| first   "Caretaker"
+| last   Star Trek: Prodigy
+| portrayer   Kate Mulgrew
+| creator   Rick Berman, Michael Piller, Jeri Taylor
+| species   Human
+| gender   Female
+| occupation   Starfleet captain
+| rank   Vice admiral
+| affiliation   Starfleet
+| ship   USS Voyager, USS Dauntless
+| significant other   None
+| children   None
+| relatives   None
+| nationality   United Federation of Planets
+| years active   1995 2002, 2021 present
+| appeared in   Star Trek: Voyager, Star Trek: Nemesis, Star Trek: Prodigy
+| based on   Original character
+}}

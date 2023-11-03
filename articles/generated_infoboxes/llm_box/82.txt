@@ -1,0 +1,34 @@
+{{Infobox pharaoh
+| name   Death of the Endless
+| image   Death of the Endless.jpg
+| image alt   A depiction of Death of the Endless
+| caption   Death of the Endless, as depicted in The Sandman
+| role   Personification of death and psychopomp
+| reign   N A
+| coregency   N A
+| predecessor   N A
+| successor   N A
+| notes   
+| prenomen   Teleute
+| prenomen hiero   
+| nomen   Death
+| nomen hiero   
+| horus   
+| horus prefix   
+| horus hiero   
+| nebty   
+| nebty hiero   
+| golden   
+| golden hiero   
+| spouse   N A
+| children   N A
+| dynasty   N A
+| father   N A
+| mother   N A
+| birth date   N A
+| birth place   N A
+| death date   N A
+| death place   N A
+| burial   N A
+| monuments   The Sunless Lands
+}}

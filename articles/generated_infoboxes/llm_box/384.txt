@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Burkina Faso
+| Image   Flag of Burkina Faso.svg
+| Image size   250px
+| Alt   National flag of Burkina Faso
+| Use   National flag
+| Symbol   
+| Proportion   2:3
+| Adoption   4 August 1984
+| Design   Two horizontal bands of red and green with a yellow five-pointed star in the center
+| Designer   
+}}

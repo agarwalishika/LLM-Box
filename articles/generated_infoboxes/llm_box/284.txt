@@ -1,0 +1,238 @@
+{{Infobox book
+| name   Free to Choose: A Personal Statement
+| image   
+| image size   
+| alt   
+| caption   
+| author   Milton Friedman and Rose D. Friedman
+| country   United States
+| language   English
+| subject   Economics, Free market principles
+| genre   Non-fiction
+| publisher   Harcourt Brace Jovanovich
+| pub date   January 1980
+| media type   Print (Hardcover and Paperback)
+| pages   297
+| isbn   0-15-633460-7
+| oclc   4496348
+| preceded by   
+| followed by   
+}}
+
+{{Infobox television
+| show name   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| genre   Documentary
+| creator   Milton Friedman
+| based on   ''Free to Choose: A Personal Statement'' by Milton Friedman and Rose D. Friedman
+| presenter   Milton Friedman
+| narrated   Milton Friedman
+| theme music composer   
+| opentheme   
+| endtheme   
+| composer   
+| country   United States
+| language   English
+| num seasons   
+| num episodes   10
+| list episodes   
+| executive producer   
+| producer   
+| editor   
+| location   
+| cinematography   
+| camera   
+| runtime   
+| company   
+| distributor   
+| channel   PBS
+| picture format   
+| audio format   
+| first aired   January 1980
+| last aired   
+| preceded by   
+| followed by   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}
+
+{{Infobox television episode
+| title   
+| series   Free to Choose
+| image   
+| image size   
+| alt   
+| caption   
+| season   
+| episode   
+| director   
+| writer   
+| producer   
+| cinematography   
+| editor   
+| guest debaters   
+| aired   
+| prev   
+| next   
+}}

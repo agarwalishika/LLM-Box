@@ -1,0 +1,14 @@
+{{Infobox 
+| HAL 9000   HAL 9000 
+| Space Odyssey character   Space Odyssey character 
+| First appearance   2001: A Space Odyssey(1968) 
+| Last appearance   3001: The Final Odyssey(1997) 
+| Created by   Arthur C. ClarkeStanley Kubrick 
+| Adapted by   Stanley Kubrick 
+| Voiced by   Douglas Rain 
+| In-universe information   In-universe information 
+| Nickname   HAL 
+| Species   Computer 
+| Gender   N A (malevocals and pronouns) 
+| Relatives   HAL 100002   Ground based HAL 9000 used by Mission Control 1 SAL 9000 
+}}

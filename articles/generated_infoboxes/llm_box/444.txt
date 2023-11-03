@@ -1,0 +1,31 @@
+{{Infobox Doctor Who episode
+| number   37
+| serial name   The Tomb of the Cybermen
+| show   Doctor Who
+| quotes   "Emotions, love, pride, hate, fear. Have you no emotions, sir?"
+| type   Serial
+| image   Tomb of the Cybermen.jpg
+| caption   The Cybermen emerging from their tombs
+| image size   250px
+| alt   A black and white image of the Cybermen
+| doctor   Second
+| doctors   Patrick Troughton
+| companion   Jamie McCrimmon, Victoria Waterfield
+| companions   Frazer Hines, Deborah Watling
+| cast   
+  Patrick Troughton as the Doctor
+  Frazer Hines as Jamie McCrimmon
+  Deborah Watling as Victoria Waterfield
+  George Pastell as Eric Klieg
+  Shirley Cooklin as Kaftan
+| guests   
+  Clive Merrison as Jim Callum
+  Cyril Shaps as Viner
+  Bernard Holley as Peter Haydon
+  George Roubicek as Captain Hopper
+  Alan Johns as Toberman
+| director   Morris Barry
+| writer   Kit Pedler, Gerry Davis
+| based on   
+}}
+

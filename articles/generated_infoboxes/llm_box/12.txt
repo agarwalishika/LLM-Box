@@ -1,0 +1,31 @@
+{{Infobox scientist
+| honorific prefix   Dr.
+| name   Fu Manchu
+| honorific suffix   
+| native name          
+| native name lang   Chinese
+| image   
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| nationality   Chinese
+| occupation   Supervillain, criminal mastermind, mad scientist
+| known for   Dr. Fu Manchu series
+| notable works   The Mystery of Dr. Fu-Manchu, The Devil Doctor, The Si-Fan Mysteries
+| years active   1912 1959
+| influences   Chung Ling Soo, Bayard Taylor
+| influenced   Archetype of evil criminal genius and mad scientist
+| spouse   
+| children   
+| awards   
+| signature   
+| signature alt   
+| website   
+}}

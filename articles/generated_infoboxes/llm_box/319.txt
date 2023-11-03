@@ -1,0 +1,23 @@
+{{Infobox film
+| name   The Man Who Would Be King
+| image   
+| alt   
+| caption   
+| director   
+| producer   
+| screenplay   
+| based on   "The Man Who Would Be King" by Rudyard Kipling
+| starring   
+| music   
+| cinematography   
+| editing   
+| studio   
+| distributor   
+| released   
+| runtime   
+| country   
+| language   
+| budget   
+| gross   
+| title   
+}}

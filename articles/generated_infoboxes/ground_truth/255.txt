@@ -1,0 +1,9 @@
+{{Infobox 
+| Author   David Hume 
+| Language   English 
+| Subject   Philosophy 
+| Publication date   1748 
+| Preceded by   A Treatise of Human Nature 
+| Followed by   An Enquiry Concerning the Principles of Morals 
+| Text   An Enquiry Concerning Human UnderstandingatWikisource 
+}}

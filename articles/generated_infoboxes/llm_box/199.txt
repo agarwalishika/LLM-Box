@@ -1,0 +1,15 @@
+{{Infobox football award
+| name   Trofeo Pichichi
+| image   
+| caption   
+| presenter   Marca
+| country   Spain
+| year   1952 present
+| holder   Lionel Messi
+| holderclub   Barcelona
+| mostwins   Lionel Messi (8)
+| mostwinsclub   Barcelona
+| mostwinscountry   Argentina
+| website   
+| notes   The Pichichi Trophy is awarded to the top goalscorer of each La Liga season in Spanish football. It is named after the Athletic Bilbao striker Rafael "Pichichi" Moreno. The trophy has been awarded annually since the 1952 53 season. All top scorers who preceded the award's creation were retroactively named Pichichi winners by Marca. Since the 2014 15 season, the top scorer of the Liga Iberdrola is also awarded the Pichichi Trophy. The Pichichi is not officially recognized by the Liga Nacional de F tbol Profesional, the league's governing body. The award is based on Marca's subjective criteria and may differ from the official match delegate reports. Lionel Messi holds the record for the most wins with eight, all achieved with Barcelona.
+}}

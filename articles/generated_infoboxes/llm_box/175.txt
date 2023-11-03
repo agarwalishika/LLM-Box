@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Pritzker Architecture Prize
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Recognizing significant contributions to humanity and the built environment through the art of architecture
+| sponsor   Hyatt Foundation
+| date   Annually
+| YYYY   1979
+| MM   
+| DD   
+}}

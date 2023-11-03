@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of the Russian SFSR
+| Image   Flag of the Russian Soviet Federative Socialist Republic.svg
+| Image size   200px
+| Alt   Flag of the Russian SFSR
+| Use   110000
+| Symbol   Hammer and sickle, red star
+| Proportion   1:2
+| Adoption   14 April 1918 (first version), February 1947 (current version)
+| Design   A red rectangular sheet with a light-blue stripe at the pole extending the full width, constituting one eighth of the flag's length. The hammer and sickle, along with a red star, are placed in the upper hoist-side corner.
+| Designer   
+}}

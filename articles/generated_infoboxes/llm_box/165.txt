@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Purple Heart
+| subheader   Military decoration
+| current awards   Ongoing
+| image   Purple Heart medal 3D.png
+| image size   150px
+| image upright   
+| alt   A purple heart-shaped medal with a gold border and a profile of George Washington in the center
+| caption   The Purple Heart medal
+| awarded for   Being wounded or killed while serving in the U.S. military
+| sponsor   President of the United States
+| date   7 August 1782 (establishment)
+| YYYY   
+| MM   
+| DD   
+}}

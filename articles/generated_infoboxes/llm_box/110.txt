@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Thunderbird
+| image   Thunderbird.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of a Thunderbird
+| Grouping   Legendary creature
+| Sub Grouping   
+| Similar entities   Bigfoot, Loch Ness Monster
+| Family   
+| Folklore   North American indigenous peoples
+| First Attested   
+| AKA   
+| Country   United States, Canada
+| Region   Pacific Northwest Coast, American Southwest, East Coast, Great Lakes, Great Plains
+| Habitat   
+| Details   The Thunderbird is a legendary creature in the history and culture of North American indigenous peoples. It is considered a supernatural being of power and strength. It is frequently depicted in the art, songs, and oral histories of many Pacific Northwest Coast cultures, as well as among some peoples of the American Southwest, East Coast of the United States, Great Lakes, and Great Plains. In modern times, it has gained notoriety as a purported cryptid.
+}}

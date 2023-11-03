@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Little Mermaid
+| image   
+| caption   Illustration by Vilhelm Pedersen, Andersen's first illustrator
+| author   Hans Christian Andersen
+| title orig   Den lille havfrue
+| translator   
+| country   Denmark
+| language   Danish
+| series   
+| genre   Fairy tale
+| published in   Fairy Tales Told for Children. First Collection. Third Booklet.
+| publication type   Collection of fairy tales
+| publisher   C.A. Reitzel
+| media type   Print
+| pub date   1837
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   The Little Mermaid
+| native wikisource   
+| orig lang code   da
+}}

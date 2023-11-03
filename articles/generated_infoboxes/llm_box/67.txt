@@ -1,0 +1,46 @@
+{{Infobox comics character
+| character name   Hulk
+| image   Hulk.jpg
+| imagesize   250px
+| caption   The Hulk, as depicted in The Incredible Hulk  1 (May 1962)
+| publisher   Marvel Comics
+| debut   The Incredible Hulk  1 (May 1962)
+| creators   Stan Lee, Jack Kirby
+| voiced by   Various actors
+| first series   The Marvel Super Heroes (1966)
+| first episode   "The Origin of the Hulk"
+| first comic   The Incredible Hulk  1 (May 1962)
+| real name   Robert Bruce Banner
+| alter   Hulk
+| alter ego   Dr. Robert Bruce Banner
+| full name   Robert Bruce Banner
+| full   Robert Bruce Banner (Hulk)
+| species   Human
+| homeworld   Earth
+| alliances   Avengers
+| affiliations   S.H.I.E.L.D., Defenders
+| supports   Betty Ross, Rick Jones, She-Hulk, Doc Samson
+| aliases   Joe Fixit, War, World-Breaker, the Devil Immortal, Doc Green
+| powers   Superhuman strength, durability, and regeneration
+| partners   Iron Man, Thor, Captain America
+| IOM alter ego   Hulk
+| IOM full name   Robert Bruce Banner
+| IOM alliances   Avengers
+| IOM partners   Iron Man, Thor, Captain America
+| IOM aliases   Joe Fixit, War, World-Breaker, the Devil Immortal, Doc Green
+| IOM powers   Superhuman strength, durability, and regeneration
+| sortkey   Hulk
+| subcat   Marvel Comics superheroes
+| cat   Fictional characters with dissociative identity disorder
+| hero   yes
+| villain   no
+| altcat   Gamma-irradiated characters
+| addcharcat1   Fictional characters with superhuman strength
+| addcharcat2   Fictional characters with accelerated healing
+| addcharcat3   Fictional characters with alter egos
+| addcharcat4   Fictional characters with multiple personalities
+| addcharcat5   Fictional characters with anger issues
+| addcharcat6   Fictional characters with gamma-ray exposure
+| noimage   no
+| converted   yes
+}}

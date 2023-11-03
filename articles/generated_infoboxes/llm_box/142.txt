@@ -1,0 +1,17 @@
+{{Infobox film
+| name   Lich
+| image   
+| alt   
+| caption   
+| native name   
+| language   English
+| title   Lich
+| genre   Fantasy fiction
+| based on   Various works of fantasy fiction, such as Clark Ashton Smith's "The Empire of the Necromancers" (1932)
+| creator   Gary Gygax and Rob Kuntz
+| first appearance   Greyhawk (1976 Dungeons   Dragons role-playing game booklet)
+| abilities   Retains previous intelligence and magical abilities, holds power over lesser mindless undead soldiers and servants
+| distinguishing feature   Achieves immortality by giving up their soul to form "soul-artifacts" (soul gem, phylactery, or horcrux)
+| notable works   Greyhawk (Dungeons   Dragons)
+| related   Zombies, undead creatures
+}}

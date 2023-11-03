@@ -1,0 +1,16 @@
+{{Infobox award
+| name   National Book Awards
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Recognizing outstanding literary works
+| sponsor   National Book Foundation
+| date   November
+| YYYY   
+| MM   
+| DD   
+}}

@@ -1,0 +1,48 @@
+{{Infobox comics character
+| character name   Joe Bonham
+| image   
+| imagesize   
+| image size   
+| alt   
+| caption   
+| publisher   
+| debut   
+| creators   Dalton Trumbo
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   Joe Bonham
+| alter   
+| alter ego   
+| full name   Joe Bonham
+| full   Joe Bonham
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   
+| powers   None
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

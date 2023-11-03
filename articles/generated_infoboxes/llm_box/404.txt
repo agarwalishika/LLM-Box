@@ -1,0 +1,32 @@
+{{Infobox Doctor Who episode
+| number   79
+| serial name   Invasion of the Dinosaurs
+| show   Doctor Who
+| type   Serial
+| image   File:Doctor Who Invasion of the Dinosaurs.jpg
+| caption   Title card
+| image size   250px
+| alt   
+| doctor   Third
+| doctors   Jon Pertwee
+| companion   Sarah Jane Smith
+| companions   Elisabeth Sladen
+| cast   
+| doctor   Jon Pertwee
+| guests   Noel Johnson
+John Bennett
+Martin Jarvis
+Peter Miles
+| director   Paddy Russell
+| writer   Malcolm Hulke
+| producer   Barry Letts
+| executive producer   
+| composer   Dudley Simpson
+| production code   
+| series   Series 11
+| length   6 episodes, 25 minutes each
+| episode list   List of Doctor Who episodes (1963 1989)
+| prev     Carnival of Monsters  
+| next     Death to the Daleks  
+}}
+

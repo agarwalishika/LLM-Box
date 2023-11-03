@@ -1,0 +1,26 @@
+{{Infobox character
+| name   Beverly Crusher
+| image   
+| caption   Gates McFadden as Beverly Crusher
+| series   Star Trek
+| first   "Encounter at Farpoint" (1987)
+| last   Star Trek: Picard (2020)
+| portrayer   Gates McFadden
+| creator   Gene Roddenberry
+| occupation   Chief Medical Officer
+| species   Human
+| gender   Female
+| birth date   October 13, 2324
+| birth place   Copernicus City, Luna
+| nationality   Scottish-American
+| residence   
+| relatives   Felisa Howard (grandmother)
+| affiliation   Starfleet
+| starship   USS Enterprise-D
+| USS Enterprise-E
+| significant other   
+| children   
+| religion   
+| lbl21   
+| data21   
+}}

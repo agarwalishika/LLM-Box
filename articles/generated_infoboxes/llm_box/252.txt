@@ -1,0 +1,25 @@
+{{Infobox short story
+| name   A Modest Proposal
+| image   
+| caption   
+| author   Jonathan Swift
+| title orig   A Modest Proposal For preventing the Children of Poor People From being a Burthen to Their Parents or Country, and For making them Beneficial to the Publick
+| translator   
+| country   Ireland
+| language   English
+| genre   Satire
+| published in   
+| publication type   Essay
+| publisher   Anonymous
+| media type   Print
+| pub date   1729
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

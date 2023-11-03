@@ -1,0 +1,24 @@
+{{Infobox_character
+| name = Hercule Poirot
+| series = Hercule Poirot
+| franchise = Agatha Christie
+| image = File:Hercule Poirot by Tom Adams.jpg
+| alt = A portrait of Hercule Poirot
+| caption = Hercule Poirot, as depicted by Tom Adams
+| first_major = The Mysterious Affair at Styles
+| first_minor = 
+| first_issue = 
+| first_date = 1920
+| first = 
+| last_major = Curtain: Poirot's Last Case
+| last_minor = 
+| last_issue = 
+| last_date = 1975
+| last = 
+| creator = Agatha Christie
+| based_on = Hercule Popeau and Monsieur Poiret
+| character = Fictional detective
+| author = Agatha Christie
+}}
+
+Note: The "series" field can be left blank if there is no specific series associated with the character. Similarly, the "franchise" field can be left blank if there is no broader franchise associated with the character.

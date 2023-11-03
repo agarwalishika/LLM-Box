@@ -1,0 +1,27 @@
+{{Infobox Doctor Who episode
+| number   63
+| serial name   The Mutants
+| show   Doctor Who
+| type   Serial
+| image   
+| caption   
+| image size   
+| alt   
+| doctor   Third
+| doctors   Jon Pertwee
+| companion   Jo Grant
+| companions   Katy Manning
+| cast   Paul Whitsun-Jones, Garrick Hagon
+| director   Christopher Barry
+| writer   Bob Baker and Dave Martin
+| producer   Barry Letts
+| executive producer   None
+| composer   Tristram Cary
+| production code   UUU
+| series   Season 9
+| length   6 episodes, 25 minutes each
+| first aired   8 April 1972
+| last aired   13 May 1972
+| prev   The Sea Devils
+| next   The Time Monster
+}}

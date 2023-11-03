@@ -1,0 +1,53 @@
+{{Infobox drug
+| drug name   Catatonia
+| type   Neuropsychiatric behavioral syndrome
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category  
+| routes of administration   
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   Acute or subtle
+| elimination half-life   
+| duration of action  
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   
+| molecular weight   
+}}
+
+Catatonia is a complex neuropsychiatric behavioral syndrome characterized by abnormal movements, immobility, abnormal behaviors, and withdrawal. It is most often seen in mood disorders but can also be observed in other mental, neurological, and medical conditions. Catatonia is not a stand-alone diagnosis but rather a feature of the underlying disorder. There are several subtypes of catatonia, including akinetic catatonia, excited catatonia, malignant catatonia, and delirious mania. Failure to recognize and treat catatonia can lead to poor outcomes and potentially fatal consequences. Treatment options include benzodiazepines, electroconvulsive therapy (ECT), and NMDA receptor antagonists such as amantadine and memantine. Antipsychotics may be used cautiously due to the risk of worsening symptoms and serious adverse effects.

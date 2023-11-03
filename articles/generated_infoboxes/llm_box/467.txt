@@ -1,0 +1,41 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Creutzfeldt Jakob disease
+| honorific suffix   
+| native name   
+| native name lang   
+| image   
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| death date   
+| death place   
+| nationality   
+| field   Neurology
+| work institutions   
+| alma mater   
+| doctoral advisor   
+| doctoral students   
+| known for   Fatal degenerative brain disorder
+| author abbrev bot   
+| author abbrev zoo   
+| influences   
+| influenced   
+| awards   
+| signature   
+| signature alt   
+| spouse   
+| children   
+| relatives   
+| website   
+| footnotes   
+}}
+
+Please note that the infobox template provided is for scientists, and may not be the most appropriate template for Creutzfeldt Jakob disease. However, since there is no specific infobox template for diseases, we can use this template and modify it accordingly.

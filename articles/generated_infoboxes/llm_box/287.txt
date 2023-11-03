@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Farmer Giles of Ham
+| image   
+| caption   
+| author   J. R. R. Tolkien
+| title orig   
+| translator   
+| country   United Kingdom
+| language   English
+| series   
+| genre   Comic medieval fable
+| published in   
+| publication type   Book
+| publisher   George Allen   Unwin
+| media type   Print (hardcover)
+| pub date   1949
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

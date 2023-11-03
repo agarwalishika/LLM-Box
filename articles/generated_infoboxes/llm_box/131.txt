@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   European dragon
+| image   European dragon.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of a European dragon
+| Grouping   Legendary creature
+| Sub Grouping   
+| Similar entities   Dragon, Wyvern
+| Family   Dragon
+| Folklore   European folklore and mythology
+| First Attested   Ancient times
+| AKA   
+| Country   Various European countries
+| Region   Europe
+| Habitat   Caves, underground lairs
+| Details   The European dragon is a legendary creature in folklore and mythology among the overlapping cultures of Europe. It is typically depicted as a large, fire-breathing, scaly, horned, lizard-like creature with leathery, bat-like wings, four legs, and a long, muscular prehensile tail. Some depictions show dragons with additional features such as feathered wings, crests, ear frills, fiery manes, ivory spikes, and various exotic decorations. In Christian culture, dragons are often associated with guarding treasure-filled caverns or castles. They are commonly portrayed as adversaries to heroes, with evil dragons being slain by the hero and good dragons providing support or wise advice. The dragon is often found in its underground lair, symbolizing its ancient connection to the earth.
+}}

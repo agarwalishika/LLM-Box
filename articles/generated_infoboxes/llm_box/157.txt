@@ -1,0 +1,26 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Fields Medal
+| honorific suffix   
+| native name   
+| native name lang   
+| image   Fields Medal.jpg
+| image size   200px
+| image upright   
+| landscape   
+| alt   
+| caption   The Fields Medal
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| awarded for   Outstanding achievements in mathematics by mathematicians under 40 years of age
+| presenter   International Mathematical Union (IMU)
+| year   1936
+| location   International Congress of the IMU
+| country   
+| holder label   
+| holder   
+| website   
+}}

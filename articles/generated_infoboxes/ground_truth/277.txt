@@ -1,0 +1,8 @@
+{{Infobox 
+| Example of a woodcut from the book  The Abbott    Example of a woodcut from the book  The Abbott  
+| Author   Hans Holbein the Younger 
+| Original title   Danse Macabre 
+| Country   England 
+| Genre   Allegory,satire,woodcutsanddeath 
+| Publication date   1538 
+}}

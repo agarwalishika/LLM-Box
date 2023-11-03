@@ -1,0 +1,26 @@
+{{Infobox Star Trek character
+| name   Martok
+| image   
+| caption   
+| portrayer   J. G. Hertzler
+| species   Klingon
+| affiliation   Klingon Empire
+| occupation   High-ranking Klingon leader
+| first   "Emissary" (Star Trek: Deep Space Nine)
+| last   
+| creator   
+| significant other   
+| children   
+| relatives   Urthog (father)
+| nationality   
+| born   
+| died   
+| age   
+| residence   
+| education   
+| alma mater   
+| awards   
+| website   
+}}
+
+Please note that some fields are left blank as the information is not provided in the given context.

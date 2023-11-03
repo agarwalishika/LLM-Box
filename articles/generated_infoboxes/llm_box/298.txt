@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Ivanhoe: A Romance
+| image   
+| caption   
+| author   Walter Scott
+| title orig   
+| translator   
+| country   Scotland
+| language   English
+| series   Waverley novels
+| genre   Historical novel
+| published in   
+| publication type   Novel
+| publisher   Archibald Constable and Co.
+| media type   Print (hardcover)
+| pub date   1819
+| english pub date   
+| preceded by   The Bride of Lammermoor, A Legend of the Wars of Montrose
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   532
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

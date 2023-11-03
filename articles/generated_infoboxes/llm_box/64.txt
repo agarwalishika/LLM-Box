@@ -1,0 +1,46 @@
+{{Infobox comics character
+| character name   Superman
+| image   Superman.png
+| imagesize   250px
+| caption   Superman, as depicted in the comics
+| publisher   DC Comics
+| debut   Action Comics  1 (April 18, 1938)
+| creators   Jerry Siegel, Joe Shuster
+| voiced by   Various actors
+| first series   The Adventures of Superman (1940)
+| first episode   "Superman on Earth"
+| first comic   Action Comics  1 (April 18, 1938)
+| real name   Kal-El
+| alter   Clark Kent
+| alter ego   Superman
+| full name   Clark Joseph Kent
+| full   Kal-El Clark Joseph Kent Superman
+| species   Kryptonian
+| homeworld   Krypton
+| alliances   Justice League
+| affiliations   Daily Planet
+| supports   Lois Lane, Jimmy Olsen, Perry White
+| aliases   Man of Steel, Man of Tomorrow, Last Son of Krypton
+| powers   Superhuman strength, invulnerability, flight, heat vision, freeze breath, super speed, enhanced senses
+| partners   Supergirl, Superboy, Krypto
+| IOM alter ego   Clark Kent
+| IOM full name   Clark Joseph Kent
+| IOM alliances   Justice League
+| IOM partners   Supergirl, Superboy
+| IOM aliases   Man of Steel, Man of Tomorrow
+| IOM powers   Superhuman strength, invulnerability, flight
+| sortkey   Superman
+| subcat   DC Comics superheroes
+| cat   Superheroes
+| hero   yes
+| villain   no
+| altcat   Fictional characters introduced in 1938
+| addcharcat1   American superheroes
+| addcharcat2   Extraterrestrial superheroes
+| addcharcat3   Fictional journalists
+| addcharcat4   Fictional reporters
+| addcharcat5   Fictional farmworkers
+| addcharcat6   Fictional characters with superhuman strength
+| noimage   no
+| converted   yes
+}}

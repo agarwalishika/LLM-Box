@@ -1,0 +1,19 @@
+{{Infobox mythical creature
+| name   Naiad
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Nymph
+| Sub Grouping   
+| Similar entities   River gods, Water nymphs
+| Family   
+| Folklore   Greek mythology
+| First Attested   
+| AKA   Naiades, Naiades
+| Country   Greece
+| Region   
+| Habitat   Fountains, wells, springs, streams, brooks, bodies of fresh water
+| Details   Female spirits presiding over bodies of fresh water
+}}
+

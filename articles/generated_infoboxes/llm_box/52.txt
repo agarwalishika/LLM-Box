@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Captain America
+| image   Captain America.jpg
+| imagesize   250px
+| alt   A depiction of Captain America
+| caption   Captain America, as depicted in the comics
+| publisher   Marvel Comics
+| debut   Captain America Comics  1 (December 20, 1940)
+| creators   Joe Simon, Jack Kirby
+| voiced by   Various actors in animated adaptations
+| first series   Captain America (1966)
+| first episode   "The Origin of Captain America"
+| first comic   Captain America Comics  1 (December 20, 1940)
+| real name   Steve Rogers
+| alter   
+| alter ego   
+| full name   Steven Grant Rogers
+| full   Steve Rogers
+| species   Human
+| homeworld   Earth
+| alliances   Avengers
+| affiliations   United States Army
+| supports   
+| aliases   Nomad, The Captain, The Sentinel of Liberty
+| powers   Enhanced strength, speed, agility, endurance, and healing; expert martial artist and tactician; indestructible shield
+| partners   Bucky Barnes, Falcon
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Captain America
+| subcat   Marvel Comics superheroes
+| cat   Superheroes
+| hero   yes
+| villain   no
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

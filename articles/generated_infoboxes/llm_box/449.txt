@@ -1,0 +1,21 @@
+{{Infobox Doctor Who episode
+| number   159
+| serial name   Survival
+| show   Doctor Who
+| quotes   "There are worlds out there where the sky is burning, where the sea's asleep, and the rivers dream. People made of smoke and cities made of song. Somewhere there's danger, somewhere there's injustice, and somewhere else the tea's getting cold. Come on, Ace. We've got work to do."
+| type   Serial
+| image   Survival (Doctor Who).jpg
+| caption   Title card
+| image size   250px
+| alt   
+| doctor   Sylvester McCoy (Seventh Doctor)
+| doctors   
+| companion   Sophie Aldred (Ace)
+| companions   
+| cast   
+| doctor   Sylvester McCoy
+| guests   Anthony Ainley
+| director   Alan Wareing
+| writer   Rona Munro
+| based on   
+}}

@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Expressive aphasia
+| synonyms   Broca's aphasia
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology, Speech-language pathology
+| symptoms   Partial loss of ability to produce language, effortful speech, telegraphic speech, comprehension difficulties
+| complications   
+| onset   Acquired damage to the anterior regions of the brain, such as Broca's area
+| duration   
+| types   
+| causes   Acquired damage to the anterior regions of the brain, such as Broca's area
+| cause    
+| risks   
+| risk    
+| diagnosis   Clinical evaluation, language assessment, neuroimaging
+| differential   Receptive aphasia, dysarthria, apraxia of speech
+| prevention   
+| treatment   Speech therapy, language therapy, augmentative and alternative communication (AAC) devices
+| management  
+| medication   
+| prognosis   Varies depending on severity and underlying cause
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  Pierre Paul Broca
+}}

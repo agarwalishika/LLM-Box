@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Batman
+| image   Batman 1989.jpg
+| imagesize   220px
+| alt   The poster for the 1989 Batman film
+| caption   Theatrical release poster
+| publisher   DC Comics
+| debut   Detective Comics  27 (May 1939)
+| creators   Bob Kane, Bill Finger
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   Bruce Wayne
+| alter   
+| alter ego   
+| full name   Bruce Wayne
+| full   Bruce Wayne
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   The Dark Knight, The Caped Crusader, The World's Greatest Detective
+| powers   Exceptional martial arts skills, detective skills, advanced technology, peak physical conditioning
+| partners   Robin, Batgirl, Nightwing
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Batman
+| subcat   
+| cat   
+| hero   yes
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

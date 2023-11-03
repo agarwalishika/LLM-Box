@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Production Design
+| subheader   
+| current awards   93rd Academy Awards
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   The Academy Award for Best Production Design
+| awarded for   Achievement in art direction in film
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

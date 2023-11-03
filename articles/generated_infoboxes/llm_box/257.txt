@@ -1,0 +1,65 @@
+{{Infobox film
+| name   All Quiet on the Western Front
+| image   
+| alt   
+| caption   Film poster
+| native name   Im Westen nichts Neues
+| language   German
+| title   Nothing New in the West
+| director   Lewis Milestone (1930)
+Delbert Mann (1979)
+Edward Berger (2022)
+| producer   Carl Laemmle Jr. (1930)
+Norman Rosemont (1979)
+Malte Grunert (2022)
+| screenplay   Maxwell Anderson (1930)
+Paul Monash (1979)
+Benedict Neuenfels (2022)
+| based on   ''All Quiet on the Western Front'' by Erich Maria Remarque
+| starring   Lew Ayres (1930)
+Richard Thomas (1979)
+Felix Kammerer (2022)
+| music   David Broekman (1930)
+Allyn Ferguson (1979)
+Max Richter (2022)
+| cinematography   Arthur Edeson (1930)
+John A. Alonzo (1979)
+James Friend (2022)
+| editing   Edgar Adams (1930)
+Bill Blunden (1979)
+Sven Budelmann (2022)
+| studio   Universal Pictures (1930)
+ITC Entertainment (1979)
+Constantin Film (2022)
+| distributor   Universal Pictures (1930)
+CBS (1979)
+Warner Bros. Pictures (2022)
+| released   
+- 1930: 
+- 1979: 
+- 2022: 
+| runtime   
+- 1930: 133 minutes
+- 1979: 150 minutes
+- 2022: 120 minutes
+| country   
+- 1930: United States
+- 1979: United Kingdom, United States
+- 2022: Germany
+| language   
+- 1930: English
+- 1979: English
+- 2022: German
+| budget   
+- 1930:  1.2 million
+- 1979:  6 million
+- 2022:  15 million
+| gross   
+- 1930:  3.3 million
+- 1979: N A
+- 2022: N A
+| awards   
+- 1930: 2 Academy Awards
+- 1979: 1 Golden Globe Award, 1 Emmy Award
+- 2022: 4 Academy Awards
+}}

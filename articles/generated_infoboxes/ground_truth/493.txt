@@ -1,0 +1,5 @@
+{{Infobox 
+| Genetic disorder   Genetic disorder 
+| A boy with Down syndrome, one of the most common genetic disorders   A boy with Down syndrome, one of the most common genetic disorders 
+| Specialty   Medical genetics 
+}}

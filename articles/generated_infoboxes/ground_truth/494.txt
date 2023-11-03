@@ -1,0 +1,9 @@
+{{Infobox 
+| Hypoxia   Hypoxia 
+| Other names   Hypoxiation, lack of oxygen, low blood oxygen (technicallyhypoxemia), oxygen starvation 
+| Cyanosis of the hand in an elderly person with low oxygen saturation   Cyanosis of the hand in an elderly person with low oxygen saturation 
+| Specialty   Pulmonology,toxicology 
+| Symptoms   Cyanosis,numbnessorpins and needlesfeeling of the extremities 
+| Complications   Gangrene,necrosis 
+| Risk factors   Diabetes,coronary artery disease,heart attack,stroke,embolism,thrombosis,deep-vein thrombosis,tobacco smoking 
+}}

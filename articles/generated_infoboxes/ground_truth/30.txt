@@ -1,0 +1,11 @@
+{{Infobox 
+| The Doctor   The Doctor 
+| Star Trek character   Star Trek character 
+| First appearance   "Caretaker" (1995) 
+| Last appearance   "Endgame" (2001) 
+| Portrayed by   Robert Picardo 
+| In-universe information   In-universe information 
+| Species   Hologram 
+| Affiliation   United Federation of PlanetsStarfleet 
+| Posting   Chief medical officerUSSVoyager 
+}}

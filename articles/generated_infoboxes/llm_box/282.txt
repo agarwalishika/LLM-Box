@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   The Trial
+| image   
+| image size   
+| border   
+| alt   
+| caption   
+| author   Franz Kafka
+| audio read by   
+| title orig   Der Process
+| orig lang code   de
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   Austria-Hungary
+| language   German
+| series   
+| release number   
+| subject   Legal system, bureaucracy, guilt, alienation
+| genre   Absurdist fiction, existentialism
+| set in   
+| publisher   Verlag Die Schmiede
+| publisher2   
+| pub date   26 April 1925
+| english pub date   1937
+| published   Posthumously
+| media type   Print (hardcover and paperback)
+| pages   255
+| awards   
+| isbn   
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   
+| followed by   
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

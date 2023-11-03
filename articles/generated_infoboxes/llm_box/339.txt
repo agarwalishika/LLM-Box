@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   The Library of Babel
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Conceptual Library
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   
+| First Attested   1941
+| AKA   La biblioteca de Babel
+| Country   
+| Region   
+| Habitat   Universe
+| Details   A vast library containing all possible 410-page books of a certain format and character set. The books are arranged in an enormous expanse of adjacent hexagonal rooms, with each room containing bookshelves on four walls. The library is believed to contain every possible ordering of 25 basic characters, including all coherent books ever written or that might ever be written, as well as every possible permutation or slightly erroneous version of those books. Despite the abundance of information, the books are considered useless to readers.
+}}

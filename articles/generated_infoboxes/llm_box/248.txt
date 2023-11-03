@@ -1,0 +1,28 @@
+{{Infobox film
+| name   Harold and Maude
+| image   Harold and Maude poster.jpg
+| caption   Theatrical release poster
+| director   Hal Ashby
+| producer   Colin Higgins
+| writer   Colin Higgins
+| based on   Colin Higgins' master's thesis
+| starring   Bud Cort
+Ruth Gordon
+Vivian Pickles
+| music   Cat Stevens
+| cinematography   John A. Alonzo
+| editing   William A. Sawyer
+| studio   Paramount Pictures
+| distributor   Paramount Pictures
+| released   December 20, 1971
+| runtime   91 minutes
+| country   United States
+| language   English
+| budget    1.2 million
+| gross    20.0 million
+| genre   Romantic black comedy-drama
+| rating   R
+| awards   None
+| website   
+}}
+

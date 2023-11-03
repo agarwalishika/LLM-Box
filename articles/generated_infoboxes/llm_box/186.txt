@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Visual Effects
+| subheader   
+| current awards   93rd Academy Awards
+| image   Academy Award for Best Visual Effects.png
+| image size   150px
+| image upright   
+| alt   
+| caption   The Academy Award for Best Visual Effects
+| awarded for   Best achievement in visual effects
+| sponsor   Academy of Motion Picture Arts and Sciences
+| date   February 9, 2021
+| YYYY   2021
+| MM   02
+| DD   09
+}}

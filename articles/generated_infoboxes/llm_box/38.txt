@@ -1,0 +1,28 @@
+{{Infobox Star Trek character
+| name   Thomas Eugene Paris
+| image   
+| caption   
+| portrayer   Robert Duncan McNeill
+| series   Star Trek: Voyager
+| occupation   Chief Helmsman, Temporary Auxiliary Medic
+| affiliation   Starfleet
+| rank   Lieutenant
+| species   Human
+| gender   Male
+| first   "Caretaker"
+| last   "Endgame"
+| creator   Gene Roddenberry
+| middle name   Eugene
+| homeworld   Earth
+| birth date   
+| birth place   
+| death date   
+| death place   
+| parents   
+| spouse   
+| children   
+| relatives   Cole Paris (uncle)
+| nationality   
+| alt   
+}}
+

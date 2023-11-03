@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Canterbury Tales
+| image   
+| caption   
+| author   Geoffrey Chaucer
+| title orig   Tales of Caunterbury
+| translator   
+| country   England
+| language   Middle English
+| series   
+| genre   Fiction, Poetry
+| published in   
+| publication type   Manuscript, Incunabula
+| publisher   Various
+| media type   Print
+| pub date   1387 1400
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   Over 17,000 lines
+| wikisource   
+| native wikisource   
+| orig lang code   enm
+}}

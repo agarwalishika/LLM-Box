@@ -1,0 +1,19 @@
+{{Infobox book
+| name   Chapterhouse: Dune
+| image   
+| alt   
+| caption   
+| author   Frank Herbert
+| cover artist   
+| country   United States
+| language   English
+| series   Dune series
+| genre   Science fiction
+| publisher   G.P. Putnam's Sons
+| release date   1985
+| media type   Print (hardcover and paperback)
+| pages   
+| isbn   0-399-12917-5
+| preceded by   Heretics of Dune
+| followed by   Hunters of Dune
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Newfoundland and Labrador
+| Image   Flag of Newfoundland and Labrador.svg
+| Image size   250px
+| Alt   The flag of Newfoundland and Labrador
+| Use   110000
+| Symbol   
+| Proportion   1:2
+| Adoption   June 24, 1980
+| Design   A tricolour flag with two red triangles pointing towards a gold arrow on a blue field, with a white stripe separating the red and blue sections.
+| Designer   Christopher Pratt
+}}

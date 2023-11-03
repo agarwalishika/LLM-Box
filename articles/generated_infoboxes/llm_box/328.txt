@@ -1,0 +1,21 @@
+{{Infobox character
+| name   C. Auguste Dupin
+| series   Detective Stories by Edgar Allan Poe
+| image   
+| alt   
+| caption   
+| first major   "The Murders in the Rue Morgue"
+| first minor   
+| first issue  
+| first date   1841
+| first   
+| last major   "The Purloined Letter"
+| last minor   
+| last issue  
+| last date   1844
+| last   
+| creator   Edgar Allan Poe
+| based on   
+| character   Fictional detective
+| author   Edgar Allan Poe
+}}

@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   The Black Cat
+| image   File:Black Cat by Poe.jpg
+| image size   250px
+| image upright   
+| caption   Illustration by Aubrey Beardsley, 1894
+| Grouping   Fictional creature
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   
+| First Attested   August 19, 1843
+| AKA   
+| Country   United States
+| Region   
+| Habitat   Domestic
+| Details   A black cat with a white mark on its chest, associated with themes of guilt, alcoholism, and psychological breakdown in Edgar Allan Poe's short story "The Black Cat".
+}}

@@ -1,0 +1,19 @@
+{{Infobox medical intervention
+| name   Alcoholism
+| synonyms   Alcohol use disorder, alcohol dependence
+| image   
+| caption   
+| specialty   Psychiatry, addiction medicine
+| complications   Liver cirrhosis, cancer, dementia, Wernicke Korsakoff syndrome, impaired immune response, increased risk of traffic accidents, violent and non-violent crime
+| symptoms   Continued drinking despite negative consequences, trouble sleeping, cognitive issues, irregular heartbeat, withdrawal symptoms
+| causes   Genetic predisposition, environmental factors, self-medication of stress or anxiety
+| diagnosis   Clinical assessment, blood tests, imaging studies
+| treatment   Detoxification, counseling, support groups, medication
+| prognosis   Variable, influenced by individual factors and treatment adherence
+| frequency   283 million people with alcohol use disorders worldwide as of 2016
+| deaths   139,000 directly attributable to alcoholism in 2013, 3.3 million deaths potentially attributable to alcohol
+| lifespan   Reduced life expectancy by 10 years
+| related conditions   Substance use disorders, mental health disorders
+| medications   Disulfiram, naltrexone, acamprosate
+| interventions   Alcohol rehabilitation programs, psychotherapy, cognitive-behavioral therapy
+}}

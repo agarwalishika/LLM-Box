@@ -1,0 +1,20 @@
+{{Infobox comics character
+| character name   Shang-Chi
+| image   Shang-Chi.png
+| imagesize   250px
+| caption   Shang-Chi as depicted in the comics
+| publisher   Marvel Comics
+| debut   Special Marvel Edition  15 (December 1973)
+| creators   Steve Englehart, Jim Starlin
+| real name   Zheng Shang-Chi
+| species   Human
+| alliances   Five Weapons Society
+| affiliations   Marvel Universe
+| aliases   Master of Kung Fu, Brother Hand
+| powers   Mastery of various unarmed and weaponry-based wushu styles, including g n, nunchaku, and jian
+| partners   None
+| sortkey   Shang-Chi
+| cat   Marvel Comics superheroes
+| hero   yes
+}}
+

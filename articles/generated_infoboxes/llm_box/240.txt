@@ -1,0 +1,36 @@
+{{Infobox character
+| name   Godzilla vs. Biollante
+| series   Godzilla
+| franchise   Godzilla
+| image   Godzilla vs Biollante poster.jpg
+| alt   Poster for Godzilla vs. Biollante
+| caption   Japanese theatrical release poster
+| director   Kazuki  mori
+| producer   Tomoyuki Tanaka
+| writer   Kazuki  mori
+| screenplay   Kazuki  mori
+| based on   Characters created by Toho
+| starring   Kunihiko Mitamura
+Yoshiko Tanaka
+Masanobu Takashima
+Megumi Odaka
+Toru Minegishi
+Yasuko Sawaguchi
+Toshiyuki Nagashima
+Yoshiko Kuga
+Ryunosuke Kaneda
+K ji Takahashi
+| music   Koichi Sugiyama
+| cinematography   Y dai Kat 
+| editing   Michiko Ikeda
+| studio   Toho Pictures
+| distributor   Toho
+| released   
+{{Film date|1989|12|16|Japan}}
+{{Film date|1992|11|25|United States|direct-to-video}}
+| runtime   105 minutes
+| country   Japan
+| language   Japanese
+| budget    10 million
+| gross    6.2 million
+}}

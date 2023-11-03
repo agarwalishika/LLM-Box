@@ -1,0 +1,27 @@
+{{Infobox Doctor Who episode
+| number   2
+| serial name   The Daleks
+| show   Doctor Who
+| quotes   "Exterminate!"
+| type   Serial
+| image   Daleks.jpg
+| caption   The Daleks, as they appeared in the serial
+| image size   250px
+| alt   The Daleks
+| doctor   First
+| doctors   William Hartnell
+| companion   Susan Foreman
+| companions   Carole Ann Ford
+| cast   
+  William Hartnell as the First Doctor
+  Carole Ann Ford as Susan Foreman
+  William Russell as Ian Chesterton
+  Jacqueline Hill as Barbara Wright
+| guests   
+| director   
+  Christopher Barry (episodes 1, 2, 4, 5, 6)
+  Richard Martin (episodes 3, 4, 7)
+| writer   Terry Nation
+| based on   
+}}
+

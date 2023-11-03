@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Cinematography
+| subheader   
+| current awards   93rd Academy Awards
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Outstanding achievement in cinematography for a motion picture
+| sponsor   Academy of Motion Picture Arts and Sciences
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

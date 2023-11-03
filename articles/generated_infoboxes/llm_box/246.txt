@@ -1,0 +1,34 @@
+{{Infobox film
+| name   Galaxy Quest
+| image   Galaxy Quest poster.jpg
+| caption   Theatrical release poster
+| director   Dean Parisot
+| producer   Mark Johnson
+| screenplay   David Howard
+Robert Gordon
+| based on   
+| starring   Tim Allen
+Sigourney Weaver
+Alan Rickman
+Tony Shalhoub
+Sam Rockwell
+Daryl Mitchell
+| music   David Newman
+| cinematography   Jerzy Zielinski
+| editing   Don Zimmerman
+| studio   DreamWorks Pictures
+Gran Via Productions
+| distributor   DreamWorks Pictures
+| released   December 25, 1999
+| runtime   102 minutes
+| country   United States
+| language   English
+| budget    45 million
+| gross    90.7 million
+| awards   
+  Hugo Award for Best Dramatic Presentation
+  Nebula Award for Best Script
+  Nominated for 10 Saturn Awards
+| website   
+}}
+

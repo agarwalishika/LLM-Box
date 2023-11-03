@@ -1,0 +1,41 @@
+{{Infobox book
+| name   Paradise Towers
+| image   
+| image size   
+| caption   
+| author   Stephen Wyatt
+| audio read by   
+| title orig   
+| orig lang code   
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   United Kingdom
+| language   English
+| series   ''Doctor Who''
+| release number   144
+| subject   
+| genre   Science fiction
+| set in   22nd century
+| publisher   Target Books
+| publisher2   
+| pub date   18 February 1988
+| english pub date   
+| published   
+| media type   Print (Paperback)
+| pages   144
+| awards   
+| isbn   0-426-20368-7
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   ''Time and the Rani''
+| followed by   ''Delta and the Bannermen''
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

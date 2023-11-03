@@ -1,0 +1,26 @@
+{{Infobox Doctor Who episode
+| number   150
+| serial name   Delta and the Bannermen
+| show   Doctor Who
+| type   Serial
+| image   Delta and the Bannermen.jpg
+| caption   The Doctor and Mel in the holiday camp
+| image size   250px
+| alt   
+| doctor   Sylvester McCoy (Seventh Doctor)
+| companion   Bonnie Langford (Mel Bush)
+| director   Chris Clough
+| writer   Malcolm Kohll
+| producer   John Nathan-Turner
+| executive producer   
+| composer   Keff McCulloch
+| production code   7D
+| series   Series 24
+| length   3 episodes, 25 minutes each
+| first aired   2 November 1987
+| last aired   16 November 1987
+| prev   ''Paradise Towers''
+| next   ''Dragonfire''
+| guest star   
+| episode list   List of Doctor Who episodes (1963 1989)
+}}

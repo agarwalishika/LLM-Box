@@ -1,0 +1,10 @@
+{{Infobox 
+| ACM Turing Award   ACM Turing Award 
+| Awarded for   Outstanding contributions incomputer science 
+| Country   United States 
+| Presented by   Association for Computing Machinery(ACM) 
+| Reward(s)   US  1,000,000 1  
+| First awarded   1966; 57 years ago(1966) 
+| Last awarded   2022 
+| Website   amturing.acm.org 
+}}

@@ -1,0 +1,44 @@
+{{Infobox civil conflict
+| title   The World Factbook
+| subtitle   
+| partof   
+| image   
+| caption   
+| date   
+| place   
+| coordinates   
+| causes   
+| goals   
+| methods   
+| status   Active
+| result   
+| side1   Central Intelligence Agency (CIA)
+| side2   
+| side3   
+| side4   
+| leadfigures1   
+| leadfigures2   
+| leadfigures3   
+| leadfigures4   
+| howmany1   
+| howmany2   
+| howmany3   
+| howmany4   
+| casualties1   
+| casualties2   
+| casualties3   
+| casualties4   
+| fatalities   
+| injuries   
+| arrests   
+| damage   
+| buildings   
+| detentions   
+| charged   
+| fined   
+| effect   Reference resource for U.S. government officials, academic research, and news articles
+| effect label   
+| casualties label   
+| notes   The World Factbook is in the public domain in the United States.
+| sidebox   
+}}

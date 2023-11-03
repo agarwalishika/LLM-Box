@@ -1,0 +1,22 @@
+{{Infobox Doctor Who episode
+| number   Pilot episode
+| serial name   K-9 and Company
+| show   Doctor Who
+| quotes   
+| type   Television pilot
+| image   
+| caption   
+| image size   
+| alt   
+| doctor   
+| doctors   
+| companion   Sarah Jane Smith
+| companions   K9
+| cast   Elisabeth Sladen, John Leeson
+| doctor   
+| guests   Ian Sears, Mary Wimbush
+| director   John Black
+| writer   Terence Dudley
+| based on   
+}}
+

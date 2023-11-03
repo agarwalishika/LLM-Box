@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Right Livelihood Award
+| subheader   Alternative Nobel Prize
+| current awards   2021 Right Livelihood Awards
+| image   Right Livelihood Award logo.png
+| image size   200px
+| image upright   
+| alt   Logo of the Right Livelihood Award
+| caption   Logo of the Right Livelihood Award
+| awarded for   Practical and exemplary answers to urgent global challenges
+| sponsor   Jakob von Uexkull Foundation
+| date   Early December
+| YYYY   
+| MM   
+| DD   
+}}

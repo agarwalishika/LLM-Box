@@ -1,0 +1,59 @@
+{{Infobox drug
+| drug name   Thiotimoline
+| type   Fictitious chemical compound
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category  
+| routes of administration   
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   Fictitious
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   
+| elimination half-life   
+| duration of action  
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   Unknown
+| molecular weight   Unknown
+}}
+
+Thiotimoline is a fictitious chemical compound conceived by American biochemist and science fiction author Isaac Asimov. It was first described in a spoof scientific paper titled "The Endochronic Properties of Resublimated Thiotimoline" in 1948. The major peculiarity of the chemical is its "endochronicity": it starts dissolving before it makes contact with water. Asimov went on to write three additional short stories, each describing different properties or uses of thiotimoline.
+
+   Chemical properties   
+In Asimov's writings, the endochronicity of thiotimoline is explained by the fact that in the thiotimoline molecule, there is at least one carbon atom such that, while two of the carbon's four chemical bonds lie in normal space and time, one of the bonds projects into the future and another into the past. Thiotimoline is derived from the bark of the (fictitious) shrub Rosacea karlsbadensis rufo, and the thiotimoline molecule includes at least fourteen hydroxy groups, two amino groups, and one sulfonic acid group, and possibly one nitro compound group as well. The nature of the hydrocarbon nucleus is unknown, although it seems in part to be an aromatic hydrocarbon.
+
+   Background   
+In 1947, Asimov was engaged in doctoral research in chemistry and, as part of his experimental procedure, he needed to dissolve catechol in water. As he observed the crystals dissolve as soon as they hit the water's surface, it occurred to him that if catechol were any more soluble, then it would dissolve before it encountered the water. By that time, Asimov had been writing professionally for nine years and would soon write a doctoral dissertation. He feared that the experience of writing readable prose for publication (i.e. science fiction) might have impaired his ability to write the turgid prose typical of academic discourse and decided to practice with a spoof article (including charts, graphs, tables, and citations of fake articles in nonexistent journals) describing experiments.

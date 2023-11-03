@@ -1,0 +1,40 @@
+{{Infobox character
+| name   Sonic the Hedgehog
+| image   Sonic the Hedgehog.png
+| alt   A blue anthropomorphic hedgehog
+| caption   Sonic as he appears in Sonic the Hedgehog (1991)
+| creator   Naoto Ohshima and Yuji Naka
+| series   Sonic the Hedgehog
+| firstgame   Sonic the Hedgehog (1991)
+| designer   Naoto Ohshima (original design)
+| redesigner   Yuji Uekawa (Sonic Adventure redesign)
+| voiceactor   
+| motionactor   
+| portrayer   
+| full name   
+| species   Hedgehog
+| gender   Male
+| occupation   
+| title   
+| nationality   
+| lbl1   Abilities
+| data1   Supersonic speed, curling into a ball, collecting power-up rings
+| lbl2   Affiliation
+| data2   
+| lbl3   
+| data3   
+| lbl4   
+| data4   
+| lbl5   
+| data5   
+| lbl6   
+| data6   
+| lbl7   
+| data7   
+| lbl8   
+| data8   
+| lbl9   
+| data9   
+| lbl10   
+| data10   
+}}

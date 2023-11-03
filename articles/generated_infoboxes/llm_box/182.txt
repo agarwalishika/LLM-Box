@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Animated Feature
+| subheader   
+| current awards   93rd Academy Awards
+| image   Academy Award for Best Animated Feature.png
+| image size   150px
+| image upright   
+| alt   
+| caption   The Academy Award for Best Animated Feature
+| awarded for   Best animated film
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annual
+| YYYY   2002
+| MM   
+| DD   
+}}

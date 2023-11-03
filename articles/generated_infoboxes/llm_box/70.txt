@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Zippy the Pinhead
+| image   Zippy the Pinhead.jpg
+| imagesize   200px
+| alt   A cartoon character wearing a yellow muumuu clown suit with large red polka dots and puffy white clown shoes.
+| caption   Zippy the Pinhead, as depicted in the comic strip.
+| publisher   King Features Syndicate
+| debut   March 1971
+| creators   Bill Griffith
+| voiced by   
+| first series   
+| first episode   
+| first comic   Real Pulp Comics  1
+| real name   
+| alter   
+| alter ego   
+| full name   
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   
+| powers   
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

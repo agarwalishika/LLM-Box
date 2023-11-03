@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Hapworth 16, 1924
+| image   
+| caption   
+| author   J. D. Salinger
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   Glass family stories
+| genre   Short fiction
+| published in   The New Yorker
+| publication type   Magazine
+| publisher   
+| media type   Print (Magazine)
+| pub date   June 19, 1965
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

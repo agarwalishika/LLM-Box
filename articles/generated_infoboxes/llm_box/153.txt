@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Booker Prize
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Best novel written in the English language published in the UK and Ireland
+| sponsor   Booker Prize Foundation
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

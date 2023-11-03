@@ -1,0 +1,30 @@
+{{Infobox Doctor Who episode
+| number   10
+| serial name   The War Machines
+| show   Doctor Who
+| quotes   "Doctor, I think you're a bit of a charlatan."
+| type   Serial
+| image   War Machines.jpg
+| caption   The Doctor and Ben Jackson confront a War Machine
+| image size   250px
+| alt   A black and white image of the Doctor and Ben Jackson facing a large robotic machine
+| doctor     William Hartnell  
+| doctors   1
+| companion     Dodo Chaplet  ,   Ben Jackson  ,   Polly  
+| companions   3
+| cast   See   List of Doctor Who cast members The War Machines|cast  
+| director     Michael Ferguson  
+| writer     Ian Stuart Black  
+| producer     Innes Lloyd  
+| executive producer   
+| composer     Dudley Simpson  
+| production code   R
+| series   Series 3
+| length   4 episodes, 25 minutes each
+| original airdate   25 June   16 July 1966
+| precedes   "  The Savages (Doctor Who)|The Savages  "
+| follows   "  The Smugglers (Doctor Who)|The Smugglers  "
+| based on   
+}}
+
+The infobox has been filled out with the relevant information from the context text. Additional fields such as producer, executive producer, composer, production code, series, length, original airdate, precedes, and follows have been included to provide a comprehensive overview of the episode.

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Hawaii
+| Image   Flag of Hawaii.svg
+| Image size   250px
+| Alt   The flag of Hawaii
+| Use   110000
+| Symbol   The Union Jack of the United Kingdom
+| Proportion   1:2
+| Adoption   Early 19th century
+| Design   A field of eight horizontal stripes alternating white, red, and blue, with the Union Jack of the United Kingdom in the canton
+| Designer   Unknown
+}}

@@ -1,0 +1,15 @@
+{{Infobox 
+| Chagas disease   Chagas disease 
+| Other names   American trypanosomiasis 
+| Photomicrograph of Giemsa-stained Trypanosoma cruzi trypomastigotes in human blood   Photomicrograph of Giemsa-stained Trypanosoma cruzi trypomastigotes in human blood 
+| Pronunciation     t     s ,Portuguese pronunciation:   a  s  
+| Specialty   Infectious disease 
+| Symptoms   Fever, large lymph nodes, headache 1  
+| Complications   Heart failure,enlarged esophagus,enlarged colon 1  
+| Causes   Trypanosoma cruzispread bykissing bugs 1  
+| Diagnostic method   Finding the parasite, its DNA, orantibodiesin the blood 2  
+| Prevention   Eliminating kissing bugs and avoiding their bites 1  
+| Medication   Benznidazole,nifurtimox 1  
+| Frequency   6.5 million (2019) 3  
+| Deaths   9,490 (2019) 3  
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Nepal
+| Image   Flag of Nepal.svg
+| Image size   250px
+| Alt   The national flag of Nepal
+| Use   National flag and civil flag
+| Symbol   A double-pennon flag with a crimson red field, a blue border, and a white emblem consisting of a sun and a crescent moon
+| Proportion   5:4
+| Adoption   16 December 1962
+| Design   A simplified combination of two single pennons (or pennants), known as a double-pennon, with a crimson red field representing bravery and the color of the rhododendron, and a blue border representing peace
+| Designer   Shankar Nath Rimal
+}}

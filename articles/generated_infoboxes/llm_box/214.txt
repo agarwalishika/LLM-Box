@@ -1,0 +1,25 @@
+{{Infobox film
+| name   Bride of the Monster
+| image   
+| alt   
+| caption   Theatrical release poster
+| director   Edward D. Wood Jr.
+| producer   Edward D. Wood Jr.
+| writer   Edward D. Wood Jr.
+| starring   Bela Lugosi
+Tor Johnson
+Tony McCoy
+Loretta King
+| music   Frank Worth
+| cinematography   William C. Thompson
+| editing   Edward D. Wood Jr.
+| studio   Rolling M. Productions
+| distributor   Banner Pictures
+| released   May 11, 1955
+| runtime   69 minutes
+| country   United States
+| language   English
+| budget    70,000
+| gross   
+| title   Bride of the Monster
+}}

@@ -1,0 +1,15 @@
+{{Infobox medical condition
+| name   Goitre
+| synonyms   Goiter
+| image   
+| alt   
+| caption   
+| field   Endocrinology
+| symptoms   Enlarged thyroid gland in the neck
+| complications   Thyroid dysfunction, difficulty swallowing or breathing
+| causes   Iodine deficiency, Hashimoto's thyroiditis, cyanide poisoning, selenium deficiency, sarcoidosis, amyloidosis, hydatidiform mole, cysts, acromegaly, Pendred syndrome
+| diagnosis   Physical examination, blood tests, ultrasound, thyroid scan, biopsy
+| treatment   Iodine supplementation, thyroid hormone replacement therapy, surgery
+| prognosis   Generally good, but depends on the underlying cause
+| frequency   Common
+}}

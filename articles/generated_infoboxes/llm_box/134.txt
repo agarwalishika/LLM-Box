@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Pouakai
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Legendary creature
+| Sub Grouping   Bird
+| Similar entities   Haast's eagle
+| Family   
+| Folklore   M ori mythology
+| First Attested   
+| AKA   Poukai
+| Country   New Zealand
+| Region   South Island
+| Habitat   Lowland forests
+| Details   Monstrous bird in M ori mythology known for killing and eating humans. Potentially refers to the extinct Haast's eagle, the largest known eagle species capable of killing adult moa and potentially humans.
+}}

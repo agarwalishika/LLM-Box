@@ -1,0 +1,21 @@
+{{Infobox Doctor Who episode
+| number   Television film
+| serial name   Doctor Who: The Movie
+| show   Doctor Who
+| quotes   "I love humans. Always seeing patterns in things that aren't there."
+| type   Television film
+| image   Doctor Who The Movie.jpg
+| caption   DVD cover
+| image size   250px
+| alt   DVD cover of Doctor Who: The Movie
+| doctor   Paul McGann
+| doctors   8th
+| companion   Grace Holloway
+| companions   
+| cast   
+| doctor   Paul McGann
+| guests   Eric Roberts
+| director   Geoffrey Sax
+| writer   Matthew Jacobs
+| based on   Doctor Who by Sydney Newman, C. E. Webber, and Donald Wilson
+}}

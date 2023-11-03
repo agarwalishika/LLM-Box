@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Ugly Duckling
+| image   
+| caption   Illustration by Vilhelm Pedersen, 1844
+| author   Hans Christian Andersen
+| title orig   Den grimme  lling
+| translator   
+| country   Denmark
+| language   Danish
+| series   
+| genre   Fairy tale
+| published in   New Fairy Tales. First Volume. First Collection
+| publication type   Book
+| publisher   C.A. Reitzel
+| media type   Print
+| pub date   11 November 1843
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   da
+}}

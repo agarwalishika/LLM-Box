@@ -1,0 +1,13 @@
+{{Infobox flag
+| Name   F nghu ng
+| Image   File:Fenghuang.jpg
+| Image size   250px
+| Alt   A depiction of a fenghuang bird
+| Use   Mythological creature
+| Symbol   Mythological bird
+| Proportion   
+| Adoption   Ancient times
+| Design   A bird with the head of a golden pheasant, body of a mandarin duck, tail of a peacock, legs of a crane, mouth of a parrot, and wings of a swallow
+| Designer   N A
+}}
+

@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Grammy Award for Song of the Year
+| subheader   
+| current awards   
+| image   Grammy Award for Song of the Year.png
+| image size   200px
+| image upright   
+| alt   
+| caption   The Grammy Award for Song of the Year
+| awarded for   Outstanding achievement in songwriting
+| sponsor   The Recording Academy
+| date   Annual
+| YYYY   
+| MM   
+| DD   
+}}

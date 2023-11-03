@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Arachnophobia
+| synonyms   Fear of spiders, Spider phobia
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Psychiatry, Psychology
+| symptoms   Uneasiness, panic attacks, screaming, crying, emotional outbursts, trouble breathing, sweating, increased heart rate
+| complications   
+| onset   
+| duration   
+| types   
+| causes   Unknown, possibly evolutionary or cultural
+| cause    
+| risks   
+| risk    
+| diagnosis   Based on symptoms and patient history
+| differential   
+| prevention   
+| treatment   Exposure therapy, cognitive-behavioral therapy, medication (in severe cases)
+| management  
+| medication   Anti-anxiety medications, beta blockers (in severe cases)
+| prognosis   Varies, but can be successfully managed with treatment
+| frequency   Common
+| incidence  
+| prevalence  
+| deaths   None directly attributed to arachnophobia
+| named   
+| eponym  
+}}

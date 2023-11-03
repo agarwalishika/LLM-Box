@@ -1,0 +1,37 @@
+{{Infobox mythical creature
+| name   Chinese dragon
+| image   
+| caption   
+| alt   
+| grouping   Legendary creature
+| country   China
+| region   East Asia
+| habitat   
+| first reported   
+| last sighted   
+| status   
+| mythological   Yes
+| similar creatures   
+| other names   Loong, Long, Lung
+| origin   Chinese mythology
+| folklore   Chinese folklore
+| cultural origins   Chinese culture
+| forms   Turtle, fish, snake-like with four legs
+| theories   Snakes, Chinese alligators, thunder worship, nature worship
+| symbolism   Potent and auspicious powers, control over water
+| influenced by   Chinese culture
+| influenced   Korea, Vietnam, Japan
+| national emblem   Yes
+| national emblem country   China
+| national flag   Yes
+| national flag country   Qing dynasty
+| modern flag   Yes
+| modern flag country   Bhutan
+| symbolic value   Associated with the Emperor of China, symbol of imperial power
+| founder claim   Liu Bang claimed to be conceived after his mother dreamt of a dragon
+| tang dynasty   Emperors wore dragon motif robes, high officials presented with dragon robes
+| yuan dynasty   Two-horned five-clawed dragon for Emperor, four-clawed dragon for princes and nobles
+| ming qing dynasty   Five-clawed dragon strictly reserved for Emperor
+| shang zhou dynasty   Image of Chinese dragon roughly established
+| han dynasty   Winged Yinglong symbol of feudal imperial power
+}}

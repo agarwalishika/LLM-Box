@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   The Yellow Kid
+| image   File:Yellow Kid.jpg
+| imagesize   200px
+| alt   A black and white illustration of The Yellow Kid, a bald boy wearing an oversized yellow nightshirt
+| caption   The Yellow Kid, as depicted in a comic strip
+| publisher   Joseph Pulitzer's New York World, William Randolph Hearst's New York Journal
+| debut   1895
+| creators   Richard F. Outcault
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   Mickey Dugan
+| alter   
+| alter ego   
+| full name   Mickey Dugan
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   
+| powers   
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Leprechaun
+| image   Leprechaun.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of a leprechaun
+| Grouping   Fairy
+| Sub Grouping   Solitary fairy
+| Similar entities   
+| Family   
+| Folklore   Irish folklore
+| First Attested   
+| AKA   Lucharach n, Leipreach n, Luchorp n
+| Country   Ireland
+| Region   
+| Habitat   
+| Details   A diminutive supernatural being in Irish folklore, often depicted as a little bearded man wearing a coat and hat. Known for their mischievous nature and association with shoemaking. In folklore, they are believed to possess a hidden pot of gold at the end of the rainbow.
+}}

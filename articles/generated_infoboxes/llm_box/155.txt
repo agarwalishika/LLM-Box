@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Distinguished Service Medal
+| subheader   
+| current awards   
+| image   File:Distinguished Service Medal (US Army) medal.png
+| image size   150px
+| image upright   
+| alt   
+| caption   Medal of the Distinguished Service Medal
+| awarded for   Exceptionally meritorious service to the government in a duty of great responsibility
+| sponsor   United States Army
+| date   
+| YYYY   1918
+| MM   
+| DD   
+}}

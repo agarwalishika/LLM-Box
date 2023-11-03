@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Coma
+| synonyms   Unconsciousness, deep sleep
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology, critical care medicine
+| symptoms   Prolonged unconsciousness, lack of response to stimuli, absence of voluntary actions, respiratory and circulatory problems
+| complications   Pneumonia, blood clots
+| onset   Sudden or gradual
+| duration   Varies, can be temporary or long-term
+| types   Natural, medically induced
+| causes   Traumatic brain injury, stroke, brain tumor, drug overdose, metabolic disorders, infections
+| cause    
+| risks   Age, underlying health conditions, substance abuse
+| risk    
+| diagnosis   Inability to follow one-step command, Glasgow Coma Scale score   8 lasting   6 hours
+| differential   
+| prevention   Prompt treatment of underlying causes, safety measures to prevent accidents
+| treatment   Supportive care, monitoring vital signs, addressing underlying cause, physical therapy, medications
+| management    
+| medication   Sedatives, anticonvulsants, antibiotics, anticoagulants
+| prognosis   Varies depending on the cause and severity, some patients recover fully while others may have long-term disabilities
+| frequency   
+| incidence    
+| prevalence    
+| deaths   Varies depending on the cause and individual factors
+| named   
+| eponym    
+}}

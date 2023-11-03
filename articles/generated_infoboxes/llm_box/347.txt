@@ -1,0 +1,12 @@
+{{Infobox short story
+| name   The Leopard Man's Story
+| author   Jack London
+| country   United States
+| language   English
+| genre   Mystery
+| published in   Leslie's Weekly
+| publication type   Magazine
+| publication date   August 1903
+| included in   Moon-Face and Other Stories
+| media type   Print (Magazine)
+}}

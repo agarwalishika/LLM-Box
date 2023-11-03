@@ -1,0 +1,44 @@
+{{Infobox civil conflict
+| title   South African War (Anglo Boer War)
+| subtitle   
+| partof   
+| image   
+| caption   
+| date   11 October 1899   31 May 1902
+| place   South Africa
+| coordinates   
+| causes   British imperialism, Boer desire for independence, discovery of gold and diamonds
+| goals   British control over South African mining industry, Boer independence
+| methods   Guerrilla warfare, sieges, conventional warfare
+| status   British victory, Treaty of Vereeniging
+| result   British annexation of Boer republics, establishment of the Union of South Africa
+| side1   British Empire
+| side2   Boer republics (South African Republic, Orange Free State)
+| side3   
+| side4   
+| leadfigures1   Queen Victoria, Lord Roberts, Lord Kitchener
+| leadfigures2   Paul Kruger, Louis Botha, Koos de la Rey
+| leadfigures3   
+| leadfigures4   
+| howmany1   448,000
+| howmany2   87,000
+| howmany3   
+| howmany4   
+| casualties1   22,000 dead, 25,000 wounded
+| casualties2   7,000 dead, 12,000 wounded
+| casualties3   
+| casualties4   
+| fatalities   29,000
+| injuries   
+| arrests   
+| damage   
+| buildings   
+| detentions   
+| charged   
+| fined   
+| effect   Annexation of Boer republics, establishment of the Union of South Africa, concentration camps, scorched earth policy
+| effect label   
+| casualties label   
+| notes   
+| sidebox   
+}}

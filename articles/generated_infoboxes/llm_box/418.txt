@@ -1,0 +1,27 @@
+{{Infobox Doctor Who episode
+| number   48
+| serial name   The Seeds of Death
+| show   Doctor Who
+| type   Serial
+| image   
+| caption   
+| image size   
+| alt   
+| doctor   Second
+| doctors   Second Doctor
+| companion   Jamie McCrimmon, Zoe Heriot
+| companions   Jamie McCrimmon, Zoe Heriot
+| cast   Patrick Troughton, Frazer Hines, Wendy Padbury, Louise Pajo, Christopher Coll
+| director   Michael Ferguson
+| writer   Brian Hayles (and uncredited Terrance Dicks)
+| based on   
+| producer   Peter Bryant
+| executive producer   
+| composer   Dudley Simpson
+| production code   
+| series   Season 6
+| length   6 episodes, 25 minutes each
+| episode list   List of Doctor Who episodes (1963 1989)
+| prev   The Krotons
+| next   The Space Pirates
+}}

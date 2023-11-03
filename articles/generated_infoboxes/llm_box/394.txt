@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Vatican City
+| Image   Flag of Vatican City.svg
+| Image size   250px
+| Alt   The flag of Vatican City
+| Use   National flag and ensign
+| Symbol   The papal tiara and the crossed keys of Saint Peter
+| Proportion   1:1
+| Adoption   1929
+| Design   A vertical bicolour of yellow and white, with the papal tiara and the crossed keys of Saint Peter in the white stripe
+| Designer   Unknown
+}}

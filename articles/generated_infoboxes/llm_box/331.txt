@@ -1,0 +1,21 @@
+{{Infobox character
+| name   "' And He Built a Crooked House '"
+| series   Short story
+| image   
+| alt   
+| caption   
+| first major   Astounding Science Fiction
+| first minor   
+| first issue   February 1941
+| first date   
+| first   
+| last major   The Best of Robert Heinlein
+| last minor   
+| last issue   
+| last date   1973
+| last   
+| creator   Robert A. Heinlein
+| based on   
+| character   Quintus Teal
+| author   Robert A. Heinlein
+}}

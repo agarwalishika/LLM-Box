@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Sweden
+| Image   Flag of Sweden.svg
+| Image size   250px
+| Alt   The national flag of Sweden
+| Use   National flag
+| Symbol   A yellow Nordic cross on a field of light blue
+| Proportion   5:8
+| Adoption   22 June 1906
+| Design   A yellow or gold Nordic cross on a field of light blue
+| Designer   Unknown
+}}

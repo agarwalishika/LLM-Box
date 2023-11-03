@@ -1,0 +1,24 @@
+{{Infobox comics character
+| character name   Northstar
+| image   Northstar.jpg
+| imagesize   250px
+| caption   Northstar, as depicted in Astonishing X-Men  51 (June 2012)
+| publisher   Marvel Comics
+| debut   The Uncanny X-Men  120 (April 1979)
+| creators   Chris Claremont, John Byrne
+| real name   Jean-Paul Beaubier
+| species   Mutant
+| alliances   Alpha Flight, X-Men
+| powers   Superhuman speed, flight, photonic energy blasts
+| partners   Kyle Jinadu (husband)
+| sortkey   Northstar
+| cat   Marvel Comics superheroes
+| hero   yes
+| altcat   LGBT superheroes
+| addcharcat1   Fictional characters with energy-manipulation abilities
+| addcharcat2   Fictional characters with superhuman strength
+| addcharcat3   Fictional characters with superhuman speed
+| addcharcat4   Fictional characters with superhuman agility
+| addcharcat5   Fictional characters with superhuman endurance
+| addcharcat6   Fictional characters with superhuman reflexes
+}}

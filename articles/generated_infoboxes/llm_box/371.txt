@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Alaska
+| Image   Flag of Alaska.svg
+| Image size   250px
+| Alt   The state flag of Alaska
+| Use   110000
+| Symbol   Eight gold stars forming the Big Dipper and Polaris on a dark blue field
+| Proportion   125:177
+| Adoption   July 9, 1927
+| Design   A dark blue field with eight gold stars forming the Big Dipper and Polaris
+| Designer   Benny Benson
+}}

@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Acute disseminated encephalomyelitis
+| synonyms   Acute demyelinating encephalomyelitis, ADEM
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Sudden onset of inflammation in the brain and spinal cord, fever, loss of consciousness, coma
+| complications   
+| onset   Rapid
+| duration   Single flare-up, recovery within one to six months
+| types   
+| causes   Autoimmune response triggered by viral infection or vaccinations
+| cause    
+| risks   
+| risk    
+| diagnosis   Clinical evaluation, MRI, lumbar puncture
+| differential   Multiple sclerosis
+| prevention   
+| treatment   Supportive care, corticosteroids, immunoglobulins, plasma exchange
+| management  
+| medication   
+| prognosis   Full recovery in 50 to 75  of cases, mortality rate up to 5 
+| frequency   8 per 1,000,000 people per year
+| incidence  
+| prevalence  Most reported cases in children and adolescents, average age 5 to 8 years old
+| deaths   
+| named   
+| eponym  
+}}

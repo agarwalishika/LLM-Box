@@ -1,0 +1,31 @@
+{{Infobox film
+| name   Buffy the Vampire Slayer
+| image   Buffy the Vampire Slayer (1992 film).jpg
+| alt   The film poster featuring Kristy Swanson as Buffy
+| caption   Theatrical release poster
+| director   Fran Rubel Kuzui
+| producer   Kaz Kuzui
+| writer   Joss Whedon
+| based on   ''Buffy the Vampire Slayer'' by Joss Whedon
+| starring   Kristy Swanson
+Donald Sutherland
+Paul Reubens
+Rutger Hauer
+Luke Perry
+Hilary Swank
+David Arquette
+| music   Carter Burwell
+| cinematography   James Hayman
+| editing   Jill Savitt
+| studio   Sandollar Productions
+Kuzui Enterprises
+| distributor   20th Century Fox
+| released   {{Film date|1992|07|31}}
+| runtime   86 minutes
+| country   United States
+| language   English
+| budget    7 million
+| gross    16.6 million
+| preceded by   
+| followed by   
+}}

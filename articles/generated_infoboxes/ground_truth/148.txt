@@ -1,0 +1,5 @@
+{{Infobox 
+| Grouping   Mythical creature 
+| Folklore   Persian mythology 
+| Country   Ancient Iran 
+}}

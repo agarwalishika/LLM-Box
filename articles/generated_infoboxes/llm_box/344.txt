@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   The Terrible Old Man
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Fictional character
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   
+| First Attested   January 28, 1920
+| AKA   
+| Country   United States
+| Region   New England
+| Habitat   Ancient house on Water Street, Kingsport
+| Details   Short story by H. P. Lovecraft
+}}

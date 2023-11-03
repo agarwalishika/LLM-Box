@@ -1,0 +1,42 @@
+{{Infobox medical condition
+| name   Abscess
+| synonyms   
+| synonym    
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Infectious disease
+| symptoms   Redness, pain, warmth, swelling, fluid-filled sensation
+| complications   
+| onset   
+| duration   
+| types   Carbuncles, boils
+| causes   Bacterial infection, sometimes parasites
+| cause    
+| risks   Intravenous drug use
+| risk    
+| diagnosis   Clinical examination, cutting it open, ultrasound imaging, CT scan
+| differential   
+| prevention   
+| treatment   Incision and drainage, antibiotics
+| management  
+| medication   
+| prognosis   
+| frequency   Common
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

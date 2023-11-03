@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Essential tremor
+| synonyms   Benign tremor, familial tremor, idiopathic tremor
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Involuntary rhythmic contractions and relaxations of certain muscle groups, typically affecting the arms, hands, or fingers; may involve the head, vocal cords, or other body parts. Tremor intensifies during voluntary movements or is present with sustained muscle tone.
+| complications   
+| onset   Usually after age 40, but can occur at any age
+| duration   
+| types   
+| causes   Unknown
+| cause    
+| risks   
+| risk    
+| diagnosis   Observation of typical tremor pattern, exclusion of known causes
+| differential   
+| prevention   
+| treatment   Medications, Clostridium botulinum toxin (Botox) injections, ultrasound
+| management  
+| medication   Sequential use of medications to determine effectiveness and side effects
+| prognosis   Progressive neurological disorder, most common movement disorder
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

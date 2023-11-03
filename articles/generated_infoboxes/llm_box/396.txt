@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Missouri
+| Image   Flag of Missouri.svg
+| Image size   200px
+| Alt   The flag of Missouri
+| Use   110000
+| Symbol   
+| Proportion   3:5
+| Adoption   March 22, 1913
+| Design   Three equal horizontal tribands of red, white, and blue stripes, with the arms from the Great Seal of Missouri in the center
+| Designer   Mary Elizabeth Oliver
+}}

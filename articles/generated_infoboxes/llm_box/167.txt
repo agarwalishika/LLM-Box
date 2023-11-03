@@ -1,0 +1,108 @@
+{{Infobox scientist
+| honorific prefix   
+| name   ACM A. M. Turing Award
+| honorific suffix   
+| native name   
+| native name lang   
+| image   
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| nationality   
+| citizenship   
+| alma mater   
+| thesis title   
+| thesis url   
+| thesis year   
+| doctoral advisor   
+| academic advisors   
+| doctoral students   
+| notable students   
+| known for   Contributions of lasting and major technical importance to computer science
+| author abbrev bot   
+| author abbrev zoo   
+| influences   
+| influenced   
+| awards   ACM A. M. Turing Award
+| signature   
+| signature alt   
+| website   
+| footnotes   
+}}
+
+   Recipients   
+  1966: Alan Perlis
+  1967: Maurice Wilkes
+  1968: Richard Hamming
+  1969: Marvin Minsky
+  1970: J.H. Wilkinson
+  1971: John McCarthy
+  1972: Edsger W. Dijkstra
+  1973: Charles W. Bachman
+  1974: Donald E. Knuth
+  1975: Allen Newell and Herbert A. Simon
+  1976: Michael O. Rabin and Dana S. Scott
+  1977: John Backus
+  1978: Robert W. Floyd
+  1979: Kenneth E. Iverson
+  1980: Tony Hoare
+  1981: Edgar F. Codd
+  1982: Stephen A. Cook
+  1983: Ken Thompson and Dennis Ritchie
+  1984: Niklaus Wirth
+  1985: Richard M. Karp
+  1986: John Hopcroft and Robert Tarjan
+  1987: John Cocke
+  1988: Ivan Sutherland
+  1989: William Kahan
+  1990: Fernando J. Corbat 
+  1991: Robin Milner
+  1992: Butler W. Lampson
+  1993: Juris Hartmanis and Richard E. Stearns
+  1994: Edward Feigenbaum and Raj Reddy
+  1995: Manuel Blum
+  1996: Amir Pnueli
+  1997: Douglas Engelbart
+  1998: Jim Gray
+  1999: Frederick P. Brooks Jr.
+  2000: Andrew Yao
+  2001: Ole-Johan Dahl and Kristen Nygaard
+  2002: Ron Rivest, Adi Shamir, and Leonard Adleman
+  2003: Alan Kay
+  2004: Vinton G. Cerf and Robert E. Kahn
+  2005: Peter Naur
+  2006: Frances E. Allen
+  2007: Edmund M. Clarke, E. Allen Emerson, and Joseph Sifakis
+  2008: Barbara Liskov
+  2009: Charles P. Thacker
+  2010: Leslie G. Valiant
+  2011: Judea Pearl
+  2012: Silvio Micali and Shafi Goldwasser
+  2013: Leslie Lamport
+  2014: Michael Stonebraker
+  2015: Whitfield Diffie and Martin Hellman
+  2016: Tim Berners-Lee
+  2017: John L. Hennessy and David A. Patterson
+  2018: Yoshua Bengio, Geoffrey Hinton, and Yann LeCun
+  2019: Patrick M. M. Maeseneire
+  2020: Alfred V. Aho and Jeffrey D. Ullman
+  2021: Joseph Sifakis
+  2022: Robert Metcalfe
+
+   See also   
+
+   References   
+
+   External links   
+   https:  amturing.acm.org  ACM Chronological listing of Turing Laureates 
+   https:  amturing.acm.org laureate-interviews.cfm ACM A.M. Turing Award Laureate Interviews 
+   https:  amturing.acm.org centenary-celebration.cfm ACM A.M. Turing Award Centenary Celebration 
+   https:  amturing.acm.org laureate-visualizations.cfm Visualizing Turing Award Laureates 
+   https:  amturing.acm.org 50th-anniversary.cfm Celebration of 50 Years of the ACM A.M. Turing Award 

@@ -1,0 +1,16 @@
+{{Infobox film
+| name   Second Variety
+| image   
+| alt   
+| caption   
+| author   Philip K. Dick
+| country   United States
+| language   English
+| genre   Science fiction
+| published   May 1953
+| magazine   Space Science Fiction
+| media type   Print (magazine)
+| pages   N A
+| film adaptation   Screamers (1995)
+| sequel   "Jon's World" (1954)
+}}

@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Awards
+| subheader   Oscars
+| current awards   93rd Academy Awards
+| image   Academy Awards Oscar.png
+| image size   200px
+| image upright   
+| alt   Oscar statuette
+| caption   The Oscar statuette
+| awarded for   Artistic and technical merit in the film industry
+| sponsor   Academy of Motion Picture Arts and Sciences
+| date   Annual
+| YYYY   
+| MM   February or March
+| DD   
+}}

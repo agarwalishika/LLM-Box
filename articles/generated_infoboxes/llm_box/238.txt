@@ -1,0 +1,220 @@
+{{Infobox film
+| name   Destroy All Monsters
+| image   
+| image size   
+| image upright   
+| caption   
+| director   Ishir  Honda
+| producer   Tomoyuki Tanaka
+| screenplay   Takeshi Kimura
+| story   
+| based on   
+| starring   Akira Kubo
+Jun Tazaki
+Yukiko Kobayashi
+Yoshio Tsuchiya
+| music   Akira Ifukube
+| cinematography   Taiichi Kankura
+| editing   Ryohei Fujii
+| studio   Toho Co., Ltd
+| distributor   Toho Co., Ltd (Japan)
+American International Pictures (United States)
+| released   August 1, 1968 (Japan)
+May 23, 1969 (United States)
+| runtime   88 minutes
+| country   Japan
+| language   Japanese
+| budget   
+| gross   
+}}
+
+{{Infobox mythical creature
+| name   Kaij  S -shingeki
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Kaiju
+| Sub Grouping   
+| Similar entities   
+| Family   Godzilla franchise
+| Folklore   
+| First Attested   1968
+| AKA   Monster All-out Attack
+| Country   Japan
+| Region   
+| Habitat   Monster Island
+| Details   
+}}
+
+{{Infobox film cast
+| name   
+| image   
+| image size   
+| image upright   
+| caption   
+| role   
+| actor   
+}}
+
+{{Infobox film awards
+| name   
+| award   
+| year   
+| category   
+| result   
+}}
+
+{{Infobox film crew
+| name   
+| image   
+| image size   
+| image upright   
+| caption   
+| role   
+| crew   
+}}
+
+{{Infobox film rating
+| name   
+| country   
+| rating   
+| descriptor   
+| source   
+}}
+
+{{Infobox film soundtrack
+| name   
+| type   
+| artist   
+| cover   
+| alt   
+| released   
+| recorded   
+| studio   
+| genre   
+| length   
+| label   
+| producer   
+| chronology   
+| prev title   
+| prev year   
+| next title   
+| next year   
+}}
+
+{{Infobox film reception
+| name   
+| aggregate ratings   
+| rotten tomatoes   
+| metacritic   
+| imdb id   
+}}
+
+{{Infobox film sequence
+| name   
+| preceded by   
+| followed by   
+}}
+
+{{Infobox film series
+| name   
+| films   
+| first film   
+| last film   
+| released   
+| country   
+| language   
+| budget   
+| box office   
+| website   
+}}
+
+{{Infobox film awards list
+| name   
+| awards   
+| award1   
+| award1 wins   
+| award1 nominations   
+| award2   
+| award2 wins   
+| award2 nominations   
+| award3   
+| award3 wins   
+| award3 nominations   
+}}
+
+{{Infobox film credits
+| name   
+| writer   
+| screenplay   
+| story   
+| based on   
+| producer   
+| executive producer   
+| director   
+| starring   
+| music   
+| cinematography   
+| editing   
+| studio   
+| distributor   
+| released   
+| runtime   
+| country   
+| language   
+| budget   
+| gross   
+}}
+
+{{Infobox film soundtrack list
+| name   
+| songs   
+| song1   
+| song1 length   
+| song2   
+| song2 length   
+| song3   
+| song3 length   
+}}
+
+{{Infobox film reception list
+| name   
+| reviews   
+| review1   
+| review1 score   
+| review2   
+| review2 score   
+| review3   
+| review3 score   
+}}
+
+{{Infobox film sequence list
+| name   
+| films   
+| film1   
+| film2   
+| film3   
+}}
+
+{{Infobox film series list
+| name   
+| films   
+| film1   
+| film2   
+| film3   
+}}
+
+{{Infobox film awards list
+| name   
+| awards   
+| award1   
+| award1 wins   
+| award1 nominations   
+| award2   
+| award2 wins   
+| award2 nominations   
+| award3   
+| award3 wins   
+| award3 nominations   
+}}

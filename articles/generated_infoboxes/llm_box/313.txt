@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Requiem
+| image   
+| caption   
+| author   Robert A. Heinlein
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Science fiction
+| published in   Astounding
+| publication type   Magazine
+| publisher   Street   Smith
+| media type   Print (Magazine)
+| pub date   January 1940
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

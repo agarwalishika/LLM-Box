@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Austria
+| Image   Flag of Austria.svg
+| Image size   250px
+| Alt   The national flag of Austria
+| Use   National flag
+| Symbol   Triband
+| Proportion   2:3
+| Adoption   1230
+| Design   A horizontal triband of red, white, and red
+| Designer   Unknown
+}}

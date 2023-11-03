@@ -1,0 +1,14 @@
+{{Infobox 
+| Haemophilia   Haemophilia 
+| Other names   Hemophilia 
+| A drawing of clotting factor VIII   A drawing of clotting factor VIII 
+| Pronunciation    hi m  f li   
+| Specialty   Haematology 
+| Symptoms   Easy and prolongedbleeding 1  
+| Usual onset   At birth 2  
+| Causes   Usuallygenetic 3  
+| Diagnostic method   Blood test 4  
+| Prevention   Preimplantation screening 4  
+| Treatment   Replace missing bloodclotting factors 3  
+| Frequency   1 in 7,500 males (haemophilia A), 1 in 40,000 males (haemophilia B) 2  5  
+}}

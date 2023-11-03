@@ -1,0 +1,7 @@
+{{Infobox 
+| Arteriovenous malformation   Arteriovenous malformation 
+| Other names   AVM 
+| Micrograph of an arteriovenous malformation in the brain. HPS stain.   Micrograph of an arteriovenous malformation in the brain. HPS stain. 
+| Specialty   Neurosurgery 
+| Diagnostic method   CT, MRI, MRA 
+}}

@@ -1,0 +1,10 @@
+{{Infobox 
+| Centauress, by John La Farge   Centauress, by John La Farge 
+| Grouping   Legendary creature 
+| Sub grouping   Hybrid 
+| Similar entities   Minotaur,satyr,harpy 
+| Folklore   Greek 
+| Other name(s)   Kentaur, Centaurus, Sagittary 1  
+| Region   Greece, Cyprus 
+| Habitat   Land 
+}}

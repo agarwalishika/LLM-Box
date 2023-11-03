@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Arteriovenous malformation
+| synonyms   AVM, arteriovenous anomaly
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Vascular surgery, neurology
+| symptoms   Vary depending on location; can include headaches, seizures, muscle weakness, vertigo, difficulties with speech and communication, abnormal sensations, memory and thought-related problems
+| complications   Bleeding, neurological deficit, pain
+| onset   Usually congenital
+| duration   Lifelong
+| types   Cerebral AVM, AVM in other parts of the body
+| causes   Unknown, possibly genetic factors
+| cause    
+| risks   Unknown, possibly genetic factors
+| risk    
+| diagnosis   Imaging tests (angiography, MRI, CT scan), neurological examination
+| differential   Other vascular malformations, tumors
+| prevention   Not currently possible
+| treatment   Surgical removal, embolization, radiosurgery
+| management  Supportive care, symptom management
+| medication   Medications to control seizures, pain, and other symptoms
+| prognosis   Varies depending on location, size, and treatment; some AVMs can be successfully treated, while others may require lifelong management
+| frequency   Rare
+| incidence  
+| prevalence  
+| deaths   Can be life-threatening if untreated or complications occur
+| named   
+| eponym  
+}}

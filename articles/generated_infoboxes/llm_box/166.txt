@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Silver Star Medal
+| subheader   
+| current awards   
+| image   File:Silver Star Medal.jpg
+| image size   150px
+| image upright   
+| alt   
+| caption   The Silver Star Medal
+| awarded for   Valor in combat
+| sponsor   United States Armed Forces
+| date   
+| YYYY   
+| MM   
+| DD   
+}}

@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   God Emperor of Dune
+| image   
+| image size   
+| border   
+| alt   
+| caption   
+| author   Frank Herbert
+| audio read by   
+| title orig   
+| orig lang code   
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   United States
+| language   English
+| series   Dune
+| release number   4
+| subject   Science fiction
+| genre   
+| set in   
+| publisher   Putnam
+| publisher2   
+| pub date   1981
+| english pub date   
+| published   
+| media type   Print (hardcover and paperback)
+| pages   
+| awards   
+| isbn   0-399-12690-9
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   Children of Dune
+| followed by   Heretics of Dune
+| native wikisource   
+| wikisource   
+| notes   Ranked No. 11 hardcover fiction best seller of 1981 by Publishers Weekly
+| exclude cover   
+| website   
+}}

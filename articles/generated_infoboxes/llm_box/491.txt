@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Foix Alajouanine syndrome
+| synonyms   Subacute ascending necrotizing myelitis
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Paralysis of arms and legs, numbness, loss of sensation, sphincter dysfunction
+| complications   
+| onset   Insidious
+| duration   
+| types   
+| causes   Arteriovenous malformation of the spinal cord
+| cause  
+| risks   
+| risk  
+| diagnosis   MRI, Spinal MRA
+| differential   
+| prevention   
+| treatment   Surgical treatment, endovascular embolization, ligation, corticosteroids, physical therapy
+| management  
+| medication   
+| prognosis   
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   Charles Foix, Th ophile Alajouanine
+| eponym  
+}}

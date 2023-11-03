@@ -1,0 +1,20 @@
+{{Infobox civilian attack
+| title   Shooting an Elephant
+| partof   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| map   
+| map size   
+| map alt   
+| map caption   
+| location   Moulmein, Burma
+| target   Aggressive elephant
+| coordinates   
+| date   Late 1936
+| YYYY   
+| MM   
+| DD   
+}}

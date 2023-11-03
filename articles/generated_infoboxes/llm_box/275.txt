@@ -1,0 +1,18 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Laozi
+| honorific suffix   
+| native name     
+| native name lang   zh
+| image   
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   
+| birth name   
+| birth date   
+| YYYY   6th century BC
+| MM   
+| DD   
+}}

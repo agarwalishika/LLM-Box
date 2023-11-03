@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Gone with the Wind
+| image   Gone with the Wind cover.jpg
+| caption   First edition cover
+| author   Margaret Mitchell
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Historical novel
+| published in   
+| publication type   Novel
+| publisher   Macmillan Publishers
+| media type   Print (hardcover)
+| pub date   June 30, 1936
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   1037
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

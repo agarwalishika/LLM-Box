@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Simurgh
+| image   Simurgh.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of the Simurgh in Iranian art
+| Grouping   Mythical creature
+| Sub Grouping   
+| Similar entities   Phoenix, Hum 
+| Family   
+| Folklore   Persian mythology and literature
+| First Attested   Ancient times
+| AKA   Simorgh, Simorg, Simurg, Simoorg, Simorq, Simourv
+| Country   Iran
+| Region   Persian cultural influence
+| Habitat   Places with plenty of water
+| Details   The Simurgh is a benevolent, mythical bird in Persian mythology and literature. It is sometimes equated with other mythological birds such as the phoenix and the hum , though it is a distinct creature of its own. It is depicted as a winged creature in the shape of a bird, large enough to carry off an elephant or a whale. The Simurgh has the head of a dog, the claws of a lion, and sometimes a human face. It is inherently benevolent, female, and part mammal, suckling its young. The Simurgh has an enmity towards snakes and its feathers are said to be the color of copper. It is found in Iranian art and literature, as well as in the iconography of other regions influenced by Persian culture.
+}}

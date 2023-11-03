@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Hemiparesis
+| synonyms   Unilateral paresis
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Weakness of one entire side of the body
+| complications   Loss of motor skills, pusher syndrome
+| onset   Varies depending on the underlying cause
+| duration   Chronic
+| types   Congenital, trauma-related, tumor-related, stroke-related
+| causes   Congenital factors, trauma, tumors, stroke
+| cause    
+| risks   
+| risk    
+| diagnosis   Clinical evaluation, medical imaging
+| differential   
+| prevention   
+| treatment   Physical therapy, occupational therapy, medication, assistive devices
+| management  
+| medication   Muscle relaxants, pain relievers
+| prognosis   Varies depending on the underlying cause and severity
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

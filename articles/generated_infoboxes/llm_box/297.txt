@@ -1,0 +1,18 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Italo Calvino
+| honorific suffix   
+| native name   
+| native name lang   
+| image   Italo Calvino.jpg
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   Italo Calvino, author of Cosmicomics
+| birth name   Italo Calvino
+| birth date   
+| YYYY   1923
+| MM   10
+| DD   15
+}}

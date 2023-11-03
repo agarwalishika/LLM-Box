@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Dune Messiah
+| image   
+| caption   
+| author   Frank Herbert
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   Dune series
+| genre   Science fiction
+| published in   Galaxy magazine
+| publication type   Serialized novel
+| publisher   Putnam
+| media type   Print (hardcover)
+| pub date   1969
+| english pub date   1969
+| preceded by   Dune
+| followed by   Children of Dune
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

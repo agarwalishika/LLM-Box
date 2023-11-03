@@ -1,0 +1,11 @@
+{{Infobox 
+| "The Leopard Man's Story"   "The Leopard Man's Story" 
+| Short story by Jack London   Short story by Jack London 
+| Country   United States 
+| Language   English 
+| Genre(s)   Short story 
+| Publication   Publication 
+| Publication type   Magazine 
+| Publisher   Leslie's Weekly 
+| Publication date   1903 
+}}

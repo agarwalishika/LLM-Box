@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   The Joker
+| image   Joker.png
+| imagesize   250px
+| alt   A depiction of the Joker, a supervillain from DC Comics
+| caption   The Joker, as depicted in DC Comics
+| publisher   DC Comics
+| debut   Batman  1 (April 25, 1940)
+| creators   Bill Finger, Bob Kane, Jerry Robinson
+| voiced by   Various actors
+| first series   Batman (1966)
+| first episode   "Hi Diddle Riddle"
+| first comic   Batman  1 (April 25, 1940)
+| real name   Unknown
+| alter   
+| alter ego   
+| full name   Unknown
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   The Clown Prince of Crime, The Harlequin of Hate, The Jester of Genocide
+| powers   Expert in chemical engineering, skilled in hand-to-hand combat, unpredictable and strategic thinking
+| partners   Harley Quinn, various Gotham City supervillains
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Joker
+| subcat   DC Comics supervillains
+| cat   
+| hero   
+| villain   yes
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

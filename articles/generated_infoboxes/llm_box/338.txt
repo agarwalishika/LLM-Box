@@ -1,0 +1,22 @@
+{{Infobox book
+| name   The Emperor's New Clothes
+| image   
+| caption   
+| author   Hans Christian Andersen
+| title orig   Kejserens nye kl der
+| translator   
+| illustrator   
+| cover artist   
+| country   Denmark
+| language   Danish
+| series   Andersen's Fairy Tales Told for Children
+| genre   Literary folktale
+| published   7 April 1837
+| publisher   C. A. Reitzel
+| media type   Print
+| pages   
+| isbn   
+| oclc   
+| preceded by   
+| followed by   
+}}

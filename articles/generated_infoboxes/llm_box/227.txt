@@ -1,0 +1,27 @@
+{{Infobox film
+| name   Enter the Dragon
+| image   Enter the Dragon poster.jpg
+| alt   A movie poster featuring Bruce Lee in a fighting stance
+| caption   Theatrical release poster
+| native name       
+| director   Robert Clouse
+| producer   Fred Weintraub
+| writer   Michael Allin
+| starring   Bruce Lee
+John Saxon
+Jim Kelly
+| music   Lalo Schifrin
+| cinematography   Gil Hubbs
+| editing   Kurt Hirschler
+| studio   Concord Production Inc.
+| distributor   Warner Bros.
+| released   August 19, 1973
+| runtime   102 minutes
+| country   United States
+Hong Kong
+| language   English
+| budget    850,000
+| gross    400 million
+| preceded by   
+| followed by   
+}}

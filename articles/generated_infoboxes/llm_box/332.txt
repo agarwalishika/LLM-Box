@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Riders of the Purple Wage
+| image   
+| caption   
+| author   Philip Jos  Farmer
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Science fiction
+| published in   Dangerous Visions
+| publication type   Anthology
+| publisher   Doubleday
+| media type   Print (Hardcover)
+| pub date   1967
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

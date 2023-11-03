@@ -1,0 +1,10 @@
+{{Infobox 
+| "By His Bootstraps"   "By His Bootstraps" 
+| Short story by Robert A. Heinlein as Anson MacDonald   Short story by Robert A. Heinlein as Anson MacDonald 
+| Language   English 
+| Genre(s)   Science fiction 
+| Publication   Publication 
+| Published in   Astounding Science Fiction 
+| Media type   Magazine 
+| Publication date   October 1941 
+}}

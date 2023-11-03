@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Presidential Medal of Freedom
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Meritorious contributions to the security or national interests of the United States, world peace, cultural or other significant public or private endeavors
+| sponsor   President of the United States
+| date   Established in 1963
+| YYYY   
+| MM   
+| DD   
+}}

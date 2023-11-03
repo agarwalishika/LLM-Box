@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Odysseus
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Hero
+| Sub Grouping   
+| Similar entities   
+| Family   La rtes (father), Anticlea (mother), Penelope (wife), Telemachus (son), Acusilaus (son), Telegonus (son)
+| Folklore   Greek and Roman mythology
+| First Attested   
+| AKA   Ulysses
+| Country   Greece
+| Region   Ithaca
+| Habitat   
+| Details   Legendary Greek king of Ithaca and hero of Homer's epic poem the Odyssey. Renowned for his intellectual brilliance, guile, and versatility. Known as Odysseus the Cunning. Played a key role in Homer's Iliad and other works in the epic cycle. Famous for his "homecoming" after the Trojan War, which took him ten eventful years.
+}}

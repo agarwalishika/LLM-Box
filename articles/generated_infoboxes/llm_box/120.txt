@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Mermaid
+| image   File:Mermaid.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of a mermaid
+| Grouping   Legendary creature
+| Sub Grouping   
+| Similar entities   Merman, Siren
+| Family   
+| Folklore   Worldwide
+| First Attested   Middle English (c. 1390)
+| AKA   Merfolk, Merpeople
+| Country   
+| Region   Europe, Asia, Africa
+| Habitat   Oceans, seas, lakes, rivers
+| Details   Aquatic creature with the head and upper body of a female human and the tail of a fish. Associated with floods, storms, shipwrecks, and drownings. Can be benevolent or beneficent. Influenced by Greek mythology. Historical accounts may have been sightings of manatees or similar aquatic mammals. Popular subject of art and literature.
+}}

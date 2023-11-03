@@ -1,0 +1,21 @@
+{{Infobox Doctor Who episode
+| number   1
+| serial name   An Unearthly Child
+| show   Doctor Who
+| quotes   "Fear makes companions of all of us."
+| type   Serial
+| image   An Unearthly Child.jpg
+| caption   Title card for "An Unearthly Child"
+| image size   250px
+| alt   
+| doctor   First
+| doctors   William Hartnell
+| companion   Susan Foreman
+| companions   Carole Ann Ford
+| cast   Jacqueline Hill, William Russell
+| guests   
+| director   Waris Hussein
+| writer   Anthony Coburn
+| based on   
+}}
+

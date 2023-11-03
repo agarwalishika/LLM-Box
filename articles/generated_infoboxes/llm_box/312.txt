@@ -1,0 +1,16 @@
+{{Infobox book
+| name   Misfit
+| image   
+| caption   
+| author   Robert A. Heinlein
+| country   United States
+| language   English
+| series   Future History
+| genre   Science fiction
+| publisher   Astounding Science Fiction
+| pub date   November 1939
+| media type   Print (Magazine)
+| pages   
+| preceded by   
+| followed by   
+}}

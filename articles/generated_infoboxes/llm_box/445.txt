@@ -1,0 +1,20 @@
+{{Infobox Doctor Who episode
+| number   130
+| serial name   The Five Doctors
+| show   Doctor Who
+| quotes   "A man is the sum of his memories. A Time Lord even more so."
+| type   Special
+| image   File:The Five Doctors.jpg
+| caption   DVD cover
+| image size   250px
+| alt   The Doctor and his companions standing in front of the Death Zone on Gallifrey
+| doctor   Fifth Doctor
+| doctors   Second Doctor, Third Doctor, Fourth Doctor, First Doctor
+| companion   Tegan Jovanka, Turlough
+| companions   Susan Foreman, Sarah Jane Smith, Brigadier Lethbridge-Stewart
+| cast   Peter Davison, Patrick Troughton, Jon Pertwee, Richard Hurndall, Tom Baker
+| guests   Nicholas Courtney, Elisabeth Sladen, Carole Ann Ford
+| director   Peter Moffatt
+| writer   Terrance Dicks
+| based on   
+}}

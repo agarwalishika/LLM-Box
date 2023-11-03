@@ -1,0 +1,31 @@
+{{Infobox Doctor Who episode
+| number   136
+| serial name   The Caves of Androzani
+| show   Doctor Who
+| quotes   "Is this death?"
+| type   Serial
+| image   The Caves of Androzani.jpg
+| caption   The Fifth Doctor (Peter Davison) and Peri (Nicola Bryant) in the caves of Androzani Minor
+| image size   250px
+| alt   The Doctor and Peri in a cave
+| doctor   Fifth
+| doctors   Peter Davison
+| companion   Peri Brown
+| companions   Nicola Bryant
+| cast   
+  Peter Davison as the Doctor
+  Nicola Bryant as Peri Brown
+  John Normington as Morgus
+  Christopher Gable as Sharaz Jek
+| guests   
+  Maurice Ro ves as Stotz
+  Robert Glenister as Salateen
+  Roy Holder as Krelper
+  Barbara Kinghorn as Timmin
+  Martin Cochrane as Chellak
+  David Neal as Morgus' aide
+| director   Graeme Harper
+| writer   Robert Holmes
+| based on   
+}}
+

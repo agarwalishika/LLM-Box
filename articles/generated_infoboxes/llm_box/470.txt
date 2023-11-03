@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Coronary artery disease
+| synonyms   Coronary heart disease, ischemic heart disease, myocardial ischemia, heart disease
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Cardiology
+| symptoms   Chest pain or discomfort, shortness of breath, no symptoms in some cases
+| complications   Heart failure, abnormal heartbeat
+| onset   
+| duration   
+| types   Stable angina, unstable angina, myocardial infarction
+| causes   Build-up of atherosclerotic plaque in the arteries of the heart
+| cause    
+| risks   High blood pressure, smoking, diabetes, lack of exercise, obesity, high blood cholesterol, poor diet, depression, excessive alcohol consumption
+| risk    
+| diagnosis   Electrocardiogram, cardiac stress testing, coronary computed tomographic angiography, coronary angiogram
+| differential   
+| prevention   Healthy diet, regular exercise, maintaining a healthy weight, not smoking
+| treatment   Medications (diabetes, high cholesterol, high blood pressure), antiplatelets, beta blockers, nitroglycerin, percutaneous coronary intervention (PCI), coronary artery bypass surgery (CABG)
+| management    
+| medication   
+| prognosis   
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

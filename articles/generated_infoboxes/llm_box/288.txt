@@ -1,0 +1,35 @@
+{{Infobox noble
+| name   Gaudy Night
+| title   Novel
+| image   
+| caption   
+| alt   
+| CoA   
+| more   
+| succession   
+| reign   
+| reign-type   
+| predecessor   Strong Poison
+| successor   Busman's Honeymoon
+| suc-type   
+| spouse   
+| spouse-type   
+| issue-type   
+| issue   
+| issue-link   
+| issue-pipe   
+| full   Gaudy Night
+| native name   
+| styles   Mystery, Crime, Detective fiction
+| other titles   
+| noble   
+| house-type   
+| father   
+| mother   
+| birth name   
+| birth date   1935
+| YYYY   
+| MM   
+| DD   
+| df y   
+}}

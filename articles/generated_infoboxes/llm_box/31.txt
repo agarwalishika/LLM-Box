@@ -1,0 +1,20 @@
+{{Infobox character
+| name   Worf, son of Mogh
+| image   Worf.jpg
+| image size   250px
+| caption   Michael Dorn as Worf
+| franchise   Star Trek
+| portrayer   Michael Dorn
+| first appearance   "Encounter at Farpoint" (1987)
+| last appearance   ''Star Trek: Picard'' season 3 (2023)
+| seasons   11 (''Star Trek: The Next Generation'' and ''Star Trek: Deep Space Nine'')
+| films   ''Star Trek Generations'' (1994), ''Star Trek: First Contact'' (1996), ''Star Trek: Insurrection'' (1998), ''Star Trek: Nemesis'' (2002)
+| species   Klingon
+| occupation   Starfleet officer
+| rank   Lieutenant, Lieutenant Commander, Commander
+| parents   Mogh (father), Helena and Sergey Rozhenko (adoptive human parents)
+| siblings   Kurn (brother), Nikolai Rozhenko (adoptive brother)
+| children   Alexander Rozhenko (son)
+| significant other   Jadzia Dax (romantic interest)
+| awards   
+}}

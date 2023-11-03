@@ -1,0 +1,19 @@
+{{Infobox mythical creature
+| name   Skuld
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Deity
+| Sub Grouping   
+| Similar entities   
+| Family   Belldandy (sister)
+| Folklore   Oh My Goddess!
+| First Attested   Chapter 32 of the manga "The Third Goddess"
+| AKA   
+| Country   
+| Region   
+| Habitat   
+| Details   
+}}
+

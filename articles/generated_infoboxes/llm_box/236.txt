@@ -1,0 +1,26 @@
+{{Infobox film
+| name   Ebirah, Horror of the Deep
+| image   
+| alt   
+| caption   Japanese film poster
+| native name                     
+| director   Jun Fukuda
+| producer   Tomoyuki Tanaka
+| writer   Shinichi Sekizawa
+| starring   Akira Takarada
+Kumi Mizuno
+Akihiko Hirata
+Eisei Amamoto
+| music   Masaru Sato
+| cinematography   Kazuo Yamada
+| editing   Ryozo Tanaka
+| studio   Toho Co., Ltd.
+| distributor   Toho Co., Ltd.
+| released   December 17, 1966 (Japan)
+| runtime   87 minutes
+| country   Japan
+| language   Japanese
+| budget   
+| gross   
+| title   Godzilla versus the Sea Monster
+}}

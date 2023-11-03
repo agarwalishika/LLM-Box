@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Harpy
+| image   Harpy.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of a harpy in Greek pottery art
+| Grouping   Mythological creature
+| Sub Grouping   Hybrid creature
+| Similar entities   Sirens, Sphinx
+| Family   Wind deities
+| Folklore   Greek and Roman mythology
+| First Attested   Homeric poems
+| AKA   Harpies
+| Country   Greece, Rome
+| Region   Mediterranean
+| Habitat   Stormy areas, cliffs, and caves
+| Details   Half-human and half-bird creatures with the heads of maidens, pale faces, and long claws. Known for their speed and association with storm winds.
+}}

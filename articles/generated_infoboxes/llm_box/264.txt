@@ -1,0 +1,19 @@
+{{Infobox philosopher
+| name   Boethius
+| image   
+| image alt   
+| caption   
+| era   Late Antiquity
+| region   Western philosophy
+| school tradition   Neoplatonism
+| main interests   Philosophy, Theodicy, Happiness, God
+| notable ideas   Consolation of Philosophy, Nature of Happiness, Virtue, Justice
+| influences   Plato, Aristotle, Plotinus
+| influenced   Thomas Aquinas, Dante Alighieri, Geoffrey Chaucer
+| birth date   c. 480
+| birth place   Rome, Western Roman Empire
+| death date   c. 524
+| death place   Pavia, Ostrogothic Kingdom
+| occupation   Philosopher, Statesman
+| notable works   ''Consolation of Philosophy''
+}}

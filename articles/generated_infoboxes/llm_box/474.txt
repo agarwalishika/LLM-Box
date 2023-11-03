@@ -1,0 +1,53 @@
+{{Infobox drug
+| drug name   Candidiasis
+| type   Fungal infection
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category  
+| routes of administration   
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   
+| elimination half-life   
+| duration of action  
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   
+| molecular weight   
+}}
+
+Candidiasis is a fungal infection due to any type of Candida (a type of yeast). When it affects the mouth, in some countries it is commonly called thrush. Signs and symptoms include white patches on the tongue or other areas of the mouth and throat. Other symptoms may include soreness and problems swallowing. When it affects the vagina, it may be referred to as a yeast infection or thrush. Signs and symptoms include genital itching, burning, and sometimes a white "cottage cheese-like" discharge from the vagina. Yeast infections of the penis are less common and typically present with an itchy rash. Very rarely, yeast infections may become invasive, spreading to other parts of the body. This may result in fevers along with other symptoms depending on the parts involved. More than 20 types of Candida may cause infection with Candida albicans being the most common. Infections of the mouth are most common among children less than one month old, the elderly, and those with weak immune systems. Conditions that result in a weak immune system include HIV AIDS, the medications used after organ transplantation, diabetes, and the use of corticosteroids. Other risk factors include during breastfeeding, following antibiotic therapy, and the wearing of dentures. Vaginal infections occur more commonly during pregnancy, in those with weak immune systems, and following antibiotic therapy. Individuals at risk for invasive candidiasis include low birth weight babies, people recovering from surgery, people admitted to intensive care units, and those with an otherwise compromised immune system. Efforts to prevent infections of the mouth include the use of chlorhexidine mouthwash in those with poor immune function and washing out the mouth following the use of inhaled steroids. Little evidence supports probiotics for either prevention or treatment, even among those with frequent vaginal infections. For infections of the mouth, treatment with topical clotrimazole or nystatin is usually effective.

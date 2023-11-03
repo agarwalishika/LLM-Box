@@ -1,0 +1,19 @@
+{{Infobox civilian attack
+| title   Chakotay
+| image   Chakotay.jpg
+| image size   
+| image upright   
+| alt   
+| caption   Robert Beltran as Chakotay
+| location   USS Voyager, later USS Protostar
+| date   2371 2378
+| target   Starfleet missions, survival in the Delta Quadrant
+| coordinates   
+| partof   Star Trek: Voyager
+| map   
+| map size   
+| map alt   
+| map caption   
+| casualties1   
+| casualties2   
+}}

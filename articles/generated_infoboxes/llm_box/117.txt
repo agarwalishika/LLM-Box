@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Boggart
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Folklore creature
+| Sub Grouping   Household spirit, Genius loci
+| Similar entities   Bug, Bugbear, Bugaboo, Bogeyman, Bogle
+| Family   
+| Folklore   English folklore
+| First Attested   
+| AKA   Bug, Bugbear, Bugaboo, Bogey, Bogun, Bogle, etc.
+| Country   England
+| Region   
+| Habitat   Fields, marshes, topographical features
+| Details   A malevolent creature in English folklore, the boggart is known as a household spirit or a malevolent genius loci. It is believed to inhabit fields, marshes, or other topographical features. The boggart is associated with causing mischief in homes, such as making things disappear, souring milk, and causing lameness in dogs. In more serious cases, boggarts inhabiting marshes or holes in the ground are believed to be responsible for the abduction of children. The boggart is often referred to by various names, including bug, bugbear, bugaboo, bogey, bogun, bogle, etc. It is said that hanging a horseshoe on the door and leaving a pile of salt outside the bedroom can keep a boggart away. In some areas, it was believed that helpful household sprites could turn into malevolent boggarts if offended or ill-treated. Naming a boggart was considered dangerous, as it would make the creature uncontrollable and destructive. The folklore of North-West England distinguishes between "House boggarts" and other types, with the latter being more commonly found outdoors in marshland, holes in the ground, under bridges, and on dangerous sharp bends on roads.
+}}

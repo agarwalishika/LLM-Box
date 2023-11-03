@@ -1,0 +1,23 @@
+{{Infobox character
+| name   Spenser
+| series   Spenser series
+| franchise   Spenser: For Hire
+| image   
+| alt   
+| caption   
+| first major   The Godwulf Manuscript
+| first minor   
+| first issue   
+| first date   1973
+| first   
+| last major   
+| last minor   
+| last issue   
+| last date   
+| last   
+| creator   Robert B. Parker
+| based on   
+| character   Private investigator
+| author   Robert B. Parker (original), Ace Atkins (continuation)
+}}
+

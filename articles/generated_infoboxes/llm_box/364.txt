@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Finland
+| Image   Flag of Finland.svg
+| Image size   250px
+| Alt   The flag of Finland
+| Use   National flag and ensign
+| Symbol   Blue Nordic cross on a white background
+| Proportion   11:18
+| Adoption   29 May 1918
+| Design   A blue Nordic cross on a white field
+| Designer   Fredrik Pacius (music), Johan Ludvig Runeberg (lyrics)
+}}

@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Paul Bunyan
+| image   Paul Bunyan statue.jpg
+| image size   250px
+| image upright   
+| caption   Statue of Paul Bunyan in Bemidji, Minnesota
+| Grouping   Folklore
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   American and Canadian folklore
+| First Attested   1893
+| AKA   
+| Country   United States, Canada
+| Region   North America
+| Habitat   Forests
+| Details   Giant lumberjack and folk hero known for his superhuman labors. Often accompanied by his pet and working animal, Babe the Blue Ox. Popularized by William B. Laughead in a 1916 promotional pamphlet for the Red River Lumber Company. Subject of various literary compositions, musical pieces, commercial works, and theatrical productions. Numerous oversized statues of Paul Bunyan are displayed across North America.
+}}

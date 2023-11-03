@@ -1,0 +1,406 @@
+{{Infobox character
+| name   Odo
+| image   
+| caption   Ren  Auberjonois as Odo
+| series   Star Trek: Deep Space Nine
+| first   "Emissary" (1993)
+| last   "What You Leave Behind" (1999)
+| portrayer   Ren  Auberjonois
+| species   Changeling
+| occupation   Head of Security
+| affiliation   Deep Space Nine
+| gender   Male
+| age   Middle-aged
+| abilities   Shape-shifting
+| nationality   
+| home   
+| significant other   
+| relatives   
+| creator   
+| voice   
+| motion actor   
+| motion portrayer   
+| motion capture   
+| motion voice   
+| motion performance   
+| motion model   
+| motion based on   
+| motion animator   
+| motion designer   
+| motion artist   
+| motion writer   
+| motion director   
+| motion producer   
+| motion executive producer   
+| motion distributor   
+| motion composer   
+| motion editor   
+| motion programmer   
+| motion engineer   
+| motion supervisor   
+| motion design   
+| motion visual effects   
+| motion costume design   
+| motion makeup   
+| motion hair   
+| motion sound   
+| motion sound design   
+| motion sound editor   
+| motion sound engineer   
+| motion sound effects   
+| motion sound effects editor   
+| motion sound effects supervisor   
+| motion sound effects design   
+| motion sound effects producer   
+| motion sound effects director   
+| motion sound effects artist   
+| motion sound effects writer   
+| motion sound effects distributor   
+| motion sound effects composer   
+| motion sound effects editor2   
+| motion sound effects engineer   
+| motion sound effects supervisor2   
+| motion sound effects design2   
+| motion sound effects producer2   
+| motion sound effects director2   
+| motion sound effects artist2   
+| motion sound effects writer2   
+| motion sound effects distributor2   
+| motion sound effects composer2   
+| motion sound effects editor3   
+| motion sound effects engineer2   
+| motion sound effects supervisor3   
+| motion sound effects design3   
+| motion sound effects producer3   
+| motion sound effects director3   
+| motion sound effects artist3   
+| motion sound effects writer3   
+| motion sound effects distributor3   
+| motion sound effects composer3   
+| motion sound effects editor4   
+| motion sound effects engineer3   
+| motion sound effects supervisor4   
+| motion sound effects design4   
+| motion sound effects producer4   
+| motion sound effects director4   
+| motion sound effects artist4   
+| motion sound effects writer4   
+| motion sound effects distributor4   
+| motion sound effects composer4   
+| motion sound effects editor5   
+| motion sound effects engineer4   
+| motion sound effects supervisor5   
+| motion sound effects design5   
+| motion sound effects producer5   
+| motion sound effects director5   
+| motion sound effects artist5   
+| motion sound effects writer5   
+| motion sound effects distributor5   
+| motion sound effects composer5   
+| motion sound effects editor6   
+| motion sound effects engineer5   
+| motion sound effects supervisor6   
+| motion sound effects design6   
+| motion sound effects producer6   
+| motion sound effects director6   
+| motion sound effects artist6   
+| motion sound effects writer6   
+| motion sound effects distributor6   
+| motion sound effects composer6   
+| motion sound effects editor7   
+| motion sound effects engineer6   
+| motion sound effects supervisor7   
+| motion sound effects design7   
+| motion sound effects producer7   
+| motion sound effects director7   
+| motion sound effects artist7   
+| motion sound effects writer7   
+| motion sound effects distributor7   
+| motion sound effects composer7   
+| motion sound effects editor8   
+| motion sound effects engineer7   
+| motion sound effects supervisor8   
+| motion sound effects design8   
+| motion sound effects producer8   
+| motion sound effects director8   
+| motion sound effects artist8   
+| motion sound effects writer8   
+| motion sound effects distributor8   
+| motion sound effects composer8   
+| motion sound effects editor9   
+| motion sound effects engineer8   
+| motion sound effects supervisor9   
+| motion sound effects design9   
+| motion sound effects producer9   
+| motion sound effects director9   
+| motion sound effects artist9   
+| motion sound effects writer9   
+| motion sound effects distributor9   
+| motion sound effects composer9   
+| motion sound effects editor10   
+| motion sound effects engineer9   
+| motion sound effects supervisor10   
+| motion sound effects design10   
+| motion sound effects producer10   
+| motion sound effects director10   
+| motion sound effects artist10   
+| motion sound effects writer10   
+| motion sound effects distributor10   
+| motion sound effects composer10   
+| motion sound effects editor11   
+| motion sound effects engineer10   
+| motion sound effects supervisor11   
+| motion sound effects design11   
+| motion sound effects producer11   
+| motion sound effects director11   
+| motion sound effects artist11   
+| motion sound effects writer11   
+| motion sound effects distributor11   
+| motion sound effects composer11   
+| motion sound effects editor12   
+| motion sound effects engineer11   
+| motion sound effects supervisor12   
+| motion sound effects design12   
+| motion sound effects producer12   
+| motion sound effects director12   
+| motion sound effects artist12   
+| motion sound effects writer12   
+| motion sound effects distributor12   
+| motion sound effects composer12   
+| motion sound effects editor13   
+| motion sound effects engineer12   
+| motion sound effects supervisor13   
+| motion sound effects design13   
+| motion sound effects producer13   
+| motion sound effects director13   
+| motion sound effects artist13   
+| motion sound effects writer13   
+| motion sound effects distributor13   
+| motion sound effects composer13   
+| motion sound effects editor14   
+| motion sound effects engineer13   
+| motion sound effects supervisor14   
+| motion sound effects design14   
+| motion sound effects producer14   
+| motion sound effects director14   
+| motion sound effects artist14   
+| motion sound effects writer14   
+| motion sound effects distributor14   
+| motion sound effects composer14   
+| motion sound effects editor15   
+| motion sound effects engineer14   
+| motion sound effects supervisor15   
+| motion sound effects design15   
+| motion sound effects producer15   
+| motion sound effects director15   
+| motion sound effects artist15   
+| motion sound effects writer15   
+| motion sound effects distributor15   
+| motion sound effects composer15   
+| motion sound effects editor16   
+| motion sound effects engineer15   
+| motion sound effects supervisor16   
+| motion sound effects design16   
+| motion sound effects producer16   
+| motion sound effects director16   
+| motion sound effects artist16   
+| motion sound effects writer16   
+| motion sound effects distributor16   
+| motion sound effects composer16   
+| motion sound effects editor17   
+| motion sound effects engineer16   
+| motion sound effects supervisor17   
+| motion sound effects design17   
+| motion sound effects producer17   
+| motion sound effects director17   
+| motion sound effects artist17   
+| motion sound effects writer17   
+| motion sound effects distributor17   
+| motion sound effects composer17   
+| motion sound effects editor18   
+| motion sound effects engineer17   
+| motion sound effects supervisor18   
+| motion sound effects design18   
+| motion sound effects producer18   
+| motion sound effects director18   
+| motion sound effects artist18   
+| motion sound effects writer18   
+| motion sound effects distributor18   
+| motion sound effects composer18   
+| motion sound effects editor19   
+| motion sound effects engineer18   
+| motion sound effects supervisor19   
+| motion sound effects design19   
+| motion sound effects producer19   
+| motion sound effects director19   
+| motion sound effects artist19   
+| motion sound effects writer19   
+| motion sound effects distributor19   
+| motion sound effects composer19   
+| motion sound effects editor20   
+| motion sound effects engineer19   
+| motion sound effects supervisor20   
+| motion sound effects design20   
+| motion sound effects producer20   
+| motion sound effects director20   
+| motion sound effects artist20   
+| motion sound effects writer20   
+| motion sound effects distributor20   
+| motion sound effects composer20   
+| motion sound effects editor21   
+| motion sound effects engineer20   
+| motion sound effects supervisor21   
+| motion sound effects design21   
+| motion sound effects producer21   
+| motion sound effects director21   
+| motion sound effects artist21   
+| motion sound effects writer21   
+| motion sound effects distributor21   
+| motion sound effects composer21   
+| motion sound effects editor22   
+| motion sound effects engineer21   
+| motion sound effects supervisor22   
+| motion sound effects design22   
+| motion sound effects producer22   
+| motion sound effects director22   
+| motion sound effects artist22   
+| motion sound effects writer22   
+| motion sound effects distributor22   
+| motion sound effects composer22   
+| motion sound effects editor23   
+| motion sound effects engineer22   
+| motion sound effects supervisor23   
+| motion sound effects design23   
+| motion sound effects producer23   
+| motion sound effects director23   
+| motion sound effects artist23   
+| motion sound effects writer23   
+| motion sound effects distributor23   
+| motion sound effects composer23   
+| motion sound effects editor24   
+| motion sound effects engineer23   
+| motion sound effects supervisor24   
+| motion sound effects design24   
+| motion sound effects producer24   
+| motion sound effects director24   
+| motion sound effects artist24   
+| motion sound effects writer24   
+| motion sound effects distributor24   
+| motion sound effects composer24   
+| motion sound effects editor25   
+| motion sound effects engineer24   
+| motion sound effects supervisor25   
+| motion sound effects design25   
+| motion sound effects producer25   
+| motion sound effects director25   
+| motion sound effects artist25   
+| motion sound effects writer25   
+| motion sound effects distributor25   
+| motion sound effects composer25   
+| motion sound effects editor26   
+| motion sound effects engineer25   
+| motion sound effects supervisor26   
+| motion sound effects design26   
+| motion sound effects producer26   
+| motion sound effects director26   
+| motion sound effects artist26   
+| motion sound effects writer26   
+| motion sound effects distributor26   
+| motion sound effects composer26   
+| motion sound effects editor27   
+| motion sound effects engineer26   
+| motion sound effects supervisor27   
+| motion sound effects design27   
+| motion sound effects producer27   
+| motion sound effects director27   
+| motion sound effects artist27   
+| motion sound effects writer27   
+| motion sound effects distributor27   
+| motion sound effects composer27   
+| motion sound effects editor28   
+| motion sound effects engineer27   
+| motion sound effects supervisor28   
+| motion sound effects design28   
+| motion sound effects producer28   
+| motion sound effects director28   
+| motion sound effects artist28   
+| motion sound effects writer28   
+| motion sound effects distributor28   
+| motion sound effects composer28   
+| motion sound effects editor29   
+| motion sound effects engineer28   
+| motion sound effects supervisor29   
+| motion sound effects design29   
+| motion sound effects producer29   
+| motion sound effects director29   
+| motion sound effects artist29   
+| motion sound effects writer29   
+| motion sound effects distributor29   
+| motion sound effects composer29   
+| motion sound effects editor30   
+| motion sound effects engineer29   
+| motion sound effects supervisor30   
+| motion sound effects design30   
+| motion sound effects producer30   
+| motion sound effects director30   
+| motion sound effects artist30   
+| motion sound effects writer30   
+| motion sound effects distributor30   
+| motion sound effects composer30   
+| motion sound effects editor31   
+| motion sound effects engineer30   
+| motion sound effects supervisor31   
+| motion sound effects design31   
+| motion sound effects producer31   
+| motion sound effects director31   
+| motion sound effects artist31   
+| motion sound effects writer31   
+| motion sound effects distributor31   
+| motion sound effects composer31   
+| motion sound effects editor32   
+| motion sound effects engineer31   
+| motion sound effects supervisor32   
+| motion sound effects design32   
+| motion sound effects producer32   
+| motion sound effects director32   
+| motion sound effects artist32   
+| motion sound effects writer32   
+| motion sound effects distributor32   
+| motion sound effects composer32   
+| motion sound effects editor33   
+| motion sound effects engineer32   
+| motion sound effects supervisor33   
+| motion sound effects design33   
+| motion sound effects producer33   
+| motion sound effects director33   
+| motion sound effects artist33   
+| motion sound effects writer33   
+| motion sound effects distributor33   
+| motion sound effects composer33   
+| motion sound effects editor34   
+| motion sound effects engineer33   
+| motion sound effects supervisor34   
+| motion sound effects design34   
+| motion sound effects producer34   
+| motion sound effects director34   
+| motion sound effects artist34   
+| motion sound effects writer34   
+| motion sound effects distributor34   
+| motion sound effects composer34   
+| motion sound effects editor35   
+| motion sound effects engineer34   
+| motion sound effects supervisor35   
+| motion sound effects design35   
+| motion sound effects producer35   
+| motion sound effects director35   
+| motion sound effects artist35   
+| motion sound effects writer35   
+| motion sound effects distributor35   
+| motion sound effects composer35   
+| motion sound effects editor36   
+| motion sound effects engineer35   
+| motion sound effects supervisor36   
+| motion sound effects design36   
+| motion sound effects producer36   
+| motion sound effects director36   
+| motion sound effects artist36

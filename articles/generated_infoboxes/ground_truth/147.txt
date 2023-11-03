@@ -1,0 +1,6 @@
+{{Infobox 
+| Pixies playing on the skeleton of a cow,drawn by John D. Batten c.1894   Pixies playing on the skeleton of a cow,drawn by John D. Batten c.1894 
+| Grouping   Legendary creatureFairySprite 
+| Country   United Kingdom 
+| Region   DevonandCornwall 
+}}

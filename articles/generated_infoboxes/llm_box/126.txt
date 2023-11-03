@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Cretan Bull
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Mythical creature
+| Sub Grouping   Bull
+| Similar entities   Minotaur
+| Family   
+| Folklore   Greek mythology
+| First Attested   
+| AKA   
+| Country   Greece
+| Region   Crete
+| Habitat   Labyrinth
+| Details   A bull sent by Poseidon to King Minos of Crete, later captured by Heracles and Theseus.
+}}

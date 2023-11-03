@@ -1,0 +1,9 @@
+{{Infobox 
+| "Hapworth 16, 1924"   "Hapworth 16, 1924" 
+| Short story by J. D. Salinger   Short story by J. D. Salinger 
+| Country   United States 
+| Language   English 
+| Publication   Publication 
+| Published in   The New Yorker 
+| Publication date   June 19, 1965 
+}}

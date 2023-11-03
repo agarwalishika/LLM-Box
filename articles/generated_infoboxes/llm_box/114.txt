@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Easter Bunny
+| image   Easter Bunny.jpg
+| caption   A depiction of the Easter Bunny
+| author   Folklore
+| title orig   
+| translator   
+| country   Germany
+| language   German
+| series   
+| genre   Folklore
+| published in   
+| publication type   
+| publisher   
+| media type   Oral tradition
+| pub date   Unknown
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

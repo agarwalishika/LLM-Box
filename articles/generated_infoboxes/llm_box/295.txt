@@ -1,0 +1,37 @@
+{{Infobox book
+| name   Adventures of Huckleberry Finn
+| image   Adventures of Huckleberry Finn.jpg
+| caption   First edition cover
+| author   Mark Twain
+| country   United States
+| language   English
+| genre   Novel
+| publisher   Chatto   Windus (UK)
+| release date   December 1884 (UK)
+| media type   Print (hardcover)
+| pages   366
+| isbn   978-1-84749-579-8
+| preceded by   The Adventures of Tom Sawyer
+| followed by   
+}}
+
+{{Infobox civilian attack
+| title   Adventures of Huckleberry Finn
+| partof   
+| image   Adventures of Huckleberry Finn.jpg
+| image size   
+| image upright   
+| alt   
+| caption   First edition cover
+| map   
+| map size   
+| map alt   
+| map caption   
+| location   St. Petersburg, Missouri, United States
+| target   
+| coordinates   
+| date   December 1884 (UK), February 1885 (US)
+| YYYY   
+| MM   
+| DD   
+}}

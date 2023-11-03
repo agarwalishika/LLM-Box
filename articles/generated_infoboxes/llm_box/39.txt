@@ -1,0 +1,15 @@
+{{Infobox character
+| name   Q
+| image   
+| caption   
+| series   Star Trek: The Next Generation, Star Trek: Deep Space Nine, Star Trek: Voyager, Star Trek: Lower Decks, Star Trek: Picard
+| portrayer   John de Lancie
+| species   Q
+| gender   Male (although all Q refer to each other as "Q")
+| occupation   Extra-dimensional being
+| abilities   Immeasurable power over time, space, the laws of physics, and reality alteration
+| affiliations   Q Continuum
+| first   "Encounter at Farpoint" (Star Trek: The Next Generation)
+| last   
+| creator   Gene Roddenberry
+}}

@@ -1,0 +1,13 @@
+{{Infobox character
+| name   Veronica Sawyer
+| series   Heathers
+| image   File:Heathers veronica sawyer.jpg
+| alt   A picture of Veronica Sawyer from the film Heathers
+| caption   Winona Ryder as Veronica Sawyer in Heathers
+| first major   Heathers
+| first date   March 31, 1989
+| creator   Daniel Waters
+| based on   Original character
+| character   Protagonist
+| author   Daniel Waters
+}}

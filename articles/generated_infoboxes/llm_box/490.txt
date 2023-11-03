@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Flatulence
+| synonyms   Farting, Tooting, Passing gas, Flatus
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Gastroenterology
+| symptoms   Pain, bloating, abdominal distension, excessive flatus volume, excessive flatus odor, gas incontinence
+| complications   
+| onset   
+| duration   
+| types   
+| causes   Swallowed air, gas generated in the stomach or bowels
+| cause    
+| risks   Irritable bowel syndrome, celiac disease, lactose intolerance
+| risk    
+| diagnosis   Based on symptoms, medical history, physical examination
+| differential   
+| prevention   
+| treatment   Dietary changes, over-the-counter medications, probiotics
+| management  
+| medication   
+| prognosis   
+| frequency   Common
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

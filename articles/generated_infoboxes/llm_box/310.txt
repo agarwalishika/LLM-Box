@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   "' All You Zombies '"
+| image   
+| image size   
+| border   
+| alt   
+| caption   
+| author   Robert A. Heinlein
+| audio read by   
+| title orig   
+| orig lang code   
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   United States
+| language   English
+| series   
+| release number   
+| subject   Time travel, paradoxes
+| genre   Science fiction
+| set in   
+| publisher   The Magazine of Fantasy   Science Fiction
+| publisher2   
+| pub date   March 1959
+| english pub date   
+| published   
+| media type   Print (Magazine)
+| pages   
+| awards   Nominated for the Balrog Award for short fiction (1980)
+| isbn   
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   
+| followed by   
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

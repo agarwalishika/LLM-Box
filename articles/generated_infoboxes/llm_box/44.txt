@@ -1,0 +1,41 @@
+{{Infobox civil conflict
+| title   Hoshi Sato
+| image   
+| caption   Linda Park as Hoshi Sato in Star Trek: Enterprise
+| date   July 9, 2129
+| place   Kyoto, Japan
+| causes   
+| goals   
+| methods   
+| status   Active
+| result   
+| side1   Starfleet
+| side2   
+| side3   
+| side4   
+| leadfigures1   Captain Jonathan Archer
+| leadfigures2   
+| leadfigures3   
+| leadfigures4   
+| howmany1   
+| howmany2   
+| howmany3   
+| howmany4   
+| casualties1   
+| casualties2   
+| casualties3   
+| casualties4   
+| fatalities   
+| injuries   
+| arrests   
+| damage   
+| buildings   
+| detentions   
+| charged   
+| fined   
+| effect   
+| effect label   
+| casualties label   
+| notes   
+| sidebox   
+}}

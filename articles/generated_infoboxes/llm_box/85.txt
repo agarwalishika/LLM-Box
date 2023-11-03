@@ -1,0 +1,48 @@
+{{Infobox comics character
+| character name   Lucifer
+| image   
+| imagesize   
+| image size   
+| alt   
+| caption   
+| publisher   Marvel Comics
+| debut   The X-Men  9 (January 1965)
+| creators   Stan Lee, Jack Kirby
+| voiced by   
+| first series   
+| first episode   
+| first comic   The X-Men  9
+| real name   Unknown
+| alter   
+| alter ego   
+| full name   Lucifer
+| full   
+| species   Alien
+| homeworld   Quistalium, Quistraa star system, Milky Way Galaxy
+| alliances   
+| affiliations   Arcane (Quists)
+| supports   
+| aliases   Prince of Darkness
+| powers   Superhuman strength, ability to project force beams
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   Yes
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Jean Hersholt Humanitarian Award
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Outstanding contributions to humanitarian causes
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Governors Awards ceremonies
+| YYYY   
+| MM   
+| DD   
+}}

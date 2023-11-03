@@ -1,0 +1,46 @@
+{{Infobox comics character
+| character name   Judge Joseph Dredd
+| image   Judge Dredd.jpg
+| imagesize   250px
+| caption   Cover of 2000 AD  2 featuring Judge Dredd
+| publisher   Rebellion Developments
+| debut   2000 AD  2 (1977)
+| creators   John Wagner, Carlos Ezquerra
+| voiced by   Toby Longworth
+| first series   Judge Dredd Megazine
+| first episode   
+| first comic   2000 AD  2
+| real name   Joseph Dredd
+| alter   
+| alter ego   
+| full name   Judge Joseph Dredd
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   Mega-City One Justice Department
+| supports   
+| aliases   
+| powers   Expert marksman, skilled hand-to-hand combatant, extensive knowledge of the law
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Dredd, Judge Joseph
+| subcat   
+| cat   
+| hero   yes
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

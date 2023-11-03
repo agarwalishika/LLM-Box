@@ -1,0 +1,11 @@
+{{Infobox 
+| Academy Award for Best Animated Feature   Academy Award for Best Animated Feature 
+| Awarded for   The best animated film with a running time of more than 40 minutes, a significant number of the major characters animated, and at least 75 percent of the picture's running time including animation. 
+| Country   United States 
+| Presented by   Academy of Motion Picture Arts and Sciences(AMPAS) 
+| First awarded   Shrek(2001) 
+| Currently held by   Guillermo del Toro's Pinocchio(2022) 
+| Most awards   Pixar(11)  Pete Docter(3) 
+| Most nominations   Pixar (17)   Pete Docter (4) 
+| Website   oscars.org 
+}}

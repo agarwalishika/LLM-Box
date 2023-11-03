@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Streaky the Supercat
+| image   
+| imagesize   
+| alt   
+| caption   
+| publisher   DC Comics
+| debut   Action Comics  261 (February 1960)
+| creators   Jerry Siegel, Jim Mooney
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   Streaky
+| alter   
+| alter ego   
+| full name   Streaky the Supercat
+| full   
+| species   Cat
+| homeworld   Earth
+| alliances   
+| affiliations   Legion of Super-Pets
+| supports   
+| aliases   
+| powers   Flight, super-strength, super-speed, invulnerability, enhanced vision abilities, heat vision
+| partners   Krypto
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

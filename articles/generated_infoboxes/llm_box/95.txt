@@ -1,0 +1,48 @@
+{{Infobox comics character
+| character name   John Jonah Jameson Jr.
+| image   
+| imagesize   
+| image size   
+| alt   
+| caption   
+| publisher   Marvel Comics
+| debut   The Amazing Spider-Man  1 (March 1963)
+| creators   Stan Lee, Steve Ditko
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   John Jonah Jameson Jr.
+| alter   
+| alter ego   
+| full name   John Jonah Jameson Jr.
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   Daily Bugle
+| supports   
+| aliases   J. Jonah Jameson, JJJ, Triple J
+| powers   None
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

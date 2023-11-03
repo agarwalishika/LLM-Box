@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Golden Turkey Awards
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Recognizing poor quality films, directors, and actors
+| sponsor   
+| date   1980
+| YYYY   
+| MM   
+| DD   
+}}

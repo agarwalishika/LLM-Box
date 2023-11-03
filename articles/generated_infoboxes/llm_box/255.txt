@@ -1,0 +1,18 @@
+{{Infobox book
+| name   An Enquiry Concerning Human Understanding
+| image   
+| caption   
+| author   David Hume
+| country   Scotland
+| language   English
+| subject   Philosophy
+| genre   Epistemology
+| publisher   
+| pub date   1748
+| media type   Print
+| pages   
+| isbn   
+| oclc   
+| preceded by   A Treatise of Human Nature
+| followed by   
+}}

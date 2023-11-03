@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Genetic Disorder
+| synonyms   Genetic Disease, Inherited Disorder
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Medical Genetics
+| symptoms   Varies depending on the specific disorder
+| complications   Developmental delays, organ dysfunction, intellectual disability, physical disabilities
+| onset   Present before birth
+| duration   Lifelong
+| types   Monogenic disorders, Polygenic disorders, Chromosomal disorders
+| causes   Genetic mutations, chromosomal abnormalities
+| cause    
+| risks   Family history of the disorder, consanguineous marriage
+| risk    
+| diagnosis   Genetic testing, prenatal screening, family history evaluation
+| differential   
+| prevention   Genetic counseling, prenatal testing
+| treatment   Supportive care, medication, gene therapy
+| management  
+| medication   Depends on the specific disorder
+| prognosis   Varies depending on the specific disorder
+| frequency   Common
+| incidence  
+| prevalence  Over 6,000 known genetic disorders
+| deaths   
+| named   
+| eponym  
+}}

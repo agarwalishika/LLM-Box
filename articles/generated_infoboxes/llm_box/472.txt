@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Chagas disease
+| synonyms   American trypanosomiasis
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Infectious disease
+| symptoms   Fever, swollen lymph nodes, headaches, swelling at the site of the bite
+| complications   Heart disease, digestive complications, nerve damage
+| onset   
+| duration   
+| types   
+| causes   Trypanosoma cruzi infection
+| cause    
+| risks   Insect bites, blood transfusion, organ transplantation, contaminated food or drink, vertical transmission
+| risk    
+| diagnosis   Microscopic examination of blood, polymerase chain reaction for DNA detection
+| differential   
+| prevention   Insecticide use, bed-nets, blood screening
+| treatment   Benznidazole, nifurtimox
+| management  
+| medication   
+| prognosis   
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

@@ -1,0 +1,9 @@
+{{Infobox 
+| "The Green Hills of Earth"   "The Green Hills of Earth" 
+| Short story by Robert A. Heinlein   Short story by Robert A. Heinlein 
+| Country   USA 
+| Genre(s)   science fiction 
+| Publication   Publication 
+| Published in   The Saturday Evening Post 
+| Publication date   February 8, 1947 
+}}

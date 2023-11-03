@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Centaur
+| image   Centaur statue.jpg
+| image size   250px
+| image upright   
+| caption   Statue of a centaur
+| Grouping   Hybrid creature
+| Sub Grouping   
+| Similar entities   Satyr, Minotaur
+| Family   Ixionidae
+| Folklore   Greek mythology
+| First Attested   Ancient Greece
+| AKA   Hippocentaur, Ixionidae
+| Country   Greece
+| Region   Thessaly
+| Habitat   Mountains, forests
+| Details   A creature from Greek mythology with the upper body of a human and the lower body and legs of a horse. Known for their wild and untamed nature, centaurs were said to have inhabited various regions in Greece, including Thessaly, Elis, and Laconia. They were born either from the union of Ixion and Nephele or from Centaurus and Magnesian mares. Centaurs are featured in Roman mythology and remain popular in modern literature.
+}}

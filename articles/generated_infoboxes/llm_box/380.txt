@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Albania
+| Image   Flag of Albania.svg
+| Image size   250px
+| Alt   The flag of Albania
+| Use   National flag
+| Symbol   Double-headed eagle
+| Proportion   5:7
+| Adoption   November 28, 1912
+| Design   A red flag with a silhouetted black double-headed eagle in the center
+| Designer   Unknown
+}}

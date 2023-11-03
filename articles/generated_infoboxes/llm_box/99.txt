@@ -1,0 +1,46 @@
+{{Infobox comics character
+| character name   Red Sonja
+| image   Red Sonja.jpg
+| imagesize   250px
+| caption   Red Sonja, as depicted in the comics
+| publisher   Marvel Comics, Dynamite Entertainment
+| debut   Conan the Barbarian  23 (1973)
+| creators   Roy Thomas, Barry Windsor-Smith
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   Red Sonja
+| alter   
+| alter ego   
+| full name   
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   
+| powers   Exceptional swordsmanship, enhanced strength, agility, and endurance
+| partners   Conan the Barbarian
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

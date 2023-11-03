@@ -1,0 +1,12 @@
+{{Infobox 
+| Bipolar disorder   Bipolar disorder 
+| Specialty   Psychiatry 
+| Symptoms   mood instability, psychosis in some cases. 
+| Complications   Suicide, relationship damage 
+| Usual onset   25 years of age 
+| Causes   Complex 
+| Differential diagnosis   Other bipolar disorders,borderline personality disorder,antisocial personality disorder 
+| Treatment   Therapy, mood stabilizing medication such as lithium 
+| Medication   Lithium,anticonvulsants,antipsychotics 
+| Deaths   6  die by suicide 
+}}

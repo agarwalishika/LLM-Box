@@ -1,0 +1,31 @@
+{{Infobox Doctor Who episode
+| number   139
+| serial name   Time and the Rani
+| show   Doctor Who
+| quotes   "Time and tide melt the snowman."
+| type   Television
+| image   Time and the Rani.jpg
+| caption   Sylvester McCoy as the Seventh Doctor
+| image size   250px
+| alt   A promotional image of Sylvester McCoy as the Seventh Doctor
+| doctor   Sylvester McCoy (Seventh Doctor)
+| doctors   7
+| companion   Bonnie Langford (Melanie Bush)
+| companions   1
+| cast   
+  Sylvester McCoy as the Doctor
+  Bonnie Langford as Mel
+  Kate O'Mara as the Rani
+| director   Andrew Morgan
+| writer   Pip and Jane Baker
+| producer   John Nathan-Turner
+| executive producer   
+| composer   Keff McCulloch
+| production code   7D
+| series   Series 24
+| length   4 episodes, 25 minutes each
+| first aired   7 September 1987
+| last aired   28 September 1987
+| preceded by   "The Ultimate Foe"
+| followed by   "Paradise Towers"
+}}

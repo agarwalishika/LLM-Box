@@ -1,0 +1,17 @@
+{{Infobox mythical creature
+| name   Lernaean Hydra
+| image   Lernaean Hydra.jpg
+| image size   250px
+| image upright   
+| caption   The Lernaean Hydra, as depicted in a 19th-century illustration
+| Grouping   Mythological creature
+| Sub Grouping   Serpent
+| Similar entities   Ladon, Nemean Lion
+| Family   Typhon and Echidna
+| Folklore   Greek mythology, Roman mythology
+| First Attested   Hesiod's Theogony (8th century BC)
+| AKA   Hydra of Lerna, Hydra
+| Country   Greece
+| Region   Argolid
+| Habitat   Lake of Lerna
+| Details   The Lernaean Hydra was a serpentine water monster in Greek and Roman mythology. It resided in the lake of Lerna in the Argolid, which was believed to be an entrance to the Underworld. The Hydra was known for its poisonous breath and blood, which were deadly even in small amounts. It possessed multiple heads, with the exact number varying in different accounts. According to the myth, for every head cut off, two would regrow in its place. The Hydra was ultimately slain by Heracles (Hercules) as part of his Twelve Labors, with the assistance of his nephew Iolaus.

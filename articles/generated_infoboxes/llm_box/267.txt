@@ -1,0 +1,27 @@
+{{Infobox short story
+| name   Candide, ou l'Optimisme
+| image   
+| caption   
+| author   Voltaire
+| title orig   Candide, ou l'Optimisme
+| translator   
+| country   France
+| language   French
+| series   
+| genre   Satire
+| published in   
+| publication type   Novella
+| publisher   
+| media type   Print
+| pub date   1759
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}
+

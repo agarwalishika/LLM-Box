@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Jackalope
+| image   Jackalope.jpg
+| image size   250px
+| image upright   
+| caption   A taxidermy mount of a jackalope
+| Grouping   Cryptid
+| Sub Grouping   
+| Similar entities   Wolpertinger, Skvader
+| Family   
+| Folklore   North American
+| First Attested   1930s
+| AKA   Horned hare, Lepus cornutus
+| Country   United States
+| Region   Wyoming, South Dakota
+| Habitat   Grasslands, forests
+| Details   The jackalope is a mythical animal of North American folklore described as a jackrabbit with antelope horns. It is a popular tourist attraction and has been featured in various forms of media. The legend of the jackalope may have been inspired by rabbits infected with the Shope papilloma virus, causing horn-like tumors to grow. The Wyoming Legislature has considered bills to make the jackalope the state's official mythological creature.
+}}

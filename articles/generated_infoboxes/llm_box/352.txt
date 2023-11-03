@@ -1,0 +1,13 @@
+{{Infobox flag
+| Name   F d ration internationale de football association
+| Image   FIFA logo.svg
+| Image size   150px
+| Alt   FIFA logo
+| Use   International organization
+| Symbol   
+| Proportion   
+| Adoption   1904
+| Design   Blue globe with white lines forming a pentagon and a football in the center
+| Designer   
+}}
+

@@ -1,0 +1,22 @@
+{{Infobox character
+| name   Goofy
+| series   Disney
+| franchise   Mickey Mouse
+| image   Goofy.png
+| alt   A cartoon image of Goofy
+| caption   Goofy in his classic outfit
+| first major   Mickey's Revue
+| first minor   Dippy Dawg
+| first issue   
+| first date   1932
+| first   
+| last major   How to Hook Up Your Home Theater
+| last minor   
+| last issue   
+| last date   2007
+| last   
+| creator   The Walt Disney Company
+| based on   
+| character   Anthropomorphic dog
+| author   
+}}

@@ -1,0 +1,15 @@
+{{Infobox Book
+| name   The Time in Between
+| image   
+| caption   
+| author   David Bergen
+| country   Canada
+| language   English
+| genre   Fiction
+| publisher   McClelland   Stewart
+| release date   2005
+| media type   Print (hardcover and paperback), audiobook
+| pages   
+| isbn   
+| awards   Scotiabank Giller Prize, McNally Robinson Book of the Year Award
+}}

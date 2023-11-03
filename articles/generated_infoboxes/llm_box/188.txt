@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Giller Prize
+| subheader   Scotiabank Giller Prize
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Outstanding Canadian novel or short story collection published in English
+| sponsor   Scotiabank
+| date   November
+| YYYY   
+| MM   
+| DD   
+}}

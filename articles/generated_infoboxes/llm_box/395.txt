@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Norway
+| Image   Flag of Norway.svg
+| Image size   250px
+| Alt   The national flag of Norway
+| Use   National flag and civil ensign
+| Symbol   
+| Proportion   22:16
+| Adoption   1821
+| Design   A red flag with a navy blue Scandinavian cross bordered in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side
+| Designer   
+}}

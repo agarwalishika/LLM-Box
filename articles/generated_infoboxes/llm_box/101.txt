@@ -1,0 +1,19 @@
+{{Infobox mythical creature
+| name   Chupacabra
+| image   Chupacabra.jpg
+| image size   250px
+| image upright   
+| caption   An artist's depiction of a Chupacabra
+| Grouping   Cryptid
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   Folklore of the Americas
+| First Attested   1995
+| AKA   Goat-sucker
+| Country   Various
+| Region   Americas
+| Habitat   Rural areas, farmlands
+| Details   Legendary creature known for attacking and drinking the blood of livestock, particularly goats.
+}}
+

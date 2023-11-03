@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Jersey Devil
+| image   Jersey Devil.jpg
+| image size   250px
+| image upright   
+| caption   Illustration of the Jersey Devil
+| Grouping   Cryptid
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   South Jersey and Philadelphia folklore
+| First Attested   Early 18th century
+| AKA   Leeds Devil
+| Country   United States
+| Region   Pine Barrens, South Jersey
+| Habitat   Forests
+| Details   Legendary creature described as a flying biped with hooves, often depicted as a bipedal kangaroo-like or wyvern-like creature with a horse- or goat-like head, leathery bat-like wings, horns, small arms with clawed hands, legs with cloven hooves, and a forked or pointed tail. Known for emitting a high-pitched "blood-curdling scream" and reported to move quickly.
+}}

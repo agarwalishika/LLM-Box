@@ -1,0 +1,26 @@
+{{Infobox film
+| name   Blue Velvet
+| image   Blue Velvet poster.jpg
+| alt   The poster for Blue Velvet featuring the main cast
+| caption   Theatrical release poster
+| director   David Lynch
+| producer   Fred C. Caruso
+| writer   David Lynch
+| based on   
+| starring   Kyle MacLachlan
+Isabella Rossellini
+Dennis Hopper
+Laura Dern
+| music   Angelo Badalamenti
+| cinematography   Frederick Elmes
+| editing   Duwayne Dunham
+| studio   De Laurentiis Entertainment Group
+| distributor   De Laurentiis Entertainment Group
+| released   September 19, 1986
+| runtime   120 minutes
+| country   United States
+| language   English
+| budget    6 million
+| gross    8.6 million
+| title   Blue Velvet
+}}

@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Defense Distinguished Service Medal
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Exceptionally distinguished performance of duty contributing to the national security or defense of the United States
+| sponsor   United States Department of Defense
+| date   July 9, 1970
+| YYYY   
+| MM   
+| DD   
+}}

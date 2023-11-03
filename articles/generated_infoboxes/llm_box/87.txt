@@ -1,0 +1,42 @@
+{{Infobox comics character
+| character name   Red Skull
+| image   Red Skull.png
+| imagesize   250px
+| caption   Red Skull, as depicted in Captain America: The First Avenger (2011)
+| publisher   Marvel Comics
+| debut   Captain America Comics  1 (March 1941)
+| creators   Joe Simon, Jack Kirby, France Herron
+| voiced by   Steve Blum, Liam O'Brien, others
+| first series   Captain America (1966)
+| first episode   "The Origin of Captain America" (Season 1, Episode 1)
+| first comic   Captain America Comics  1 (March 1941)
+| real name   Johann Shmidt
+| alter ego   George Maxon (decoy), Albert Malik
+| full name   Johann Shmidt
+| species   Human
+| alliances   Nazi Germany
+| affiliations   Hydra
+| supports   Adolf Hitler
+| aliases   The Skull, Agent Smith, John Smith
+| powers   Enhanced strength, agility, and longevity
+| partners   Crossbones, Sin, Arnim Zola
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Red Skull
+| subcat   Marvel Comics characters
+| cat   Superheroes
+| villain   yes
+| altcat   Nazi characters in comics
+| addcharcat1   Fictional characters with disfigurements
+| addcharcat2   Fictional characters with superhuman strength
+| addcharcat3   Fictional characters with longevity
+| addcharcat4   Fictional characters with agility
+| addcharcat5   Fictional characters with mind control abilities
+| addcharcat6   Fictional characters with telepathic abilities
+| noimage   
+| converted   yes
+}}

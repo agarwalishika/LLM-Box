@@ -1,0 +1,24 @@
+{{Infobox Doctor Who episode
+| number   59
+| serial name   The D mons
+| show   Doctor Who
+| quotes   "I am usually referred to as the Master."
+| type   Television
+| image   The D mons.jpg
+| caption   The Doctor and Jo investigate the Devil's Hump.
+| image size   250px
+| alt   The Doctor and Jo investigating the Devil's Hump.
+| doctor   Third
+| doctors   Jon Pertwee
+| companion   Jo Grant
+| companions   Katy Manning
+| cast   
+  Jon Pertwee as the Third Doctor
+  Katy Manning as Jo Grant
+  Roger Delgado as the Master
+  Stephen Thorne as Azal
+| director   Christopher Barry
+| writer   Guy Leopold
+| based on   
+}}
+

@@ -1,0 +1,49 @@
+{{Infobox comics character
+| character name   Ludwig Von Drake
+| image   
+| imagesize   
+| alt   
+| caption   
+| publisher   The Walt Disney Company
+| debut   1961
+| creators   The Walt Disney Company
+| voiced by   Paul Frees (1961-1987)
+Walker Edmiston (briefly)
+Corey Burton (1987-present)
+| first series   Walt Disney's Wonderful World of Color
+| first episode   An Adventure in Color (1961)
+| first comic   
+| real name   
+| alter   
+| alter ego   
+| full name   Professor Ludwig Von Drake
+| full   
+| species   Duck
+| homeworld   
+| alliances   
+| affiliations   
+| supports   
+| aliases   
+| powers   
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

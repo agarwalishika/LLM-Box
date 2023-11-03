@@ -1,0 +1,26 @@
+{{Infobox comics character
+| character name   Batman
+| image   Batman 1966 film.jpg
+| imagesize   220px
+| caption   Theatrical release poster
+| director   Leslie H. Martinson
+| producer   William Dozier
+| screenplay   Lorenzo Semple Jr.
+| based on   ''Batman'' by Bob Kane and Bill Finger
+| starring   Adam West
+Burt Ward
+Lee Meriwether
+| music   Nelson Riddle
+| cinematography   Howard Schwartz
+| editing   Harry W. Gerstad
+| studio   Greenlawn Productions
+| distributor   20th Century Fox
+| released   {{Film date|1966|7|30}}
+| runtime   105 minutes
+| country   United States
+| language   English
+| budget    1.37 million
+| gross    1.7 million
+| preceded by   ''Batman'' (TV series)
+| followed by   ''Batman'' (1989 film)
+}}

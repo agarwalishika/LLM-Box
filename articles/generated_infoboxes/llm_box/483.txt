@@ -1,0 +1,24 @@
+{{Infobox medical intervention
+| name   Major Depressive Disorder
+| synonyms   Clinical depression, MDD
+| image   
+| caption   
+| specialty   Psychiatry
+| symptoms   Pervasive low mood, low self-esteem, loss of interest or pleasure
+| onset   Typically in a person's 20s
+| duration   Varies widely, from months to lifelong with recurrent episodes
+| causes   Combination of genetic, environmental, and psychological factors
+| risk factors   Family history, major life changes, certain medications, chronic health problems, substance use disorders
+| diagnosis   Based on reported experiences, behavior reported by relatives or friends, and mental status examination
+| differential diagnosis   Physical conditions with similar symptoms
+| treatment   Psychotherapy, antidepressant medication
+| medication   Effective, especially in severe cases
+| hospitalization   May be necessary in cases of self-neglect or significant risk of harm
+| electroconvulsive therapy   Considered if other measures are not effective
+| complications   Personal, work, and education issues; sleeping and eating habit disturbances; general health problems
+| prognosis   Varies widely
+| frequency   Common, affecting females about twice as often as males
+| alt names   
+| alt spellings   
+| field   Psychiatry
+}}

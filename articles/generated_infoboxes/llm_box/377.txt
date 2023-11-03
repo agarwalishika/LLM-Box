@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Djibouti
+| Image   Flag of Djibouti.svg
+| Image size   250px
+| Alt   National flag of Djibouti
+| Use   National flag
+| Symbol   
+| Proportion   2:3
+| Adoption   27 June 1977
+| Design   A horizontal bicolor flag with equal bands of light blue and light green, with a white, equilateral triangle at the hoist. In the center of the triangle is a red five-pointed star.
+| Designer   Front for the Liberation of the Somali Coast (FLCS)
+}}

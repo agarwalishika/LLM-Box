@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Loch Ness Monster
+| image   Loch Ness Monster.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of the Loch Ness Monster
+| Grouping   Cryptid
+| Sub Grouping   Lake monster
+| Similar entities   Ogopogo, Champ, Lake Tianchi Monster
+| Family   Unknown
+| Folklore   Scottish
+| First Attested   565 AD
+| AKA   Nessie, Niseag
+| Country   Scotland
+| Region   Scottish Highlands
+| Habitat   Loch Ness
+| Details   The Loch Ness Monster, affectionately known as Nessie, is a creature in Scottish folklore that is said to inhabit Loch Ness in the Scottish Highlands. It is often described as large, long-necked, and with one or more humps protruding from the water. Popular interest and belief in the creature has varied since it was brought to worldwide attention in 1933. Evidence of its existence is anecdotal with a number of disputed photographs and sonar readings. The scientific community explains alleged sightings of the Loch Ness Monster as hoaxes, wishful thinking, and the misidentification of mundane objects. The pseudoscience and subculture of cryptozoology has placed particular emphasis on the creature.
+}}

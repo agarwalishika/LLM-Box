@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Belgium
+| Image   Flag of Belgium.svg
+| Image size   250px
+| Alt   The national flag of Belgium
+| Use   National flag
+| Symbol   
+| Proportion   13:15
+| Adoption   23 January 1831
+| Design   A tricolour of three vertical bands: black, yellow, and red
+| Designer   
+}}

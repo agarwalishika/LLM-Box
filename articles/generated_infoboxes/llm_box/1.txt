@@ -1,0 +1,21 @@
+{{Infobox_character
+| name = Miss Jane Marple
+| series = Agatha Christie's crime novels and short stories
+| image = 
+| alt = 
+| caption = 
+| first_major = The Murder at the Vicarage (1930)
+| first_minor = "The Tuesday Night Club" (1927)
+| first_issue= 
+| first_date = December 1927
+| first = 
+| last_major = Sleeping Murder (1976)
+| last_minor = 
+| last_issue= 
+| last_date = 1976
+| last = 
+| creator = Agatha Christie
+| based_on = Friends of Christie's step grandmother/aunt (Margaret Miller, née West)
+| character = Amateur consulting detective
+| author = Agatha Christie
+}}

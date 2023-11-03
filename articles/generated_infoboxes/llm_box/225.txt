@@ -1,0 +1,29 @@
+{{Infobox film
+| name   Escape from New York
+| image   Escape from New York poster.jpg
+| caption   Theatrical release poster
+| director   John Carpenter
+| producer   Debra Hill
+| writer   John Carpenter
+| starring   Kurt Russell
+Lee Van Cleef
+Ernest Borgnine
+Donald Pleasence
+Isaac Hayes
+Adrienne Barbeau
+Harry Dean Stanton
+| music   John Carpenter
+Alan Howarth
+| cinematography   Dean Cundey
+| editing   Todd C. Ramsay
+| studio   AVCO Embassy Pictures
+| distributor   AVCO Embassy Pictures
+| released   July 10, 1981
+| runtime   99 minutes
+| country   United States
+| language   English
+| budget    6 million
+| gross    25.2 million
+| preceded by   
+| followed by   Escape from L.A.
+}}

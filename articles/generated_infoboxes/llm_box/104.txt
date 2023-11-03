@@ -1,0 +1,30 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Jinn
+| honorific suffix   
+| native name        
+| native name lang   ar
+| image   
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| nationality   Arabian
+| religion   Pre-Islamic Arabian religion, Islamic culture and beliefs
+| known for   Invisible creatures in early religion, integration into Islamic beliefs, association with pagan beliefs, parallel to humans in Islamic concept of tawhid
+| notable works   
+| awards   
+| signature   
+| signature alt   
+| spouse   
+| children   
+| parents   
+| relatives   
+| website   
+}}

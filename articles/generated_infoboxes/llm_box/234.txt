@@ -1,0 +1,23 @@
+{{Infobox film
+| name   Full Metal Jacket
+| image   Full Metal Jacket poster.jpg
+| alt   The poster for the film Full Metal Jacket
+| caption   Theatrical release poster
+| director   Stanley Kubrick
+| producer   Stanley Kubrick
+| screenplay   Stanley Kubrick, Michael Herr, Gustav Hasford
+| based on   ''The Short-Timers'' by Gustav Hasford
+| starring   Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin
+| music   Abigail Mead
+| cinematography   Douglas Milsome
+| editing   Martin Hunter
+| studio   Natant, Stanley Kubrick Productions
+| distributor   Warner Bros.
+| released   June 26, 1987
+| runtime   116 minutes
+| country   United States
+| language   English
+| budget    16 million
+| gross    120 million
+| awards   Nominated for Academy Award for Best Adapted Screenplay
+}}

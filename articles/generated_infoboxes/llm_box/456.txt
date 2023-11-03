@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Aphasia
+| synonyms   Dysphasia
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Impaired language comprehension and formulation, difficulty finding words (anomia), loss of ability to speak, read, or write
+| complications   
+| onset   Sudden or progressive
+| duration   
+| types   Expressive aphasia, receptive aphasia, global aphasia, anomic aphasia
+| causes   Stroke, head trauma, brain tumors, epilepsy, brain damage, brain infections, neurodegenerative diseases
+| cause    Damage to specific brain regions
+| risks   
+| risk    
+| diagnosis   Significant impairment in spoken and written language production and comprehension
+| differential   
+| prevention   
+| treatment   Speech and language therapy, cognitive therapy, assistive communication devices
+| management  
+| medication   
+| prognosis   Varies depending on the cause and severity
+| frequency   
+| incidence  0.1 0.4  in the Global North (estimated for aphasia due to stroke)
+| prevalence  Hard to determine, varies depending on the cause
+| deaths   
+| named   
+| eponym  
+}}

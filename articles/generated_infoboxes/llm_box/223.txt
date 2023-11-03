@@ -1,0 +1,25 @@
+{{Infobox film
+| name   Young and Innocent
+| image   
+| alt   
+| caption   Theatrical release poster
+| director   Alfred Hitchcock
+| producer   Edward Black
+| screenplay   Charles Bennett
+| based on   ''A Shilling for Candles'' by Josephine Tey
+| starring   Nova Pilbeam
+Derrick De Marney
+| music   Jack Beaver
+| cinematography   Bernard Knowles
+| editing   Charles Frend
+| studio   Gaumont British Picture Corporation
+| distributor   General Film Distributors (UK)
+| released   November 1937 (UK)
+February 1938 (US)
+| runtime   83 minutes
+| country   United Kingdom
+| language   English
+| budget    40,000
+| gross    100,000
+| title   The Girl Was Young (US)
+}}

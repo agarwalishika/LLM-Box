@@ -1,0 +1,44 @@
+{{Infobox comics character
+| character name   Firestar
+| image   Firestar.jpg
+| imagesize   250px
+| caption   Firestar, as depicted in the comics
+| publisher   Marvel Comics
+| debut   Spider-Man and His Amazing Friends (1981)
+| creators   Dennis Marks, Dan Spiegle, Christy Marx, John Romita Sr., Rick Hoberg
+| voiced by   Kathy Garver
+| first series   Spider-Man and His Amazing Friends
+| first episode   "The Triumph of the Green Goblin"
+| first comic   Spider-Man and His Amazing Friends  1 (1981)
+| real name   Angelica Jones
+| alter ego   
+| full name   Angelica "Angel" Jones
+| species   Human Mutant
+| homeworld   Earth
+| alliances   
+| affiliations   Hellions, New Warriors, Avengers, X-Men
+| supports   
+| aliases   Heatwave, Starblaze, Firefly
+| powers   Generation and manipulation of microwave radiation, flight, creation of intense heat and flames
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   yes
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

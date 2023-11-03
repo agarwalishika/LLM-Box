@@ -1,0 +1,44 @@
+{{Infobox comics character
+| character name   Batman
+| image   Batman.png
+| imagesize   250px
+| caption   Batman, as depicted in the comics
+| publisher   DC Comics
+| debut   Detective Comics  27 (March 30, 1939)
+| creators   Bob Kane, Bill Finger
+| voiced by   Various actors
+| first series   Batman (1966 1968)
+| first episode   "Hi Diddle Riddle"
+| first comic   Batman  1 (Spring 1940)
+| real name   Bruce Wayne
+| alter ego   Matches Malone
+| full name   Bruce Wayne
+| species   Human
+| homeworld   Earth
+| alliances   Justice League, Outsiders
+| affiliations   Wayne Enterprises
+| supports   Robin, Batgirl, Alfred Pennyworth, James Gordon, Catwoman
+| aliases   The Dark Knight, Caped Crusader, World's Greatest Detective
+| powers   Peak human physical condition, martial arts mastery, detective skills, advanced technology, vast wealth
+| partners   Robin, Batgirl
+| IOM alter ego   Matches Malone
+| IOM full name   Bruce Wayne
+| IOM alliances   Justice League, Outsiders
+| IOM partners   Robin, Batgirl
+| IOM aliases   The Dark Knight, Caped Crusader, World's Greatest Detective
+| IOM powers   Peak human physical condition, martial arts mastery, detective skills, advanced technology, vast wealth
+| sortkey   Batman
+| subcat   DC Comics superheroes
+| cat   Fictional characters from Gotham City
+| hero   yes
+| villain   no
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

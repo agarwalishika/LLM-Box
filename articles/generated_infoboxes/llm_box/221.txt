@@ -1,0 +1,29 @@
+{{Infobox film
+| name   Das Boot
+| image   Das Boot film poster.jpg
+| alt   The poster for the film Das Boot
+| caption   Theatrical release poster
+| native name   Das Boot
+| language   German
+| title   Das Boot
+| director   Wolfgang Petersen
+| producer   G nter Rohrbach
+| screenplay   Wolfgang Petersen
+| based on   ''Das Boot'' by Lothar-G nther Buchheim
+| starring   J rgen Prochnow
+Herbert Gr nemeyer
+Klaus Wennemann
+| music   Klaus Doldinger
+| cinematography   Jost Vacano
+| editing   Hannes Nikel
+| studio   Bavaria Film
+| distributor   Columbia Pictures
+| released   
+  10 February 1981 (theatrical)
+  22 September 1985 (TV miniseries)
+| runtime   149 minutes (theatrical)
+| country   West Germany
+| budget   DM32 million (about  18.5 million)
+| gross    85 million
+| awards   Nominated for 6 Academy Awards
+}}

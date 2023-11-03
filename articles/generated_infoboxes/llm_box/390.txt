@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Japan
+| Image   Flag of Japan.svg
+| Image size   250px
+| Alt   The national flag of Japan, a white rectangular banner with a red circle at its center.
+| Use   National flag
+| Symbol   The sun
+| Proportion   2:3
+| Adoption   13 August 1999
+| Design   A white rectangular flag with a crimson-red circle at its center
+| Designer   Unknown
+}}

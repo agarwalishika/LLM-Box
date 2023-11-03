@@ -1,0 +1,39 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Erich Zann
+| honorific suffix   
+| native name   
+| native name lang   
+| image   
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| death date   
+| death place   
+| nationality   German
+| field   Music
+| work institutions   Local theater orchestra
+| alma mater   
+| thesis title   
+| thesis url   
+| thesis year   
+| doctoral advisor   
+| doctoral students   
+| known for   Unique and unworldly melodies
+| author abbrev bot   
+| author abbrev zoo   
+| influences   
+| influenced   
+| awards   
+| signature   
+| signature alt   
+| website   
+| footnotes   
+}}

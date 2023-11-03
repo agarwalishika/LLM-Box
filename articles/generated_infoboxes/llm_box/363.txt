@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Chile
+| Image   Flag of Chile.svg
+| Image size   250px
+| Alt   The flag of Chile
+| Use   National flag and ensign
+| Symbol   A white five-pointed star in a blue square, on a field of two horizontal bands of white and red
+| Proportion   3:2
+| Adoption   18 October 1817
+| Design   Two equal-height horizontal bands of white and red, with a blue square the same height as the white band in the canton, which bears a white five-pointed star in the center
+| Designer   
+}}

@@ -1,0 +1,53 @@
+{{Infobox drug
+| drug name   Cholera vaccine
+| type   Vaccine
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   Vaxchora
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category  
+| routes of administration   Oral
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   Approved (US)
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   
+| elimination half-life   
+| duration of action  
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   
+| molecular weight   
+}}
+
+The Cholera vaccine is a vaccine used to prevent cholera infection. It is administered orally. The vaccine is marketed under the tradename Vaxchora. It is approved by the US Food and Drug Administration (FDA) for adults aged 18 64 who are traveling to an area of active cholera transmission. The vaccine offers limited protection to young children.

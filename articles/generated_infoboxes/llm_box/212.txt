@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Batman   Robin
+| image   Batman   Robin poster.jpg
+| imagesize   220px
+| caption   Theatrical release poster
+| publisher   Warner Bros. Pictures
+| debut   June 20, 1997
+| creators   Bill Finger
+Bob Kane
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   Bruce Wayne
+| alter   
+| alter ego   Batman
+| full name   Bruce Wayne
+| full   Bruce Wayne   Batman
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   The Dark Knight, The Caped Crusader
+| powers   Exceptional martial artist, genius-level intellect, advanced technology and gadgets, detective skills
+| partners   Robin
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Batman   Robin
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Bronze Star Medal
+| subheader   
+| current awards   
+| image   File:Bronze Star Medal, obverse.png
+| image size   150px
+| image upright   
+| alt   
+| caption   Obverse of the Bronze Star Medal
+| awarded for   Heroic or meritorious achievement or service in a combat zone
+| sponsor   United States Armed Forces
+| date   4 February 1944
+| YYYY   
+| MM   
+| DD   
+}}

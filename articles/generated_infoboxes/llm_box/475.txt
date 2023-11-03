@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Color blindness
+| synonyms   Color vision deficiency (CVD), Daltonism
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Ophthalmology
+| symptoms   Decreased ability to see color or differences in color
+| complications   Difficulty in tasks such as selecting ripe fruit, choosing clothing, and reading traffic lights; potential impact on academic activities
+| onset   Congenital or acquired
+| duration   Lifelong
+| types   Red green color blindness, blue yellow color blindness, total color blindness (achromatopsia)
+| causes   Inherited genetic disorder (congenital red green color blindness), physical or chemical damage to the eye, optic nerve, or parts of the brain
+| cause    
+| risks   Genetic predisposition, male gender (for most common forms)
+| risk    
+| diagnosis   Ishihara color test, screening
+| differential   
+| prevention   None
+| treatment   No cure, adaptation and coping mechanisms, special lenses (e.g., EnChroma glasses, X-chrom contact lenses), mobile apps for color identification
+| management  
+| medication   
+| prognosis   Lifelong condition, adaptation and coping mechanisms developed
+| frequency   Common
+| incidence  
+| prevalence  Red green color blindness: 1 in 12 males (8 ), 1 in 200 females (0.5 )
+| deaths   
+| named   
+| eponym  
+}}

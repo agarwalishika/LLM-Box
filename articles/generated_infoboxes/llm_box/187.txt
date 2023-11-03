@@ -1,0 +1,20 @@
+{{Infobox award
+| name   Academy Award for Best Adapted Screenplay
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Best screenplay adapted from previously established material
+| sponsor   Academy of Motion Picture Arts and Sciences
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+| location   Los Angeles, California, United States
+| presented by   Academy of Motion Picture Arts and Sciences
+| hosted by   
+| website   
+}}

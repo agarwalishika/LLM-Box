@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Central pontine myelinolysis
+| synonyms   Osmotic demyelination syndrome, Central pontine demyelination
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Acute paralysis, dysphagia, dysarthria, other neurological symptoms
+| complications   
+| onset   
+| duration   
+| types   
+| causes   Rapid rise in serum tonicity following treatment in individuals with chronic, severe hyponatremia
+| cause    
+| risks   
+| risk    
+| diagnosis   Based on clinical symptoms and history, MRI findings
+| differential   Multiple sclerosis, other neuroinflammatory disorders
+| prevention   
+| treatment   Supportive care, correction of electrolyte imbalances
+| management    
+| medication   
+| prognosis   Variable, depends on the severity and underlying cause
+| frequency   Rare
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  Described in 1959 as a disease of alcoholics and malnutrition
+}}

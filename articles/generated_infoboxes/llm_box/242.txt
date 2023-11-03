@@ -1,0 +1,30 @@
+{{Infobox film
+| name   Godzilla vs. King Ghidorah
+| image   
+| alt   
+| caption   
+| native name      vs      
+| language   Japanese
+| title   Gojira tai Kingu Gidora
+| director   Kazuki  mori
+| producer   Sh go Tomiyama
+| writer   Kazuki  mori
+| starring   K suke Toyohara
+Anna Nakagawa
+Megumi Odaka
+Katsuhiko Sasaki
+Akiji Kobayashi
+Yoshio Tsuchiya
+Robert Scott Field
+| music   Akira Ifukube
+| cinematography   Yoshinori Sekiguchi
+| editing   Michiko Ikeda
+| studio   Toho Studios
+| distributor   Toho Studios
+| released   December 14, 1991 (Japan)
+| runtime   
+| country   Japan
+| language   Japanese
+| budget   
+| gross   
+}}

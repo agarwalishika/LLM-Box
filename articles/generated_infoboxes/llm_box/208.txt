@@ -1,0 +1,27 @@
+{{Infobox film
+| name   Braveheart
+| image   Braveheart poster.jpg
+| alt   The poster features Mel Gibson as William Wallace, holding a sword and wearing a blue face paint.
+| caption   Theatrical release poster
+| director   Mel Gibson
+| producer   Mel Gibson
+| writer   Randall Wallace
+| based on   ''The Actes and Deidis of the Illustre and Vallyeant Campioun Schir William Wallace'' by Blind Harry
+| starring   Mel Gibson
+Sophie Marceau
+Patrick McGoohan
+Catherine McCormack
+| music   James Horner
+| cinematography   John Toll
+| editing   Steven Rosenblum
+| studio   Icon Productions
+The Ladd Company
+| distributor   Paramount Pictures (North America)
+20th Century Fox (International)
+| released   May 24, 1995
+| runtime   177 minutes
+| country   United States
+| language   English
+| budget    72 million
+| gross    210.4 million
+}}

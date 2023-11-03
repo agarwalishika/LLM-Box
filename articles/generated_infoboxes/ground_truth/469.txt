@@ -1,0 +1,9 @@
+{{Infobox 
+| Bradycardia   Bradycardia 
+| Other names   Bradyarrhythmia, brachycardia 
+| Sinus bradycardia seen in lead II with a heart rate of about 50BPM   Sinus bradycardia seen in lead II with a heart rate of about 50BPM 
+| Pronunciation     br d  k  rdi   
+| Specialty   Cardiology 
+| Diagnostic method   electrocardiogram 
+| Frequency   15  (males), 7  (females) 
+}}

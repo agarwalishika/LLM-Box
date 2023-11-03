@@ -1,0 +1,33 @@
+{{Infobox_film
+| name = Dune
+| image = Dune film poster.jpg
+| alt = A film poster featuring the title "Dune" in bold letters against a desert background.
+| caption = Theatrical release poster
+| native_name = 
+| language = English
+| title = Dune
+| based_on = ''Dune'' by Frank Herbert
+| director = Denis Villeneuve
+| producer = 
+| screenplay = Jon Spaihts
+| starring = Timothée Chalamet
+Rebecca Ferguson
+Oscar Isaac
+Josh Brolin
+Stellan Skarsgård
+Dave Bautista
+Zendaya
+Jason Momoa
+| music = Hans Zimmer
+| cinematography = Greig Fraser
+| editing = Joe Walker
+| studio = Legendary Pictures
+| distributor = Warner Bros. Pictures
+| released = October 22, 2021
+| runtime = 155 minutes
+| country = United States
+| budget = $165–200 million
+| gross = $406.6 million
+| preceded_by = Dune (1984)
+| followed_by = Dune: Part Two (2024)
+}}

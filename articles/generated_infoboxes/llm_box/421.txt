@@ -1,0 +1,20 @@
+{{Infobox Doctor Who episode
+| number   144
+| serial name   Terror of the Vervoids
+| show   Doctor Who
+| type   Serial
+| image   
+| caption   
+| image size   
+| alt   
+| doctor   Sixth
+| doctors   Colin Baker
+| companion   Mel Bush
+| companions   Bonnie Langford
+| cast   
+| doctor   Colin Baker
+| guests   
+| director   Chris Clough
+| writer   Pip and Jane Baker
+| based on   
+}}

@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Robin Hood
+| image   Robin Hood.jpg
+| imagesize   250px
+| alt   A depiction of Robin Hood
+| caption   Robin Hood, as depicted in English folklore
+| publisher   English folklore
+| debut   Unknown
+| creators   Unknown
+| voiced by   Various
+| first series   Unknown
+| first episode   Unknown
+| first comic   Unknown
+| real name   Unknown
+| alter   None
+| alter ego   None
+| full name   Robin Hood
+| full   Robin Hood
+| species   Human
+| homeworld   Earth
+| alliances   Merry Men
+| affiliations   None
+| supports   The poor
+| aliases   None
+| powers   Highly skilled archer and swordsman
+| partners   Maid Marian
+| IOM alter ego   None
+| IOM full name   None
+| IOM alliances   None
+| IOM partners   None
+| IOM aliases   None
+| IOM powers   None
+| sortkey   Hood, Robin
+| subcat   English folklore
+| cat   Legendary characters
+| hero   Yes
+| villain   No
+| altcat   Outlaws
+| addcharcat1   None
+| addcharcat2   None
+| addcharcat3   None
+| addcharcat4   None
+| addcharcat5   None
+| addcharcat6   None
+| noimage   No
+| converted   Yes
+}}

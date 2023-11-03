@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Ataxia
+| synonyms   Lack of coordination, Cerebellar ataxia
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Lack of voluntary coordination of muscle movements, gait abnormality, speech changes, abnormalities in eye movements
+| complications   
+| onset   Variable
+| duration   Chronic
+| types   Cerebellar ataxia, Hemiataxia, Friedreich's ataxia, Dystaxia
+| causes   Dysfunction of the cerebellum, nervous system disorders
+| cause    
+| risks   
+| risk    
+| diagnosis   Clinical examination, neurological tests, genetic testing, imaging studies
+| differential   Other movement disorders, neurological conditions
+| prevention   
+| treatment   Supportive care, physical therapy, speech therapy, occupational therapy, assistive devices
+| management  
+| medication   Medications to manage symptoms, such as muscle relaxants, anticonvulsants, and antidepressants
+| prognosis   Variable, depends on the underlying cause
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

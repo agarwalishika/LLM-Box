@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Epilepsy
+| synonyms   Seizure disorder, convulsive disorder
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Recurrent epileptic seizures
+| complications   Physical injuries, accidents
+| onset   Usually in childhood or adolescence
+| duration   Lifelong
+| types   Focal seizures, generalized seizures, absence seizures, myoclonic seizures, tonic-clonic seizures
+| causes   Unknown (cryptogenic), brain injury, stroke, brain tumors, infections of the brain, birth defects, genetic mutations
+| cause    
+| risks   
+| risk    
+| diagnosis   Ruling out other conditions, imaging the brain, blood tests, electroencephalogram (EEG)
+| differential   Fainting, alcohol withdrawal, electrolyte problems
+| prevention   
+| treatment   Medication, ketogenic diet, surgery, vagus nerve stimulation
+| management  
+| medication   Antiepileptic drugs
+| prognosis   Varies, can be well-controlled with treatment
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

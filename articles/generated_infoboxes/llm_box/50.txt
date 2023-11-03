@@ -1,0 +1,48 @@
+{{Infobox comics character
+| character name   Barb Wire
+| image   
+| imagesize   
+| image size   
+| alt   
+| caption   
+| publisher   Dark Horse Comics
+| debut   Comics' Greatest World: Steel Harbor (1993)
+| creators   Chris Warner and Team CGW
+| voiced by   
+| first series   Barb Wire (1994-1995)
+| first episode   
+| first comic   
+| real name   Barbara Kopetski
+| alter   
+| alter ego   
+| full name   
+| full   
+| species   Human
+| homeworld   Earth (alternate version)
+| alliances   
+| affiliations   
+| supports   
+| aliases   
+| powers   None
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

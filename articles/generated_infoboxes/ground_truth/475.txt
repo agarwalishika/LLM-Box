@@ -1,0 +1,12 @@
+{{Infobox 
+| Color blindness   Color blindness 
+| Other names   Color vision deficiency, impaired color vision 1  
+| Example of an Ishihara color test plate. Viewers with normal color vision should clearly see the number "74".   Example of an Ishihara color test plate. Viewers with normal color vision should clearly see the number "74". 
+| Specialty   Ophthalmology 
+| Symptoms   Decreased ability tosee colors 2  
+| Duration   Long term 2  
+| Causes   Genetic(inheritedusuallyX-linked) 2  
+| Diagnostic method   Ishihara color test 2  
+| Treatment   Adjustments to teaching methods,mobile apps 1  2  
+| Frequency   Red green: 8  males, 0.5  females (Northern European descent) 2  
+}}

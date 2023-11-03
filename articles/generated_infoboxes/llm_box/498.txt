@@ -1,0 +1,22 @@
+{{Infobox medical intervention
+| name   Haemophilia
+| synonyms   Hemophilia
+| image   
+| caption   
+| pronounce   
+| specialty   Hematology
+| symptoms   Easy bruising, prolonged bleeding after injury, increased risk of bleeding in joints or brain
+| causes   Genetic mutation resulting in low levels of clotting factors
+| diagnosis   Blood clotting tests, levels of clotting factors
+| treatment   Replacement therapy with clotting factors, gene therapy, physical therapy
+| prognosis   Depends on severity and management of symptoms
+| frequency   Approximately 1 in 5,000 to 10,000 males
+| complications   Joint damage, intracranial bleeding, decreased level of consciousness
+| prevention   Genetic counseling, prenatal testing, preimplantation genetic diagnosis
+| medication   Clotting factor concentrates, desmopressin
+| related conditions   Von Willebrand disease, parahaemophilia, acquired haemophilia
+| field   Hematology, medical genetics
+| meshid   D000837
+}}
+
+Please note that some fields may be left blank if the information is not available or not applicable.

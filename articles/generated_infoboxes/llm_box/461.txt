@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Brain abscess
+| synonyms   Cerebral abscess
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology, Infectious diseases
+| symptoms   Fever, headache, neurological problems
+| complications   Increased intracranial pressure, brain tissue damage, meningitis
+| onset   Any age, most frequent in the third decade of life
+| duration   
+| types   
+| causes   Inflammation and collection of infected material from local or remote infectious sources, skull fracture
+| cause    
+| risks   Congenital heart disease in young children
+| risk    
+| diagnosis   
+| differential   Meningitis, brain tumor, encephalitis
+| prevention   
+| treatment   Antibiotics, surgical drainage
+| management  
+| medication   
+| prognosis   
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

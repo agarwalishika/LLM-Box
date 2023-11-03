@@ -1,0 +1,24 @@
+{{Infobox film
+| name   Indiana Jones
+| image   Indiana Jones logo.png
+| alt   The iconic Indiana Jones logo
+| caption   The logo for the Indiana Jones franchise
+| native name   Dr. Henry Walton "Indiana" Jones, Jr.
+| language   English
+| title   Indiana Jones franchise
+| creator   George Lucas
+| first appearance   Raiders of the Lost Ark (1981)
+| last appearance   Indiana Jones and the Dial of Destiny (2023)
+| portrayed by   Harrison Ford, River Phoenix, Anthony Ingruber, Corey Carrier, Sean Patrick Flanery, George Hall
+| voice actor   Doug Lee, David Esch, John Armstrong
+| based on   Action heroes of 1930s film serials
+| character name   Indiana Jones
+| occupation   Archaeologist, professor
+| nationality   American
+| significant other   Marion Ravenwood, Willie Scott, Elsa Schneider
+| signature   Indiana Jones signature.png
+| accoutrements   Bullwhip, fedora, satchel, leather jacket
+| personality   Wry, witty, sarcastic
+| notable works   Raiders of the Lost Ark, Indiana Jones and the Last Crusade, Indiana Jones and the Kingdom of the Crystal Skull
+| awards   American Film Institute's second-greatest film hero of all time (2003)
+}}

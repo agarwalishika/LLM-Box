@@ -1,0 +1,19 @@
+{{Infobox Doctor Who episode
+| number   4
+| serial name   Marco Polo
+| show   Doctor Who
+| quotes   "One day, I shall come back. Yes, I shall come back. Until then, there must be no regrets, no tears, no anxieties. Just go forward in all your beliefs and prove to me that I am not mistaken in mine."
+| type   Serial
+| image   Marco Polo (Doctor Who).jpg
+| caption   The Doctor and Marco Polo
+| image size   250px
+| alt   A black and white image of the Doctor and Marco Polo
+| doctor     William Hartnell  
+| doctors   1
+| companion     Susan Foreman  ,   Ian Chesterton  ,   Barbara Wright  
+| companions   3
+| cast     Mark Eden  ,   Martin Miller  ,   Derren Nesbitt  
+| director     Waris Hussein  ,   John Crockett  
+| writer     John Lucarotti  
+| based on   Marco Polo's adventures
+}}

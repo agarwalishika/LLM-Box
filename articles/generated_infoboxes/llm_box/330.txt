@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Devil and Daniel Webster
+| image   
+| caption   
+| author   Stephen Vincent Ben t
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Short story
+| published in   The Saturday Evening Post
+| publication type   Magazine
+| publisher   Farrar   Rinehart
+| media type   Print (hardcover)
+| pub date   1937
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

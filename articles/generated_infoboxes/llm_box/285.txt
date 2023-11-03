@@ -1,0 +1,37 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Ray Bradbury
+| honorific suffix   
+| native name   
+| native name lang   
+| image   Ray Bradbury 1975.jpg
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   Bradbury in 1975
+| birth name   Ray Douglas Bradbury
+| birth date   
+| 1920   
+| 08   
+| 22   
+| birth place   Waukegan, Illinois, U.S.
+| death date   
+| 2012   
+| 06   
+| 05   
+| death place   Los Angeles, California, U.S.
+| nationality   American
+| other names   
+| occupation   Writer
+| known for   Fahrenheit 451, The Martian Chronicles
+| notable works   
+| awards   National Medal of Arts, Pulitzer Prize Special Citation, Bram Stoker Award for Lifetime Achievement
+| spouse   Marguerite McClure (m. 1947; her death 2003), Maggie McClure (m. 1947; div. 1955), Alexandra Bradbury (m. 1957)
+| children   4
+| signature   
+| signature size   
+| signature alt   
+| website   
+| footnotes   
+}}

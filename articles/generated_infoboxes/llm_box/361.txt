@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Kiribati
+| Image   Flag of Kiribati.svg
+| Image size   250px
+| Alt   The flag of Kiribati
+| Use   National flag
+| Symbol   
+| Proportion   1:2
+| Adoption   12 July 1979
+| Design   A red upper half with a gold frigatebird flying over a gold rising sun, and a blue lower half with three horizontal wavy white stripes
+| Designer   Sir Arthur Grimble
+}}

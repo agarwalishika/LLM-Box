@@ -1,0 +1,32 @@
+{{Infobox film
+| name   The Return of Godzilla
+| image   
+| alt   
+| caption   Japanese theatrical release poster
+| native name      
+| language   Japanese
+| title   Gojira
+| director   Koji Hashimoto
+| producer   Tomoyuki Tanaka
+| screenplay   Shuichi Nagahara
+| story   Tomoyuki Tanaka
+| based on   Godzilla by Toho
+| starring   Ken Tanaka
+Yasuko Sawaguchi
+Yosuke Natsuki
+Keiju Kobayashi
+| music   Reijiro Koroku
+| cinematography   Kazutami Hara
+| editing   Yoshitami Kuroiwa
+| studio   Toho Pictures
+| distributor   Toho
+| released   
+{{Film date|1984|12|15|Japan}}
+| runtime   103 minutes
+| country   Japan
+| language   Japanese
+| budget   
+| gross   
+| preceded by   Terror of Mechagodzilla (1975)
+| followed by   Godzilla vs. Biollante (1989)
+}}

@@ -1,0 +1,15 @@
+{{Infobox 
+| "The Library of Babel"   "The Library of Babel" 
+| Short story by Jorge Luis Borges   Short story by Jorge Luis Borges 
+| English language cover   English language cover 
+| Original title   La biblioteca de Babel 
+| Translator   numerous 
+| Country   Argentina 
+| Language   Spanish 
+| Genre(s)   Fantasy 
+| Publication   Publication 
+| Published in   El Jard n de senderos que se bifurcan 
+| Publisher   Editorial Sur 
+| Publication date   1941 
+| Published in English   1962 
+}}

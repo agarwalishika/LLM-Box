@@ -1,0 +1,16 @@
+{{Infobox radio station
+| name   BBC Radio 1
+| logo   BBC Radio 1 logo 2022.svg
+| logo size   200px
+| logo alt   BBC Radio 1 logo
+| city   London
+| area   United Kingdom
+| frequency   FM 97.1 99.7 MHz
+| airdate   30 September 1967
+| format   Contemporary hit radio, alternative music
+| language   English
+| owner   BBC
+| sister stations   BBC Radio 2, BBC Radio 1Xtra
+| webcast    https:  www.bbc.co.uk sounds play live:bbc radio one Listen Live 
+| website    https:  www.bbc.co.uk radio1 www.bbc.co.uk radio1 
+}}

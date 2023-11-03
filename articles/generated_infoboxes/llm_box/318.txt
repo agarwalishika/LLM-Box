@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Umney's Last Case
+| image   
+| caption   
+| author   Stephen King
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Mystery, Horror
+| published in   Nightmares   Dreamscapes
+| publication type   Short story collection
+| publisher   Viking Press
+| media type   Print (hardcover)
+| pub date   September 1993
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

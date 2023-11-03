@@ -1,0 +1,23 @@
+{{Infobox Doctor Who episode
+| number   2
+| serial name   The Edge of Destruction
+| show   Doctor Who
+| quotes   "Fear makes companions of all of us."
+| type   Serial
+| image   The Edge of Destruction.jpg
+| caption   The original title card for the serial
+| image size   250px
+| alt   
+| doctor     William Hartnell  
+| doctors   1
+| companion     Susan Foreman  
+| companions     Ian Chesterton  ,   Barbara Wright  
+| cast   
+| doctor   William Hartnell
+| guests   
+| director     Richard Martin   (Part 1),   Frank Cox   (Part 2)
+| writer     David Whitaker  
+| based on   
+}}
+
+The infobox has been filled out with the relevant information from the context text.

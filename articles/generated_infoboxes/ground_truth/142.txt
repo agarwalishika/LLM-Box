@@ -1,0 +1,7 @@
+{{Infobox 
+| A lich from the game The Battle for Wesnoth   A lich from the game The Battle for Wesnoth 
+| Grouping   Legendary creature 
+| Sub grouping   Undead 
+| Similar entities   Zombie,magician,revenant 
+| Other name(s)   Liche 
+}}

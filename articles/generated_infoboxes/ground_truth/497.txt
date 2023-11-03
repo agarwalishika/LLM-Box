@@ -1,0 +1,6 @@
+{{Infobox 
+| Hemiparesis   Hemiparesis 
+| Specialty   Neurology 
+| Symptoms   Loss of motor skills on one side of body 
+| Causes   Stroke 
+}}

@@ -1,0 +1,43 @@
+{{Infobox book
+| name   By His Bootstraps
+| image   
+| image size   
+| border   
+| alt   
+| caption   
+| author   Robert A. Heinlein
+| audio read by   
+| title orig   
+| orig lang code   
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   United States
+| language   English
+| series   
+| release number   
+| subject   Time travel
+| genre   Science fiction
+| set in   
+| publisher   Astounding Science Fiction
+| publisher2   
+| pub date   October 1941
+| english pub date   
+| published   
+| media type   Print (magazine)
+| pages   20,000 words
+| awards   
+| isbn   
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   
+| followed by   
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

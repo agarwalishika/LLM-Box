@@ -1,0 +1,35 @@
+{{Infobox_noble
+| name = Sir John Falstaff
+| image = File:John_Falstaff_by_Edouard_Manet.jpg
+| caption = John Falstaff, as depicted by Édouard Manet
+| alt = A painting of a corpulent man with a white beard and a red hat, holding a tankard of beer
+| CoA = 
+| more = 
+| succession = 
+| reign = 
+| reign-type = 
+| predecessor = 
+| successor = 
+| suc-type = 
+| spouse = 
+| spouse-type = 
+| issue-type = 
+| issue = 
+| issue-link = 
+| issue-pipe = 
+| full = Sir John Falstaff
+| native_name = 
+| styles = 
+| other_titles = 
+| noble = 
+| house-type = 
+| father = 
+| mother = 
+| birth_name = 
+| birth_date = 
+| YYYY = 
+| MM = 
+| DD = 
+| df=y = 
+}}
+

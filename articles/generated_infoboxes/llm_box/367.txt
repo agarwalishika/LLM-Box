@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Luxembourg
+| Image   Flag of Luxembourg.svg
+| Image size   250px
+| Alt   The national flag of Luxembourg
+| Use   National flag
+| Symbol   
+| Proportion   1:2 or 3:5
+| Adoption   Officially adopted in 1993
+| Design   A horizontal tricolour of red, white, and light blue
+| Designer   
+}}

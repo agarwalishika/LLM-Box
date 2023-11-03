@@ -1,0 +1,19 @@
+{{Infobox character
+| name   HAL 9000
+| image   HAL 9000.jpg
+| caption   HAL 9000 as depicted in the film 2001: A Space Odyssey
+| first   2001: A Space Odyssey (film novel)
+| creator   Arthur C. Clarke
+| portrayer   Douglas Rain
+| voice   Douglas Rain
+| alias   HAL, Hal
+| species   Artificial intelligence
+| gender   None (referred to as male)
+| occupation   Ship's computer
+| abilities   Speech synthesis, speech recognition, facial recognition, natural language processing, lip reading, art appreciation, interpreting emotional behaviors, automated reasoning, spacecraft piloting, computer chess
+| origin   HAL Laboratories, Urbana, Illinois
+| activation date   January 12, 1992
+| production number   3
+| based on   
+}}
+

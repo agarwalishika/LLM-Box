@@ -1,0 +1,27 @@
+{{Infobox short story
+| name   Sinners in the Hands of an Angry God
+| image   
+| caption   
+| author   Jonathan Edwards
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Sermon
+| published in   
+| publication type   
+| publisher   
+| media type   Print
+| pub date   1741
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}
+

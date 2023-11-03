@@ -1,0 +1,57 @@
+{{Infobox drug
+| drug name   Endocarditis
+| type   Inflammatory disease
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category    
+| routes of administration   
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   
+| elimination half-life   
+| duration of action    
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   
+| molecular weight   
+}}
+
+'''Endocarditis''' is an inflammatory disease of the inner layer of the heart, the endocardium. It usually involves the heart valves. Other structures that may be involved include the interventricular septum, the chordae tendineae, the mural endocardium, or the surfaces of intracardiac devices. Endocarditis is characterized by lesions, known as vegetations, which is a mass of platelets, fibrin, microcolonies of microorganisms, and scant inflammatory cells. In the subacute form of infective endocarditis, the vegetation may also include a center of granulomatous tissue, which may fibrose or calcify.
+
+   Infective endocarditis   
+
+'''Infective endocarditis''' is an infection of the inner surface of the heart, usually the valves. Symptoms may include fever, small areas of bleeding into the skin, heart murmur, feeling tired, and low red blood cells. Complications may include valvular insufficiency, heart failure, stroke, and kidney failure. The cause is typically a bacterial infection and less commonly a fungal infection. Risk factors include valvular heart disease including rheumatic disease, congenital heart disease, artificial valves, hemodialysis, intravenous drug use, and electronic pacemakers. The bacteria most commonly involved are streptococci and staphylococci.

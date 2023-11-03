@@ -1,0 +1,59 @@
+{{Infobox drug
+| drug name   Congenital iodine deficiency syndrome
+| type   Medical condition
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category   
+| routes of administration   
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   
+| elimination half-life   
+| duration of action   
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   
+| molecular weight   
+}}
+
+Congenital iodine deficiency syndrome (CIDS) is a medical condition present at birth marked by impaired physical and mental development, due to insufficient thyroid hormone (hypothyroidism) often caused by insufficient dietary iodine during pregnancy. It is one cause of underactive thyroid function at birth, called congenital hypothyroidism, historically referred to as cretinism (obsolete). If untreated, it results in impairment of both physical and mental development. Symptoms may include goiter, poor length growth in infants, reduced adult stature, thickened skin, hair loss, enlarged tongue, a protruding abdomen; delayed bone maturation and puberty in children; and mental deterioration, neurological impairment, impeded ovulation, and infertility in adults. In developed countries, thyroid function testing of newborns has assured that in those affected, treatment with the thyroid hormone thyroxine is begun promptly. This screening and treatment have virtually eliminated the consequences of the disease.
+
+   Signs and symptoms   
+Iodine deficiency causes gradual enlargement of the thyroid gland, referred to as a goiter. Poor length growth is apparent as early as the first year of life. Adult stature without treatment ranges from 100 to 160 cm (3 ft 3 in to 5 ft 3 in), depending on severity, sex, and other genetic factors. Other signs include thickened skin, hair loss, enlarged tongue, and a protruding abdomen. In children, bone maturation and puberty are severely delayed. In adults, ovulation is impeded and infertility is common. Mental deterioration is common. Neurological impairment may be mild, with reduced muscle tone and coordination, or so severe that the person cannot stand or walk. Cognitive impairment may also range from mild to so severe that the person is nonverbal and dependent on others for basic care. Thought and reflexes are slower.
+
+   Cause   
+Around the world, the most common cause of congenital iodine deficiency syndrome (endemic cretinism) is dietary iodine deficiency during pregnancy.

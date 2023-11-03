@@ -1,0 +1,44 @@
+{{Infobox civil conflict
+| title   Ain't I a Woman? Black Women and Feminism
+| subtitle   
+| partof   
+| image   
+| caption   
+| date   1981
+| place   United States
+| coordinates   
+| causes   Racism, sexism, civil rights movement, feminist movements
+| goals   Examining the effect of racism and sexism on Black women, analyzing the civil rights movement and feminist movements
+| methods   Research, analysis, critique
+| status   Published
+| result   
+| side1   
+| side2   
+| side3   
+| side4   
+| leadfigures1   bell hooks
+| leadfigures2   
+| leadfigures3   
+| leadfigures4   
+| howmany1   
+| howmany2   
+| howmany3   
+| howmany4   
+| casualties1   
+| casualties2   
+| casualties3   
+| casualties4   
+| fatalities   
+| injuries   
+| arrests   
+| damage   
+| buildings   
+| detentions   
+| charged   
+| fined   
+| effect   
+| effect label   
+| casualties label   
+| notes   
+| sidebox   
+}}

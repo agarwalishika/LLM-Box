@@ -1,0 +1,28 @@
+{{Infobox film
+| name   The Evil Dead
+| image   The Evil Dead poster.jpg
+| alt   The poster features a close-up of a demonic face with glowing red eyes and sharp teeth.
+| caption   Theatrical release poster
+| director   Sam Raimi
+| producer   Robert G. Tapert
+| writer   Sam Raimi
+| starring   Bruce Campbell
+Ellen Sandweiss
+Richard DeManincor
+Betsy Baker
+Theresa Tilly
+| music   Joseph LoDuca
+| cinematography   Tim Philo
+| editing   Edna Ruth Paul
+| studio   Renaissance Pictures
+| distributor   New Line Cinema
+| released   October 15, 1981
+| runtime   85 minutes
+| country   United States
+| language   English
+| budget    90,000
+| gross    2.4 million (United States)
+| budget    2.7  29.4 million (worldwide)
+| native name   
+| title   The Evil Dead
+}}

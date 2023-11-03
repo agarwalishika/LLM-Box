@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Tl n
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Mythical world
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   
+| First Attested   1940
+| AKA   
+| Country   Uqbar
+| Region   
+| Habitat   Fictional
+| Details   Tl n is a mythical world in the short story "Tl n, Uqbar, Orbis Tertius" by Jorge Luis Borges. Its inhabitants believe in a form of subjective idealism, denying the reality of objects and nouns. Tl n is created by the secret organization Orbis Tertius.
+}}

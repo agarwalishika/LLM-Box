@@ -1,0 +1,24 @@
+{{Infobox Doctor Who episode
+| number   78
+| serial name   Genesis of the Daleks
+| show   Doctor Who
+| quotes   "If someone who knew the future pointed out a child to you and told you that that child would grow up totally evil, to be a ruthless dictator who would destroy millions of lives, could you then kill that child?"
+| type   Serial
+| image   Genesis of the Daleks.jpg
+| caption   The Doctor confronts Davros, the creator of the Daleks.
+| image size   250px
+| alt   The Doctor and Davros face each other.
+| doctor   Fourth
+| doctors   Tom Baker
+| companion   Sarah Jane Smith
+| companions   Elisabeth Sladen
+| cast   
+  Tom Baker as the Fourth Doctor
+  Elisabeth Sladen as Sarah Jane Smith
+  Ian Marter as Harry Sullivan
+  Michael Wisher as Davros
+| director   David Maloney
+| writer   Terry Nation
+| based on   
+}}
+

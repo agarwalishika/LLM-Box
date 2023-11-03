@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   R kshasa
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Mythological creature
+| Sub Grouping   
+| Similar entities   Yaksha, Asura
+| Family   
+| Folklore   Hindu mythology
+| First Attested   
+| AKA   Rakkhasa, Rakshasi (female form)
+| Country   India
+| Region   South Asia
+| Habitat   Earth
+| Details   A race of usually malevolent beings with supernatural powers, known for their evil acts such as disrupting Vedic sacrifices and consuming humans. They are often depicted as antagonists in Hindu scriptures, Buddhism, and Jainism. Rakshasas are shape-shifters, fierce-looking creatures with sharp fangs and claws. They possess maya (magical powers of illusion) and can change size and assume the form of any creature. The female form of rakshasa is rakshasi.
+}}

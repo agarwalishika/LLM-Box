@@ -1,0 +1,24 @@
+{{Infobox film
+| name   Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+| image   
+| caption   Theatrical release poster
+| director   Stanley Kubrick
+| producer   Stanley Kubrick
+| screenplay   Stanley Kubrick, Peter George, Terry Southern
+| based on   ''Red Alert'' by Peter George
+| starring   Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn, Slim Pickens, Tracy Reed
+| music   Laurie Johnson
+| cinematography   Gilbert Taylor
+| editing   Anthony Harvey
+| studio   Hawk Films
+| distributor   Columbia Pictures
+| released   January 29, 1964
+| runtime   95 minutes
+| country   United Kingdom
+| language   English
+| budget    1.8 million
+| gross    9.4 million
+| awards   Academy Award nominations: Best Picture, Best Director, Best Adapted Screenplay, Best Actor (Peter Sellers)
+| website   
+}}
+

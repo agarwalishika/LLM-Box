@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Yeti
+| image   Yeti.jpg
+| image size   250px
+| image upright   
+| caption   An artist's depiction of the Yeti
+| Grouping   Cryptid
+| Sub Grouping   Hominid
+| Similar entities   Bigfoot
+| Family   Unknown
+| Folklore   Sherpa folklore
+| First Attested   19th century
+| AKA   Abominable Snowman
+| Country   Nepal, Tibet, Bhutan
+| Region   Himalayas
+| Habitat   Mountainous regions
+| Details   The Yeti is an ape-like creature that is said to inhabit the Himalayan mountain range in Asia. It is often described as a large, bipedal creature covered with brown, gray, or white hair. The Yeti is commonly compared to Bigfoot of North America due to their similar physical descriptions. Many dubious articles have been offered in an attempt to prove the existence of the Yeti, including anecdotal visual sightings, disputed video recordings, photographs, and plaster casts of large footprints. Some of these are speculated or known to be hoaxes. Folklorists trace the origin of the Yeti to a combination of factors, including Sherpa folklore and misidentified fauna such as bear or yak.
+}}

@@ -1,0 +1,284 @@
+{{Infobox character
+| name   Professor X
+| series   X-Men
+| franchise   Marvel Comics
+| image   Professor X.jpg
+| alt   A bald man in a wheelchair with a serious expression
+| caption   Professor X, as depicted in the comics
+| first major   The X-Men
+| first minor    1
+| first issue   September 1963
+| first date   
+| first   
+| last major   
+| last minor   
+| last issue   
+| last date   
+| last   
+| creator   Stan Lee, Jack Kirby
+| based on   
+| character   Charles Francis Xavier
+| author   
+}}
+
+Additional fields:
+| full name   Charles Francis Xavier
+| species   Mutant
+| abilities   Telepathy, mind control
+| occupation   Founder and leader of the X-Men, headmaster of Xavier's School for Gifted Youngsters
+| residence   X-Mansion, Salem Center, Westchester County, New York
+| ideology   Pacifism, assimilationism
+| allies   X-Men
+| enemies   Magneto
+| portrayed by   Patrick Stewart, James McAvoy (films)
+| voice actor   
+| motion actor   
+| motion voice   
+| motion portrayer   
+| motion captor   
+| motion performance   
+| motion model   
+| motion reference   
+| motion based on   
+| motion inspired by   
+| motion designer   
+| motion animator   
+| motion artist   
+| motion director   
+| motion supervisor   
+| motion coordinator   
+| motion choreographer   
+| motion cinematographer   
+| motion editor   
+| motion composer   
+| motion writer   
+| motion screenplay   
+| motion story   
+| motion producer   
+| motion executive producer   
+| motion distributor   
+| motion studio   
+| motion network   
+| motion channel   
+| motion program   
+| motion station   
+| motion service   
+| motion operating system   
+| motion platform   
+| motion console   
+| motion computer   
+| motion television   
+| motion film   
+| motion theatre   
+| motion play   
+| motion musical   
+| motion game   
+| motion website   
+| motion webcomic   
+| motion webseries   
+| motion podcast   
+| motion radio   
+| motion album   
+| motion song   
+| motion band   
+| motion label   
+| motion recorded   
+| motion published   
+| motion released   
+| motion aired   
+| motion runtime   
+| motion format   
+| motion genre   
+| motion rating   
+| motion certification   
+| motion language   
+| motion country   
+| motion budget   
+| motion gross   
+| motion preceded by   
+| motion followed by   
+| motion related   
+| motion notes   
+| motion website title   
+| motion webcomic title   
+| motion webseries title   
+| motion podcast title   
+| motion radio title   
+| motion album title   
+| motion song title   
+| motion band title   
+| motion label title   
+| motion recorded title   
+| motion published title   
+| motion released title   
+| motion aired title   
+| motion runtime title   
+| motion format title   
+| motion genre title   
+| motion rating title   
+| motion certification title   
+| motion language title   
+| motion country title   
+| motion budget title   
+| motion gross title   
+| motion preceded by title   
+| motion followed by title   
+| motion related title   
+| motion notes title   
+| motion website url   
+| motion webcomic url   
+| motion webseries url   
+| motion podcast url   
+| motion radio url   
+| motion album url   
+| motion song url   
+| motion band url   
+| motion label url   
+| motion recorded url   
+| motion published url   
+| motion released url   
+| motion aired url   
+| motion runtime url   
+| motion format url   
+| motion genre url   
+| motion rating url   
+| motion certification url   
+| motion language url   
+| motion country url   
+| motion budget url   
+| motion gross url   
+| motion preceded by url   
+| motion followed by url   
+| motion related url   
+| motion notes url   
+| motion website accessdate   
+| motion webcomic accessdate   
+| motion webseries accessdate   
+| motion podcast accessdate   
+| motion radio accessdate   
+| motion album accessdate   
+| motion song accessdate   
+| motion band accessdate   
+| motion label accessdate   
+| motion recorded accessdate   
+| motion published accessdate   
+| motion released accessdate   
+| motion aired accessdate   
+| motion runtime accessdate   
+| motion format accessdate   
+| motion genre accessdate   
+| motion rating accessdate   
+| motion certification accessdate   
+| motion language accessdate   
+| motion country accessdate   
+| motion budget accessdate   
+| motion gross accessdate   
+| motion preceded by accessdate   
+| motion followed by accessdate   
+| motion related accessdate   
+| motion notes accessdate   
+| motion website archiveurl   
+| motion webcomic archiveurl   
+| motion webseries archiveurl   
+| motion podcast archiveurl   
+| motion radio archiveurl   
+| motion album archiveurl   
+| motion song archiveurl   
+| motion band archiveurl   
+| motion label archiveurl   
+| motion recorded archiveurl   
+| motion published archiveurl   
+| motion released archiveurl   
+| motion aired archiveurl   
+| motion runtime archiveurl   
+| motion format archiveurl   
+| motion genre archiveurl   
+| motion rating archiveurl   
+| motion certification archiveurl   
+| motion language archiveurl   
+| motion country archiveurl   
+| motion budget archiveurl   
+| motion gross archiveurl   
+| motion preceded by archiveurl   
+| motion followed by archiveurl   
+| motion related archiveurl   
+| motion notes archiveurl   
+| motion website archivedate   
+| motion webcomic archivedate   
+| motion webseries archivedate   
+| motion podcast archivedate   
+| motion radio archivedate   
+| motion album archivedate   
+| motion song archivedate   
+| motion band archivedate   
+| motion label archivedate   
+| motion recorded archivedate   
+| motion published archivedate   
+| motion released archivedate   
+| motion aired archivedate   
+| motion runtime archivedate   
+| motion format archivedate   
+| motion genre archivedate   
+| motion rating archivedate   
+| motion certification archivedate   
+| motion language archivedate   
+| motion country archivedate   
+| motion budget archivedate   
+| motion gross archivedate   
+| motion preceded by archivedate   
+| motion followed by archivedate   
+| motion related archivedate   
+| motion notes archivedate   
+| motion website deadurl   
+| motion webcomic deadurl   
+| motion webseries deadurl   
+| motion podcast deadurl   
+| motion radio deadurl   
+| motion album deadurl   
+| motion song deadurl   
+| motion band deadurl   
+| motion label deadurl   
+| motion recorded deadurl   
+| motion published deadurl   
+| motion released deadurl   
+| motion aired deadurl   
+| motion runtime deadurl   
+| motion format deadurl   
+| motion genre deadurl   
+| motion rating deadurl   
+| motion certification deadurl   
+| motion language deadurl   
+| motion country deadurl   
+| motion budget deadurl   
+| motion gross deadurl   
+| motion preceded by deadurl   
+| motion followed by deadurl   
+| motion related deadurl   
+| motion notes deadurl   
+| motion website quote   
+| motion webcomic quote   
+| motion webseries quote   
+| motion podcast quote   
+| motion radio quote   
+| motion album quote   
+| motion song quote   
+| motion band quote   
+| motion label quote   
+| motion recorded quote   
+| motion published quote   
+| motion released quote   
+| motion aired quote   
+| motion runtime quote   
+| motion format quote   
+| motion genre quote   
+| motion rating quote   
+| motion certification quote   
+| motion language quote   
+| motion country quote   
+| motion budget quote   
+| motion gross quote   
+| motion preceded by quote   
+| motion followed by quote   
+| motion related quote   
+| motion notes quote   
+}}

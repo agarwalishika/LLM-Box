@@ -1,0 +1,22 @@
+{{Infobox character
+| name   Homer Wells
+| series   The Cider House Rules
+| image   
+| alt   
+| caption   
+| first major   The Cider House Rules (novel)
+| first minor   
+| first issue  
+| first date   1985
+| first   
+| last major   The Cider House Rules (film)
+| last minor   
+| last issue  
+| last date   1999
+| last   
+| creator   John Irving
+| based on   
+| character   
+| author   
+}}
+

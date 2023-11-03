@@ -1,0 +1,40 @@
+{{Infobox character
+| name   Father Dougal McGuire
+| image   
+| caption   
+| series   Father Ted
+| creator   Arthur Mathews and Graham Linehan
+| portrayer   Ardal O'Hanlon
+| first appearance   
+| last appearance   
+| occupation   Roman Catholic curate
+| nationality   Irish
+| residence   Craggy Island
+| religion   Roman Catholic
+| significant other   
+| relatives   
+| friends   Father Ted Crilly
+| enemies   
+| based on   
+| voice   
+| lbl1   
+| data1   
+| lbl2   
+| data2   
+| lbl3   
+| data3   
+| lbl4   
+| data4   
+| lbl5   
+| data5   
+| lbl6   
+| data6   
+| lbl7   
+| data7   
+| lbl8   
+| data8   
+| lbl9   
+| data9   
+| lbl10   
+| data10   
+}}

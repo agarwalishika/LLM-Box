@@ -1,0 +1,25 @@
+{{Infobox flag
+| Name   Flag of Indonesia
+| Image   Flag of Indonesia.svg
+| Image size   250px
+| Alt   The national flag of Indonesia
+| Use   National flag
+| Symbol   
+| Proportion   2:3
+| Adoption   17 August 1945
+| Design   A bicolor flag with two horizontal bands, red (top) and white (bottom)
+| Designer   
+}}
+
+{{Infobox flag
+| Name   Naval Jack of Indonesia
+| Image   Naval Jack of Indonesia.svg
+| Image size   250px
+| Alt   The naval jack of Indonesia
+| Use   Naval jack
+| Symbol   
+| Proportion   
+| Adoption   
+| Design   Nine alternating stripes, consisting of five red and four white stripes
+| Designer   
+}}

@@ -1,0 +1,22 @@
+{{Infobox Doctor Who episode
+| number   14
+| serial name   The Ultimate Foe
+| show   Doctor Who
+| quotes   "The Matrix has been tampered with."
+| type   Serial
+| image   
+| caption   
+| image size   
+| alt   
+| doctor   Sixth
+| doctors   Colin Baker
+| companion   Mel
+| companions   Bonnie Langford
+| cast   
+| doctor   Colin Baker
+| guests   Anthony Ainley, Michael Jayston
+| director   Chris Clough
+| writer   Robert Holmes
+| based on   
+}}
+

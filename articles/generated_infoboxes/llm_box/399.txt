@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Scotland
+| Image   Flag of Scotland.svg
+| Image size   250px
+| Alt   The flag of Scotland, a white saltire defacing a blue field
+| Use   National flag
+| Symbol   Saltire
+| Proportion   3:5
+| Adoption   1542
+| Design   A white saltire defacing a blue field
+| Designer   Unknown
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of the United States
+| Image   Flag of the United States.svg
+| Image size   250px
+| Alt   The national flag of the United States
+| Use   National flag
+| Symbol   
+| Proportion   1:1.9
+| Adoption   June 14, 1777
+| Design   Thirteen horizontal stripes alternating red and white; a blue rectangle in the canton with fifty small, white, five-pointed stars arranged in nine offset horizontal rows
+| Designer   
+}}

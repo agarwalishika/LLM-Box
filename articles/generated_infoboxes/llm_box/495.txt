@@ -1,0 +1,13 @@
+{{Infobox medical intervention
+| name   Hypoglycemia
+| synonyms   Low blood sugar
+| image   
+| caption   
+| specialty   Endocrinology
+| indications   Fall in blood sugar levels below normal
+| complications   Headache, tiredness, clumsiness, trouble talking, confusion, fast heart rate, sweating, shakiness, nervousness, hunger, loss of consciousness, seizures, death
+| medications   Insulin, sulfonylureas, biguanides
+| causes   Medications, severe illness, sepsis, kidney failure, liver disease, hormone deficiency, tumors, inborn errors of metabolism, alcohol
+| treatment   Consuming sugary food or drink, glucagon injection or insufflation, treating underlying problem
+| prevention   Learning signs and symptoms, adjusting or stopping diabetes medications, frequent blood glucose testing, continuous glucose monitors with insulin pumps
+}}

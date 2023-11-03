@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Aruba
+| Image   Flag of Aruba.svg
+| Image size   250px
+| Alt   The national flag of Aruba
+| Use   National flag
+| Symbol   
+| Proportion   2:3
+| Adoption   18 March 1976
+| Design   A rectangular flag featuring four colors: yellow, blue, red, and white. The lower 1 3 of the flag is divided into three horizontal bands of equal width, colored yellow, blue, and yellow respectively. In the canton or upper hoisting plane of the flag, there is a regular four-pointed star. 
+| Designer   Partially designed by vexillologist Whitney Smith
+}}

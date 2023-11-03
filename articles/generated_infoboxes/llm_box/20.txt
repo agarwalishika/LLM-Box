@@ -1,0 +1,22 @@
+{{Infobox character
+| name   Jason
+| series   Greek mythology
+| image   File:Jason and the Golden Fleece.jpg
+| alt   A depiction of Jason holding the Golden Fleece
+| caption   Jason holding the Golden Fleece, as depicted in ancient Greek art
+| first major   Argonautica
+| first minor   
+| first issue   
+| first date   3rd century BCE
+| first   Apollonius of Rhodes
+| last major   Medea
+| last minor   
+| last issue   
+| last date   431 BCE
+| last   Euripides
+| creator   
+| based on   
+| character   
+| author   
+}}
+

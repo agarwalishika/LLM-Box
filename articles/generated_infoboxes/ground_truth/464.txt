@@ -1,0 +1,15 @@
+{{Infobox 
+| Plague   Plague 
+| Yersinia pestis seen at 200  magnification with a fluorescent label.   Yersinia pestis seen at 200  magnification with a fluorescent label. 
+| Specialty   Infectious disease 
+| Symptoms   Fever, weakness,headache 1  
+| Usual onset   1 7 days after exposure 2  
+| Types   Bubonic plague,septicemic plague,pneumonic plague 1  
+| Causes   Yersinia pestis 2  
+| Diagnostic method   Finding the bacterium in a lymph node, blood,sputum 2  
+| Prevention   Plague vaccine 2  
+| Treatment   Antibioticsandsupportive care 2  
+| Medication   Gentamicinand afluoroquinolone 3  
+| Prognosis    10  risk of death (with treatment) 4  
+| Frequency    600 cases a year 2  
+}}

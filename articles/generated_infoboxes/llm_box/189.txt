@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Commonwealth Short Story Prize
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Best piece of unpublished short fiction
+| sponsor   Commonwealth Writers
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

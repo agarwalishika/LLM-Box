@@ -1,0 +1,22 @@
+{{Infobox film
+| name   Godzilla vs. Megalon
+| image   
+| caption   Theatrical release poster
+| director   Jun Fukuda
+| producer   Tomoyuki Tanaka
+| writer   Jun Fukuda, Shinichi Sekizawa
+| starring   Katsuhiko Sasaki, Hiroyuki Kawase, Yutaka Hayashi, Robert Dunham, Shinji Takagi, Hideto Date, Kenpachiro Satsuma, Tsugutoshi Komada
+| music   Riichiro Manabe
+| cinematography   Yuzuru Aizawa
+| editing   Michiko Ikeda
+| studio   Toho
+| distributor   Toho
+| released   March 17, 1973 (Japan)
+| runtime   81 minutes
+| country   Japan
+| language   Japanese
+| budget   
+| gross   
+| preceded by   Godzilla vs. Gigan
+| followed by   Godzilla vs. Mechagodzilla
+}}

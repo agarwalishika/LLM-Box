@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Dyslexia
+| synonyms   Word blindness, learning difficulty (UK)
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology, psychiatry, pediatrics
+| symptoms   Difficulties in spelling, reading, writing, "sounding out" words, pronouncing words, understanding what one reads
+| complications   Higher rates of attention deficit hyperactivity disorder (ADHD), developmental language disorders, difficulties with numbers
+| onset   Usually noticed at school
+| duration   Lifelong
+| types   
+| causes   Interaction of genetic and environmental factors, some cases run in families
+| cause    
+| risks   
+| risk    
+| diagnosis   Series of tests of memory, vision, spelling, and reading skills
+| differential   Reading difficulties caused by hearing or vision problems or by insufficient teaching or opportunity to learn
+| prevention   
+| treatment   Adjusting teaching methods to meet the person's needs
+| management  
+| medication   
+| prognosis   
+| frequency   3 7  of the population affected, up to 20  may have some degree of symptoms
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

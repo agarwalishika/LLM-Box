@@ -1,0 +1,43 @@
+{{Infobox_noble
+| name = Lord Banquo
+| title = Thane of Lochaber
+| image = 
+| caption = 
+| alt = 
+| CoA = 
+| more = 
+| succession = 
+| reign = 
+| reign-type = 
+| predecessor = 
+| successor = 
+| suc-type = 
+| spouse = 
+| spouse-type = 
+| issue-type = 
+| issue = Fleance
+| issue-link = Fleance
+| issue-pipe = 
+| full = 
+| native_name = 
+| styles = 
+| other_titles = 
+| noble = 
+| house-type = 
+| father = 
+| mother = 
+| birth_name = 
+| birth_date = 
+| YYYY = 
+| MM = 
+| DD = 
+| df=y = 
+}}
+
+Lord Banquo was the Thane of Lochaber, a semi-historical character in William Shakespeare's play Macbeth. He was initially an ally of Macbeth and both served as generals in the King's army. Banquo and Macbeth encountered the Three Witches together, who prophesied that Macbeth would become king and that Banquo's descendants would inherit the throne. However, Macbeth, driven by his desire for power, saw Banquo as a threat and had him murdered by three hired assassins. Banquo's son, Fleance, managed to escape. Banquo's ghost later appeared during a feast, causing Macbeth to react with alarm.
+
+Shakespeare drew inspiration for the character of Banquo from Holinshed's Chronicles, a historical account of Britain written by Raphael Holinshed in 1587. In Holinshed's version, Banquo was an accomplice to Macbeth in the murder of the king, rather than a loyal subject seen as an enemy by Macbeth. It is believed that Shakespeare altered this aspect of Banquo's character to please King James, who was believed to be a descendant of the real Banquo. Banquo's role in the play is often interpreted as a contrast to Macbeth, as he resists evil while Macbeth embraces it. However, some critics question Banquo's motives and purity, as he fails to accuse Macbeth of regicide despite having suspicions.
+
+Sources:
+- Shakespeare's Macbeth
+- Holinshed's Chronicles

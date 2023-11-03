@@ -1,0 +1,28 @@
+{{Infobox film
+| name   A Descent into the Maelstr m
+| image   
+| alt   
+| caption   
+| author   Edgar Allan Poe
+| country   United States
+| language   English
+| genre   Short story
+| published   1841
+| media type   Print
+| title orig   
+| illustrator   
+| editor   
+| translator   
+| cover artist   
+| series   
+| release number   
+| subject   Shipwreck, whirlpool
+| set in   Lofoten, Norway
+| publisher   
+| pub date   
+| english pub date   
+| pages   
+| awards   
+| preceded by   
+| followed by   
+}}

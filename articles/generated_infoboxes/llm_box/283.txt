@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Metamorphosis
+| image   
+| caption   First edition cover
+| author   Franz Kafka
+| title orig   Die Verwandlung
+| translator   
+| country   Austria-Hungary
+| language   German
+| series   
+| genre   Absurdist fiction, existentialism
+| published in   Die wei en Bl tter
+| publication type   Journal
+| publisher   Ren  Schickele
+| media type   Print (hardcover)
+| pub date   October 1915
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   70
+| wikisource   
+| native wikisource   
+| orig lang code   de
+}}

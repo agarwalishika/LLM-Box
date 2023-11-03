@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   Animalia
+| image   Animalia cover.jpg
+| image size   200px
+| border   
+| alt   
+| caption   Cover of the 25th anniversary edition
+| author   Graeme Base
+| audio read by   
+| title orig   
+| orig lang code   
+| title working   
+| translator   
+| illustrator   Graeme Base
+| cover artist   
+| country   Australia
+| language   English
+| series   
+| release number   
+| subject   Alphabet book
+| genre   Children's literature
+| set in   
+| publisher   Harry N. Abrams
+| publisher2   Julia MacRae Books
+| pub date   1986
+| english pub date   
+| published   
+| media type   Print (hardcover)
+| pages   
+| awards   Young Australian's Best Book Award (1987), Children's Book Council of Australia Picture Book of the Year: Honour Book (1987)
+| isbn   978-0810918689
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   
+| followed by   
+| native wikisource   
+| wikisource   
+| notes   Over four million copies sold worldwide. Special numbered and signed anniversary edition published in 1996.
+| exclude cover   
+| website   
+}}

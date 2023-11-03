@@ -1,0 +1,44 @@
+{{Infobox civil conflict
+| title   A Vindication of the Rights of Woman
+| subtitle   
+| partof   
+| image   
+| caption   
+| date   1792
+| place   
+| coordinates   
+| causes   Opposition to women's education and denial of their rights
+| goals   Advocacy for women's education and equal rights
+| methods   Written argument and critique
+| status   Completed work, but intended to write a second volume
+| result   Influential work in feminist philosophy
+| side1   Mary Wollstonecraft
+| side2   Opponents of women's rights
+| side3   
+| side4   
+| leadfigures1   Mary Wollstonecraft
+| leadfigures2   
+| leadfigures3   
+| leadfigures4   
+| howmany1   1
+| howmany2   
+| howmany3   
+| howmany4   
+| casualties1   
+| casualties2   
+| casualties3   
+| casualties4   
+| fatalities   
+| injuries   
+| arrests   
+| damage   
+| buildings   
+| detentions   
+| charged   
+| fined   
+| effect   Influenced feminist philosophy and women's rights movements
+| effect label   Impact
+| casualties label   
+| notes   Wollstonecraft died before completing a planned second volume
+| sidebox   
+}}

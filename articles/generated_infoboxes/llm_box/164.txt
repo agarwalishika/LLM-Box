@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Pulitzer Prize
+| subheader   
+| current awards   2023 Pulitzer Prizes
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Achievements in newspaper, magazine, online journalism, literature, and musical composition within the United States
+| sponsor   Columbia University
+| date   Annually
+| YYYY   1917
+| MM   
+| DD   
+}}

@@ -1,0 +1,29 @@
+{{Infobox Doctor Who episode
+| number   143
+| serial name   The Mysterious Planet
+| show   Doctor Who
+| quotes   "The trial of a Time Lord has begun."
+| type   Serial
+| image   File:Mysterious Planet.jpg
+| caption   The Doctor on trial in "The Mysterious Planet"
+| image size   250px
+| alt   The Doctor on trial
+| doctor   Colin Baker (Sixth Doctor)
+| doctors   6th
+| companion   Peri Brown
+| companions   Nicola Bryant
+| cast   
+  Colin Baker as the Doctor
+  Nicola Bryant as Peri Brown
+  Michael Jayston as the Valeyard
+  Tony Selby as Sabalom Glitz
+  Joan Sims as Katryca
+  Tom Chadbon as Merdeen
+  Adam Blackwood as Balazar
+  Gregory de Polnay as Dibber
+  Roger Brierley as Drathro (voice)
+| director   Nicholas Mallett
+| writer   Robert Holmes
+| based on   
+}}
+

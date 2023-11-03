@@ -1,0 +1,37 @@
+{{Infobox medical condition
+| name   Motor neuron diseases
+| synonyms   Motor neurone diseases, MNDs
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Muscle weakness, muscle cramps, spasms, difficulty breathing, difficulty speaking, difficulty swallowing, excessive saliva production
+| complications   Respiratory failure
+| onset   Varies depending on the specific disease
+| duration   Chronic
+| types   Amyotrophic lateral sclerosis (ALS), progressive bulbar palsy (PBP), pseudobulbar palsy, progressive muscular atrophy (PMA), primary lateral sclerosis (PLS), spinal muscular atrophy (SMA), monomelic amyotrophy (MMA), and other rarer variants resembling ALS
+| causes   Mostly unknown, some forms are inherited
+| diagnosis   Clinical evaluation, electromyography, genetic testing, muscle biopsy
+| differential   Other neuromuscular disorders
+| prevention   Not known
+| treatment   Symptomatic care, physical therapy, assistive devices, respiratory support
+| medication   No approved treatments
+| prognosis   Varies depending on the specific disease, some shorten life expectancy
+| frequency   Rare
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

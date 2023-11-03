@@ -1,0 +1,41 @@
+{{Infobox civil conflict
+| title   Qilin
+| image   Qilin.jpg
+| caption   A depiction of a qilin
+| date   Ancient times
+| place   China and other Chinese-influenced cultures
+| causes   Chinese mythology and folklore
+| goals   Symbolic representation of imminent arrival or passing of a sage or illustrious ruler
+| methods   N A
+| status   Legendary creature
+| result   N A
+| side1   N A
+| side2   N A
+| side3   N A
+| side4   N A
+| leadfigures1   N A
+| leadfigures2   N A
+| leadfigures3   N A
+| leadfigures4   N A
+| howmany1   N A
+| howmany2   N A
+| howmany3   N A
+| howmany4   N A
+| casualties1   N A
+| casualties2   N A
+| casualties3   N A
+| casualties4   N A
+| fatalities   N A
+| injuries   N A
+| arrests   N A
+| damage   N A
+| buildings   N A
+| detentions   N A
+| charged   N A
+| fined   N A
+| effect   Symbolic representation of wisdom and good fortune
+| effect label   Effect
+| casualties label   Casualties
+| notes   The qilin is a legendary creature in Chinese mythology associated with the imminent arrival or passing of a sage or illustrious ruler. It is a chimerical creature with hooves and is often depicted as having a single horn. The qilin is part of the lin mythological family and appears in the mythologies of various Chinese-influenced cultures. Its earliest mention is in ancient Chinese poetry, and it became associated with the image of a giraffe during the Ming dynasty. The identification of the qilin with giraffes has had a lasting influence in Korean and Japanese cultures. The qilin is considered a symbol of wisdom and good fortune.
+| sidebox   
+}}

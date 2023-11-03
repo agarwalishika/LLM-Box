@@ -1,0 +1,20 @@
+{{Infobox Doctor Who episode
+| number   122
+| serial name   Terminus
+| show   Doctor Who
+| type   Television
+| image   Terminus.jpg
+| caption   The Doctor and Nyssa on the spaceship
+| image size   250px
+| alt   
+| doctor   Fifth
+| doctors   Peter Davison
+| companion   Nyssa
+| companions   Sarah Sutton
+| cast   
+| guests   Valentine Dyall as the Black Guardian
+| director   Mary Ridge
+| writer   Stephen Gallagher
+| based on   
+}}
+

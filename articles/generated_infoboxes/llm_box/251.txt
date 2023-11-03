@@ -1,0 +1,18 @@
+{{Infobox book
+| name   Animal Farm
+| image   Animal Farm - 1st edition.jpg
+| caption   First edition cover
+| author   George Orwell
+| country   United Kingdom
+| language   English
+| genre   Beast fable, Satirical novella
+| publisher   Secker and Warburg
+| release date   17 August 1945
+| media type   Print (hardcover and paperback)
+| pages   112
+| isbn   978-0-14-103613-7
+| oclc   470015866
+| congress   PR6029.R8 A63 2003
+| preceded by   
+| followed by   
+}}

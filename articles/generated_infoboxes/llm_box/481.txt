@@ -1,0 +1,19 @@
+{{Infobox genetic disorder
+| name   Down syndrome
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Genetic disorder
+| Sub Grouping   Chromosomal disorder
+| Similar entities   
+| Family   
+| Folklore   
+| First Attested   
+| AKA   Trisomy 21, Down's syndrome
+| Country   Worldwide
+| Region   
+| Habitat   Human
+| Details   
+}}
+

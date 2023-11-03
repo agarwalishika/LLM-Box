@@ -1,0 +1,32 @@
+{{Infobox Doctor Who episode
+| number   99
+| serial name   The Pirate Planet
+| show   Doctor Who
+| quotes   "The Captain's insane and the crew are dead!"
+| type   Serial
+| image   Pirate Planet.jpg
+| caption   The Doctor and Romana on the hollow planet Zanak
+| image size   250px
+| alt   The Doctor and Romana on the hollow planet Zanak
+| doctor     Tom Baker  
+| doctors   Fourth Doctor
+| companion     Mary Tamm  
+| companions   Romana
+| cast   
+    Tom Baker   as the   Fourth Doctor  
+    Mary Tamm   as   Romana  
+    Bruce Purchase   as the Captain
+    Vi Delmar   and   Rosalind Lloyd   as Queen Xanxia
+| director     Pennant Roberts  
+| writer     Douglas Adams  
+| based on   
+| producer     Graham Williams  
+| executive producer   
+| composer     Dudley Simpson  
+| production code   5B
+| series   Series 16
+| length   4 episodes, 25 minutes each
+| original airdate   30 September   21 October 1978
+| precedes   "  The Ribos Operation  "
+| follows   "  The Stones of Blood  "
+}}

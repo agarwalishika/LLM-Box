@@ -1,0 +1,26 @@
+{{Infobox film
+| name   Godzilla vs. Mothra
+| image   
+| alt   
+| caption   
+| native name      vs   
+| language   Japanese
+| title   Gojira tai Mosura
+| director   Takao Okawara
+| writer   Kazuki  mori
+| producer   Shogo Tomiyama
+| studio   Toho Studios
+| released   December 12, 1992 (Japan)
+| runtime   
+| country   Japan
+| budget   
+| gross   
+| starring   Tetsuya Bessho, Satomi Kobayashi, Takehiro Murata, Megumi Odaka, Shiori Yonezawa, Makoto Otake, Akiji Kobayashi, Koichi Ueda, Shinya Owada, Keiko Imamura, Sayaka Osawa, Saburo Shinoda, Akira Takarada, Kenpachiro Satsuma
+| music   
+| cinematography   
+| editing   
+| distributor   Toho
+| released   December 12, 1992 (Japan)
+| preceded by   Godzilla vs. King Ghidorah
+| followed by   Godzilla vs. Mechagodzilla II
+}}

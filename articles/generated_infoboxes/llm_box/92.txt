@@ -1,0 +1,35 @@
+{{Infobox pharaoh
+| name   Wonder Woman
+| alt name   Princess Diana of Themyscira
+| image   Wonder Woman 77.jpg
+| image alt   Wonder Woman in her iconic costume
+| caption   Wonder Woman in her iconic costume
+| role   Superheroine
+| reign   1941-present
+| coregency   
+| predecessor   
+| successor   
+| notes   
+| prenomen   
+| prenomen hiero   
+| nomen   
+| nomen hiero   
+| horus   
+| horus prefix   
+| horus hiero   
+| nebty   
+| nebty hiero   
+| golden   
+| golden hiero   
+| spouse   None
+| children   None
+| dynasty   
+| father   Zeus
+| mother   Hippolyta
+| birth date   
+| birth place   Themyscira
+| death date   
+| death place   
+| burial   
+| monuments   
+}}

@@ -1,0 +1,13 @@
+{{Infobox character
+| name   B'Elanna Torres
+| image   
+| caption   Roxann Dawson as B'Elanna Torres
+| species   Half-Human, Half-Klingon
+| birth date   2346
+| birth place   Kessik IV, Federation colony
+| affiliation   Starfleet, Maquis, USS Voyager
+| rank   Lieutenant, junior grade (field commissioned), Chief Engineer
+| spouse   Tom Paris
+| children   Miral Paris
+| portrayer   Roxann Dawson
+}}

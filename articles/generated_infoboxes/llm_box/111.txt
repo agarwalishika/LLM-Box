@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Werewolf
+| image   Werewolf.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of a werewolf
+| Grouping   Mythical creature
+| Sub Grouping   Shapeshifter
+| Similar entities   Skinwalker, Werecat
+| Family   Folklore
+| Folklore   European folklore
+| First Attested   Ancient times
+| AKA   Lycanthrope, Wolfman
+| Country   Various
+| Region   Europe, North America
+| Habitat   Forests, rural areas
+| Details   A human capable of transforming into a wolf or wolf-like creature, typically during a full moon, due to a curse or affliction. Belief in werewolves emerged during the medieval period and spread to the New World with colonialism. Persecution of werewolves was part of the witch-hunt phenomenon, although less common. Accusations of lycanthropy were often mixed with accusations of wolf-riding or wolf-charming. Notable cases include Peter Stumpp in 1589. The belief in werewolves has persisted in folklore and popular culture.
+}}

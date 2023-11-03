@@ -1,0 +1,14 @@
+{{Infobox 
+| First edition cover   First edition cover 
+| Author   Isaac Asimov 
+| Cover artist   Edd Cartier 
+| Country   United States 
+| Language   English 
+| Series   Robotseries 
+| Genre   Science fiction 
+| Publisher   Gnome Press 
+| Publication date   December 2, 1950 
+| Media type   Print (hardback) 
+| Pages   253 
+| Followed by   The Rest of the RobotsThe Complete Robot 
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Union Jack
+| Image   Flag of the United Kingdom.svg
+| Image size   250px
+| Alt   The Union Jack, or Union Flag, is the de facto national flag of the United Kingdom.
+| Use   National flag
+| Symbol   Crosses of St George, St Andrew, and St Patrick
+| Proportion   1:2
+| Adoption   1 January 1801
+| Design   A combination of the red cross of St George, the white saltire of St Andrew, and the red saltire of St Patrick
+| Designer   Not applicable
+}}

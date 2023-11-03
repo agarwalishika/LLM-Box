@@ -1,0 +1,21 @@
+{{Infobox Doctor Who episode
+| number   65
+| serial name   The Three Doctors
+| show   Doctor Who
+| quotes   "A cosmos without the Doctor scarcely bears thinking about."
+| type   Serial
+| image   File:Doctor Who The Three Doctors.jpg
+| caption   The Doctors confront Omega in the antimatter universe.
+| image size   250px
+| alt   The Doctors confront Omega in the antimatter universe.
+| doctor   Third
+| doctors   First, Second, Third
+| companion   Jo Grant
+| companions   
+| cast   
+| doctor   
+| guests   Stephen Thorne as Omega
+| director   Lennie Mayne
+| writer   Bob Baker and Dave Martin
+| based on   
+}}

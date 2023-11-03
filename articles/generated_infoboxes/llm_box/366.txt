@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Liechtenstein
+| Image   Flag of Liechtenstein.svg
+| Image size   250px
+| Alt   The national flag of Liechtenstein
+| Use   National flag
+| Symbol   A gold crown in the canton
+| Proportion   3:5
+| Adoption   24 June 1937
+| Design   A horizontal bicolour of blue and red, with a gold crown in the canton
+| Designer   
+}}

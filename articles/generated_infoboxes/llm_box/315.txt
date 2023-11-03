@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Green Hills of Earth
+| image   
+| caption   
+| author   Robert A. Heinlein
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   Future History
+| genre   Science fiction
+| published in   The Saturday Evening Post
+| publication type   Magazine
+| publisher   
+| media type   Print (Hardcover)
+| pub date   February 8, 1947
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

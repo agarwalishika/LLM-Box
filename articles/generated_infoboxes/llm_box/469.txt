@@ -1,0 +1,59 @@
+{{Infobox drug
+| drug name   Bradycardia
+| type   Medical condition
+| caption   Electrocardiogram showing sinus bradycardia
+| pronounce    br d  k rd   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category   
+| routes of administration   
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   
+| elimination half-life   
+| duration of action   
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   
+| molecular weight   
+}}
+
+Bradycardia (also sinus bradycardia) is a slow resting heart rate, commonly under 60 beats per minute (BPM) as determined by an electrocardiogram. It is considered to be a normal heart rate during sleep, in young and healthy or elderly adults, and in athletes. In some people, bradycardia below 60 BPM may be associated with fatigue, weakness, dizziness, sweating, and fainting. The term "relative bradycardia" is used to refer to a heart rate slower than an individual's typical resting heart rate. Athletes may have athletic heart syndrome, which includes bradycardia as part of the cardiovascular adaptations to training and participation. The word "bradycardia" is from the Greek        bradys "slow", and        kardia "heart".
+
+   Classification   
+
+    Sinus    
+Atrial bradycardias are divided into three types. The first, respiratory sinus arrhythmia, is usually found in young and healthy adults. Heart rate increases during inhalation and decreases during exhalation. This is thought to be caused by changes in the vagal tone during respiration. Sinus bradycardia is a sinus rhythm of less than 60 BPM. It is a common condition found in both healthy individuals and those considered well-conditioned athletes. Studies have found that 50 85  of conditioned athletes have benign sinus bradycardia, as compared to 23  of the general population studied. The heart muscle of athletes has a higher stroke volume, so requires fewer contractions to circulate the same volume of blood. The third, sick sinus syndrome, covers conditions that include severe sinus bradycardia, sinoatrial block, sinus arrest, and bradycardia-tachycardia syndrome (atrial fibrillation, atrial flutter, and paroxysmal supraventricular tachycardia).
+
+    Atrioventricular junction    
+An AV-junctional rhythm, or atrioventricular nodal bradycardia, is usually caused by the absence of the electrical impulse from the sinus node. This usually appears on an electrocardiogram (ECG) with a normal QRS complex accompanied with a slow heart rate.

@@ -1,0 +1,14 @@
+{{Infobox character
+| name   Corinthian
+| series   The Sandman
+| image   Corinthian.jpg
+| caption   The Corinthian as depicted in The Sandman
+| first   The Sandman  10 (October 1989)
+| creator   Neil Gaiman
+| portrayer   Boyd Holbrook
+| species   Nightmare
+| abilities   Excellent eyesight, consumption of eyes for viewing memories and future, embodiment in human beings, skilled hand-to-hand combat, fearlessness, detection of shapeshifters, skilled tracker
+| gender   Male
+| occupation   Nightmare
+| nationality   Dream's realm
+}}

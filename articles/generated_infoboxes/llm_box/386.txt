@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Guernsey
+| Image   Flag of Guernsey.svg
+| Image size   250px
+| Alt   The flag of Guernsey
+| Use   National flag and civil ensign
+| Symbol   Red Saint George's Cross with a gold Norman cross
+| Proportion   3:5
+| Adoption   15 February 1985
+| Design   A red Saint George's Cross with an additional gold Norman cross within it
+| Designer   Guernsey Flag Investigation Committee led by Deputy Bailiff Sir Graham Dorey
+}}

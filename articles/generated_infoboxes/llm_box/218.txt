@@ -1,0 +1,23 @@
+{{Infobox film
+| name   Destry Rides Again
+| image   
+| alt   
+| caption   Theatrical release poster
+| director   George Marshall
+| producer   Joe Pasternak
+| screenplay   Felix Jackson, Gertrude Purcell, Henry Myers
+| based on   "Suggested by Max Brand's novel Destry Rides Again"
+| starring   Marlene Dietrich, James Stewart, Mischa Auer, Charles Winninger, Brian Donlevy, Allen Jenkins, Irene Hervey, Billy Gilbert, Bill Cody Jr., Lillian Yarbo, Una Merkel
+| music   Frank Skinner
+| cinematography   Hal Mohr
+| editing   Milton Carruth
+| studio   Universal Pictures
+| distributor   Universal Pictures
+| released   
+| runtime   94 minutes
+| country   United States
+| language   English
+| budget    1.1 million
+| gross    2.4 million
+| title   Destry Rides Again
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Tuvalu
+| Image   Flag of Tuvalu.svg
+| Image size   250px
+| Alt   The flag of Tuvalu
+| Use   National flag
+| Symbol   
+| Proportion   1:2
+| Adoption   1 October 1978
+| Design   A sky blue field with the Union Flag in the canton and nine yellow stars representing the nine islands of Tuvalu arranged geographically correct, with the east towards the top
+| Designer   
+}}

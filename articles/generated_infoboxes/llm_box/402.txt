@@ -1,0 +1,19 @@
+{{Infobox Doctor Who episode
+| number   105
+| serial name   City of Death
+| show   Doctor Who
+| quotes   "You can't rewrite history! Not one line!"
+| type   Serial
+| image   City of Death.jpg
+| caption   The Doctor and Romana in Paris
+| image size   250px
+| alt   The Doctor and Romana in Paris
+| doctor   Fourth
+| doctors   Tom Baker
+| companion   Romana
+| companions   Lalla Ward
+| cast   Julian Glover, Catherine Schell, Tom Chadbon, David Graham
+| director   Michael Hayes
+| writer   David Agnew (David Fisher, Douglas Adams, Graham Williams)
+| based on   Original storyline by David Fisher
+}}

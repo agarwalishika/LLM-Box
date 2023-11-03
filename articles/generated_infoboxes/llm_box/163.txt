@@ -1,0 +1,13 @@
+{{Infobox book
+| name   Prometheus Award
+| image   
+| caption   
+| author   Libertarian Futurist Society
+| country   United States
+| language   English
+| genre   Science fiction
+| publisher   Libertarian Futurist Society
+| pub date   1979 (Best Novel category), 1983 (Hall of Fame category)
+| awards   Prometheus Award for Best Novel, Prometheus Hall of Fame Award
+| website    http:  www.lfs.org awards.htm www.lfs.org awards.htm 
+}}

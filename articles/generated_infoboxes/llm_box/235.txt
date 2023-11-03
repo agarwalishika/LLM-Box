@@ -1,0 +1,32 @@
+{{Infobox film
+| name   King Kong vs. Godzilla
+| image   
+| alt   
+| caption   Japanese theatrical release poster
+| native name             
+| language   Japanese
+| title   Kingu Kongu tai Gojira
+| director   Ishir  Honda
+| producer   Tomoyuki Tanaka
+| screenplay   Shinichi Sekizawa
+| story   Willis O'Brien
+| starring   Tadao Takashima
+Kenji Sahara
+Y  Fujiki
+Ichir  Arishima
+Mie Hama
+| music   Akira Ifukube
+| cinematography   Hajime Koizumi
+| editing   Reiko Kaneko
+| studio   Toho Co., Ltd
+| distributor   Toho Co., Ltd
+| released   
+  August 11, 1962 (Japan)
+  June 26, 1963 (United States)
+| runtime   97 minutes
+| country   Japan
+| budget   
+| gross    352 million
+| preceded by   King Kong vs. Godzilla (1933)
+| followed by   Mothra vs. Godzilla (1964)
+}}

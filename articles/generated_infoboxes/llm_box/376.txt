@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of San Marino
+| Image   Flag of San Marino.svg
+| Image size   250px
+| Alt   The flag of San Marino
+| Use   National flag and ensign
+| Symbol   Coat of arms of San Marino
+| Proportion   3:4
+| Adoption   
+| Design   Two equal horizontal bands of white and light blue with the national coat of arms superimposed in the center
+| Designer   
+}}

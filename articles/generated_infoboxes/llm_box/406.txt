@@ -1,0 +1,33 @@
+{{Infobox Doctor Who episode
+| number   139
+| serial name   The Mark of The Rani
+| show   Doctor Who
+| type   Serial
+| image   File:Mark of The Rani.jpg
+| caption   The Doctor confronts the Rani and the Master
+| image size   250px
+| alt   The Doctor confronts the Rani and the Master
+| doctor   Colin Baker (Sixth Doctor)
+| companion   Nicola Bryant (Peri Brown)
+| director   Sarah Hellings
+| writer   Pip Baker and Jane Baker
+| producer   John Nathan-Turner
+| executive producer   
+| composer   Jonathan Gibbs
+| production code   6T
+| series   Series 22
+| length   2 episodes, 45 minutes each
+| first aired   2 February 1985
+| last aired   9 February 1985
+| prev   Attack of the Cybermen
+| next   The Two Doctors
+| guests   Kate O'Mara as the Rani
+Anthony Ainley as the Master
+Gawn Grainger as Lord Ravensworth
+Terence Alexander as Dastari
+Gary Cady as Luke Ward
+Peter Childs as Jack Ward
+Geoffrey Hughes as Mr. Griffiths
+Kevin White as Tim Bass
+| based on   
+}}

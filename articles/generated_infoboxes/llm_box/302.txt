@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Leaf by Niggle
+| image   
+| caption   
+| author   J. R. R. Tolkien
+| title orig   
+| translator   
+| country   United Kingdom
+| language   English
+| series   
+| genre   Fantasy, allegory
+| published in   Dublin Review
+| publication type   Short story
+| publisher   
+| media type   Print (hardcover and paperback)
+| pub date   January 1945
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

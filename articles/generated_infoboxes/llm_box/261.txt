@@ -1,0 +1,20 @@
+{{Infobox film
+| name   Blade Runner 3: Replicant Night
+| image   
+| alt   
+| caption   
+| author   K. W. Jeter
+| country   United States
+| language   English
+| series   Blade Runner
+| genre   Science fiction
+| publisher   
+| release date   1996
+| media type   Print (hardcover, paperback)
+| pages   
+| isbn   
+| preceded by   Blade Runner 2: The Edge of Human
+| followed by   Blade Runner 4: Eye and Talon
+| film adaptation   Blade Runner 2049
+| based on   Philip K. Dick's Do Androids Dream of Electric Sheep?
+}}

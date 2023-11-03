@@ -1,0 +1,43 @@
+{{Infobox scientist
+| honorific prefix   
+| name   John von Neumann Theory Prize
+| honorific suffix   
+| native name   
+| native name lang   
+| image   
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| awarded for   Fundamental and sustained contributions to theory in operations research and the management sciences
+| description   Annual award for a body of work in operations research and management sciences
+| presenter   Institute for Operations Research and the Management Sciences (INFORMS)
+| year   1975
+| year2   Present
+| holder   Vijay Vazirani (2022)
+| website   
+}}
+
+The '''John von Neumann Theory Prize''' is an annual award presented by the Institute for Operations Research and the Management Sciences (INFORMS) to an individual or group who has made fundamental and sustained contributions to theory in operations research and the management sciences. The prize is named after mathematician John von Neumann and is awarded for a body of work rather than a single piece. It is intended to reflect contributions that have stood the test of time and the criteria for selection include significance, innovation, depth, and scientific excellence. The prize includes a cash award of  5,000, a medallion, and a citation.
+
+   List of recipients   
+  2022: Vijay Vazirani
+  2021: Alexander Shapiro
+  2020: Adrian Lewis
+  2019: Dimitris Bertsimas and Jong-Shi Pang
+  2018: Dimitri Bertsekas and John Tsitsiklis
+  2017: Donald Goldfarb and Jorge Nocedal
+  2016: Martin I. Reiman and Ruth J. Williams
+  2015: Va ek Chv tal and Jean Bernard Lasserre
+  2014: Nimrod Megiddo
+  2013: Michel Balinski
+  2012: George Nemhauser and Laurence Wolsey
+  2011: G rard Cornu jols
+
+For a complete list of recipients, see  INFORMS website .

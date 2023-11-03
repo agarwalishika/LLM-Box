@@ -1,0 +1,41 @@
+{{Infobox film
+| name   Chariots of Fire
+| image   Chariots of Fire film poster.jpg
+| alt   The film poster featuring two athletes running on a beach
+| caption   Theatrical release poster
+| director   Hugh Hudson
+| producer   David Puttnam
+| writer   Colin Welland
+| based on   
+| starring   Ben Cross
+Ian Charleson
+Nigel Havers
+Ian Holm
+John Gielgud
+Lindsay Anderson
+Cheryl Campbell
+Alice Krige
+Brad Davis
+Dennis Christopher
+| music   Vangelis
+| cinematography   David Watkin
+| editing   Terry Rawlings
+| studio   Enigma Productions
+| distributor   Warner Bros.
+| released   {{Film date|1981|03|30|United Kingdom}}
+| runtime   123 minutes
+| country   United Kingdom
+| language   English
+| budget    5.5 million
+| gross    58.9 million
+| awards   {{Film award list
+| award   Academy Awards
+| year   1982
+| result   
+| award2   British Academy Film Awards
+| year2   1982
+| result2   
+}}
+| website   
+}}
+

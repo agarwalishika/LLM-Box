@@ -1,0 +1,13 @@
+{{Infobox flag
+| Name   Flag of Estonia
+| Image   Flag of Estonia.svg
+| Image size   250px
+| Alt   The flag of Estonia
+| Use   National flag
+| Symbol   
+| Proportion   7:11
+| Adoption   21 November 1918 (re-adopted 7 August 1990)
+| Design   A tricolour featuring three equal horizontal bands of blue (top), black (middle), and white (bottom)
+| Designer   
+}}
+

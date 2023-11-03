@@ -1,0 +1,23 @@
+{{Infobox character
+| name   Endeavour Morse
+| series   Inspector Morse, Endeavour
+| franchise   Colin Dexter novels
+| image   File:John Thaw as Inspector Morse.jpg
+| alt   John Thaw as Inspector Morse
+| caption   John Thaw as Inspector Morse
+| first major   Last Bus to Woodstock
+| first minor   
+| first issue   
+| first date   1975
+| first   
+| last major   The Remorseful Day
+| last minor   
+| last issue   
+| last date   1999
+| last   
+| creator   Colin Dexter
+| based on   
+| character   Detective Chief Inspector
+| author   Colin Dexter
+}}
+

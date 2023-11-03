@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Polyphemus
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Giant
+| Sub Grouping   Cyclops
+| Similar entities   Other Cyclopes
+| Family   Poseidon (father), Thoosa (mother)
+| Folklore   Greek mythology
+| First Attested   Homer's Odyssey
+| AKA   
+| Country   
+| Region   
+| Habitat   Island of the Cyclopes
+| Details   One-eyed giant known for his man-eating tendencies and encounter with Odysseus
+}}

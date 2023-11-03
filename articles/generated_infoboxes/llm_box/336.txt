@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Call of Cthulhu
+| image   
+| caption   
+| author   H. P. Lovecraft
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Horror
+| published in   Weird Tales
+| publication type   Pulp magazine
+| publisher   
+| media type   Print (Magazine)
+| pub date   February 1928
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

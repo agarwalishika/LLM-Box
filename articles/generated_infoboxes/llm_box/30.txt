@@ -1,0 +1,46 @@
+{{Infobox character
+| name   The Doctor
+| image   Robert Picardo.jpg
+| caption   Robert Picardo as The Doctor
+| portrayer   Robert Picardo
+| series   Star Trek: Voyager
+| first   "Caretaker"
+| last   "Endgame"
+| creator   Rick Berman, Michael Piller, Jeri Taylor
+| species   Hologram
+| occupation   Chief Medical Officer (formerly Emergency Medical Hologram)
+| affiliation   USS Voyager
+| significant other   None
+| relatives   None
+| nationality   None (artificial intelligence)
+| lbl1   Designed by
+| data1   Lewis Zimmerman
+| lbl2   Programmed by
+| data2   Lewis Zimmerman
+| lbl3   Voiced by
+| data3   Robert Picardo
+| lbl4   First appearance
+| data4   "Caretaker"
+| lbl5   Last appearance
+| data5   "Endgame"
+| lbl6   Portrayed by
+| data6   Robert Picardo
+| lbl7   Years active
+| data7   1995 2001
+| lbl8   Occupation
+| data8   Chief Medical Officer (formerly Emergency Medical Hologram)
+| lbl9   Affiliation
+| data9   USS Voyager
+| lbl10   Significant other
+| data10   None
+| lbl11   Relatives
+| data11   None
+| lbl12   Nationality
+| data12   None (artificial intelligence)
+| lbl13   Designed by
+| data13   Lewis Zimmerman
+| lbl14   Programmed by
+| data14   Lewis Zimmerman
+| lbl15   Voiced by
+| data15   Robert Picardo
+}}

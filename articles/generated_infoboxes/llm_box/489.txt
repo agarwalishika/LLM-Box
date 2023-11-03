@@ -1,0 +1,19 @@
+{{Infobox medical intervention
+| name   Forgetting
+| synonyms   Disremembering, Memory loss
+| image   
+| caption   
+| specialty   Neurology, Psychology
+| indications   Inability to recall information from memory storage
+| complications   Difficulties in learning and retaining new information
+| benefits   Improved retention with increased rehearsal
+| risks   None
+| duration   Spontaneous or gradual process
+| outcomes   Varies depending on individual and underlying causes
+| related conditions   Age-related memory decline, Dementia
+| frequency   Common in older adults
+| notable cases   
+| inventor   Hermann Ebbinghaus
+| year of invention   1885
+| website   
+}}

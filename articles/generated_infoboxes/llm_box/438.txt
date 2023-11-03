@@ -1,0 +1,28 @@
+{{Infobox Doctor Who episode
+| number   52
+| serial name   Doctor Who and the Silurians
+| show   Doctor Who
+| type   Serial
+| image   Doctor Who and the Silurians.jpg
+| caption   DVD cover art
+| image size   250px
+| alt   DVD cover art for Doctor Who and the Silurians
+| doctor   Third
+| doctors   Jon Pertwee
+| companion   Liz Shaw
+| companions   Caroline John
+| director   Timothy Combe
+| writer   Malcolm Hulke
+| producer   Barry Letts
+| executive producer   None
+| composer   Dudley Simpson
+| production code   BBB
+| series   Season 7
+| length   7 episodes, 25 minutes each
+| date   31 January   14 March 1970
+| precedes   "Spearhead from Space"
+| follows   "The Ambassadors of Death"
+| based on   Original script
+| guest star   
+| episode list   List of Doctor Who episodes (1963 1989)
+}}

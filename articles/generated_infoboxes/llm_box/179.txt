@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best International Feature Film
+| subheader   
+| current awards   93rd Academy Awards
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   The official logo of the Academy Awards
+| awarded for   Excellence in international feature films
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of the Netherlands
+| Image   Flag of the Netherlands.svg
+| Image size   250px
+| Alt   The national flag of the Netherlands
+| Use   National flag
+| Symbol   Transformation from monarchy to republic
+| Proportion   2:3
+| Adoption   19 February 1937
+| Design   A horizontal tricolour of red, white, and blue
+| Designer   
+}}

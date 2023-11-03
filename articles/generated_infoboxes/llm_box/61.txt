@@ -1,0 +1,20 @@
+{{Infobox book
+| name   Obelix
+| image   
+| image size   
+| caption   Obelix, as depicted in the Asterix comic book series
+| author   Ren  Goscinny and Albert Uderzo
+| illustrator   Albert Uderzo
+| country   France
+| language   French
+| series   Asterix
+| publisher   Dargaud
+| pub date   1959 present
+| media type   Comic book
+| pages   Varies
+| isbn   Varies
+| preceded by   
+| followed by   
+| website   
+}}
+

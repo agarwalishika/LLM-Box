@@ -1,0 +1,13 @@
+{{Infobox 
+| "Second Variety"   "Second Variety" 
+| Short story by Philip K. Dick   Short story by Philip K. Dick 
+| Country   United States 
+| Language   English 
+| Genre(s)   Science fiction 
+| Publication   Publication 
+| Published in   Space Science Fiction 
+| Publication type   Periodical 
+| Publisher   Space Publications 
+| Media type   Print (Magazine) 
+| Publication date   May 1953 
+}}

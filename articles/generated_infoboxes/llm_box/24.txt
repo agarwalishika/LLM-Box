@@ -1,0 +1,21 @@
+{{Infobox character
+| name   Merlin
+| series   Arthurian legend
+| image   File:Merlin by Louis Rhead.jpg
+| alt   Illustration of Merlin
+| caption   Illustration of Merlin by Louis Rhead
+| first major   Historia Regum Britanniae
+| first minor   
+| first issue   
+| first date   1136
+| first   Geoffrey of Monmouth
+| last major   Le Morte d'Arthur
+| last minor   
+| last issue   
+| last date   1485
+| last   Thomas Malory
+| creator   Geoffrey of Monmouth
+| based on   Myrddin and Ambrosius
+| character   Magician, prophet, advisor
+| author   Various medieval authors
+}}

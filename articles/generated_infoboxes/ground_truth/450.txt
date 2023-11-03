@@ -1,0 +1,5 @@
+{{Infobox 
+| Motor neuron disease   Motor neuron disease 
+| spinal diagram   spinal diagram 
+| Specialty   Neurology 
+}}

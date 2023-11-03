@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Philip K. Dick Award
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Best original paperback published each year in the US
+| sponsor   Philadelphia Science Fiction Society and Philip K. Dick Trust
+| date   Annually at Norwescon
+| YYYY   
+| MM   
+| DD   
+}}

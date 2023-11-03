@@ -1,0 +1,19 @@
+{{Infobox medical intervention
+| name   Bipolar I disorder
+| synonyms   Type one bipolar disorder, manic-depressive illness
+| image   
+| caption   
+| alt   
+| specialty   Psychiatry
+| symptoms   At least one manic episode, with or without mixed or psychotic features; one or more depressive episodes
+| complications   Psychosis during mood episodes; coexistence with other disorders including PTSD, substance use disorders, and mood disorders
+| onset   Usually late adolescence or early adulthood
+| duration   Lifelong
+| causes   Genetic and environmental factors
+| diagnosis   Clinical course characterized by one or more manic episodes or mixed episodes; exclusion of substance-induced mood disorder, mood disorder due to a general medical condition, or other somatic treatments for depression
+| differential diagnosis   Bipolar II disorder, major depressive disorder, substance use disorder, PTSD, other mood disorders
+| treatment   Medications (mood stabilizers, antipsychotics, antidepressants); psychotherapy; lifestyle changes
+| prognosis   Chronic condition with recurring episodes; proper management can help control symptoms and improve quality of life
+| frequency   Approximately 1  of the population
+| deaths   Increased risk of suicide
+}}

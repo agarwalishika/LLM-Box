@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Flash Gordon
+| image   
+| imagesize   
+| alt   
+| caption   
+| publisher   King Features Syndicate
+| debut   January 7, 1934
+| creators   Alex Raymond
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   
+| alter   
+| alter ego   
+| full name   Flash Gordon
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   
+| powers   Athleticism, intelligence, bravery
+| partners   Dale Arden, Dr. Hans Zarkov
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

@@ -1,0 +1,28 @@
+{{Infobox amputation
+| name   Amputation
+| image   
+| image alt   
+| caption   
+| specialty   Surgery
+| indication   Control of pain or disease process in affected limb
+| other indications   Preventive surgery, congenital disorder, punishment, war injury, ritual accomplishment
+| amputator   
+| oldest evidence   Skeleton found in Liang Tebo cave, East Kalimantan, Indonesian Borneo dating back to at least 31,000 years ago
+| types   
+  Minor amputations (digits)
+  Major amputations (below-knee or above-knee)
+  Partial foot amputations (Chopart, Lisfranc, ray)
+  Ankle disarticulations (Pyrogoff, Boyd, Syme)
+  Van Nes rotation (rotationplasty)
+  Trans-tibial amputations (below-knee)
+  Knee disarticulations
+| complications   
+| recovery time   
+| related procedures   
+| frequency   
+| mortality rate   
+| success rate   
+| notable cases   
+| notable patients   
+| references   
+}}

@@ -1,0 +1,48 @@
+{{Infobox comics character
+| character name   Charles Marlow
+| image   
+| imagesize   
+| image size   
+| alt   
+| caption   
+| publisher   
+| debut   Heart of Darkness (1899)
+| creators   Joseph Conrad
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   Charles Marlow
+| alter   
+| alter ego   
+| full name   Charles Marlow
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   
+| powers   
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

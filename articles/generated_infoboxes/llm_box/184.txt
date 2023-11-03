@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Live Action Short Film
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Excellence in live action short films
+| sponsor   Academy of Motion Picture Arts and Sciences
+| date   Annual
+| YYYY   
+| MM   
+| DD   
+}}

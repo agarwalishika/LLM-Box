@@ -1,0 +1,18 @@
+{{Infobox short story
+| name   The Black Pits of Luna
+| image   
+| alt   
+| caption   
+| author   Robert A. Heinlein
+| country   United States
+| language   English
+| series   Future History
+| genre   Science fiction
+| published in   The Saturday Evening Post
+| publication type   Magazine
+| publisher   Curtis Publishing Company
+| media type   Print (Magazine)
+| pub date   January 10, 1948
+| preceded by   
+| followed by   
+}}

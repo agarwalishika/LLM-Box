@@ -1,0 +1,25 @@
+{{Infobox film
+| name   Evil Dead II
+| image   Evil Dead II poster.jpg
+| alt   The poster features a close-up of Bruce Campbell's face, with blood splattered on his face and a horrified expression.
+| caption   Theatrical release poster
+| native name   
+| director   Sam Raimi
+| producer   Robert Tapert
+| writer   Sam Raimi
+| screenplay   Scott Spiegel
+| based on   Characters by Sam Raimi
+| starring   Bruce Campbell
+| music   Joseph LoDuca
+| cinematography   Peter Deming
+| editing   Kaye Davis
+| studio   Renaissance Pictures
+| distributor   Rosebud Releasing Corporation
+| released   March 13, 1987
+| runtime   84 minutes
+| country   United States
+| language   English
+| budget    3.5 million
+| gross    5.9 million
+| title   Evil Dead 2: Dead by Dawn
+}}

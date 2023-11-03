@@ -1,0 +1,23 @@
+{{Infobox film
+| name   Total Recall
+| image   Total Recall (1990 film) poster.jpg
+| alt   
+| caption   Theatrical release poster
+| director   Paul Verhoeven
+| producer   Buzz Feitshans
+| screenplay   Ronald Shusett
+| based on   "We Can Remember It for You Wholesale" by Philip K. Dick
+| starring   Arnold Schwarzenegger
+| music   Jerry Goldsmith
+| cinematography   Jost Vacano
+| editing   Carlos Puente
+| studio   Carolco Pictures
+| distributor   TriStar Pictures
+| released   
+| runtime   113 minutes
+| country   United States
+| language   English
+| budget    65 75 million
+| gross    261.3 million
+| title   Total Recall
+}}

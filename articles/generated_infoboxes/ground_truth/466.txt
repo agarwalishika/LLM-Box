@@ -1,0 +1,11 @@
+{{Infobox 
+| Catatonia   Catatonia 
+| Other names   Catatonic syndrome 
+| A patient in catatonic stupor   A patient in catatonic stupor 
+| Specialty   Psychiatry,neurology 
+| Symptoms   Immobility, mutism, staring, posturing, rigidity, low consciousness, etc. 
+| Complications   Physical trauma, malignant catatonia (autonomic instability, life-threatening), dehydration, pneumonia, pressure ulcers due to immobility, muscle contractions,deep vein thrombosis(DVT) 1 andpulmonary embolism(PE) 1  
+| Causes   Underlying illness (psychiatric, neurologic, or medical), brain injury damage, certain drugs medications 
+| Diagnostic method   Clinical, Lorazepam challenge 
+| Treatment   Benzodiazepines (lorazepam challenge),electroconvulsive therapy(ECT) 1  
+}}

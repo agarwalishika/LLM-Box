@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Snow Queen
+| image   
+| caption   Illustration from the first edition of "The Snow Queen"
+| author   Hans Christian Andersen
+| title orig   Snedronningen
+| translator   
+| country   Denmark
+| language   Danish
+| series   
+| genre   Fairy tale
+| published in   New Fairy Tales. First Volume. Second Collection (Nye Eventyr. F rste Bind. Anden Samling)
+| publication type   Book
+| publisher   C.A. Reitzel
+| media type   Print
+| pub date   21 December 1844
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   da
+}}

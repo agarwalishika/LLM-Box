@@ -1,0 +1,31 @@
+{{Infobox character
+| name   Deanna Troi
+| image   File:Marina Sirtis as Deanna Troi.jpg
+| alt   A headshot of Marina Sirtis as Deanna Troi
+| caption   Marina Sirtis as Deanna Troi
+| series   Star Trek: The Next Generation
+| first   "Encounter at Farpoint"
+| last   "All Good Things..."
+| creator   Gene Roddenberry
+| portrayer   Marina Sirtis
+| species   Half-Human, Half-Betazoid
+| gender   Female
+| occupation   Ship's counselor
+| rank   Lieutenant Commander (seasons 1-6)
+| rank1   Commander (season 7)
+| spouse   William Riker
+| children   Ian Andrew Troi (son)
+| relatives   Lwaxana Troi (mother)
+| relatives1   Kestra Troi (sister, deceased)
+| nationality   Betazoid
+| birth date   March 29, 2336
+| birth place   Near Lake El-Nar, Betazed
+| education   Starfleet Academy
+| alma mater   University of Betazed
+| degree   Advanced degree in psychology
+| affiliations   Starfleet
+| ship   USS Enterprise-D
+| ship1   USS Enterprise-E
+| significant other   William Riker
+| appearances   Star Trek: The Next Generation, Star Trek: Voyager, Star Trek: Enterprise, Star Trek: Picard, Star Trek: Lower Decks
+}}

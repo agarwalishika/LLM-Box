@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Tony Award
+| subheader   Antoinette Perry Award for Excellence in Broadway Theatre
+| current awards   
+| image   Tony Award logo.png
+| image size   200px
+| image upright   
+| alt   
+| caption   The Tony Award logo
+| awarded for   Excellence in live Broadway theatre
+| sponsor   American Theatre Wing and The Broadway League
+| date   Second Sunday of June
+| YYYY   
+| MM   
+| DD   
+}}

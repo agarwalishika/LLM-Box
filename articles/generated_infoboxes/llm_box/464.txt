@@ -1,0 +1,515 @@
+{{Infobox disease
+| name   Plague
+| image   
+| alt   
+| caption   
+| field   Infectious disease
+| symptoms   Fever, weakness, headache
+| complications   Pneumonia, septicemia, organ failure
+| onset   1-7 days after exposure
+| duration   
+| causes   ''Yersinia pestis'' bacterium
+| diagnosis   Finding the bacterium in fluid from a lymph node, blood or sputum
+| prevention   Vaccination for high-risk individuals
+| treatment   Antibiotics (gentamicin and fluoroquinolone), supportive care
+| prognosis   Risk of death with treatment: 10 , without treatment: 70 
+| frequency   About 600 cases reported globally per year
+| deaths   
+| outbreak   Black Death (14th century)
+| regions   Democratic Republic of the Congo, Madagascar, Peru, occasional infections in rural areas of the United States
+| related   
+| medicinenet   
+| medlineplus   
+| eMedicine   
+| meshID   D010932
+| altname   
+| altname ref   
+| altname2   
+| altname2 ref   
+| altname3   
+| altname3 ref   
+| altname4   
+| altname4 ref   
+| altname5   
+| altname5 ref   
+| altname6   
+| altname6 ref   
+| altname7   
+| altname7 ref   
+| altname8   
+| altname8 ref   
+| altname9   
+| altname9 ref   
+| altname10   
+| altname10 ref   
+| altname11   
+| altname11 ref   
+| altname12   
+| altname12 ref   
+| altname13   
+| altname13 ref   
+| altname14   
+| altname14 ref   
+| altname15   
+| altname15 ref   
+| altname16   
+| altname16 ref   
+| altname17   
+| altname17 ref   
+| altname18   
+| altname18 ref   
+| altname19   
+| altname19 ref   
+| altname20   
+| altname20 ref   
+| altname21   
+| altname21 ref   
+| altname22   
+| altname22 ref   
+| altname23   
+| altname23 ref   
+| altname24   
+| altname24 ref   
+| altname25   
+| altname25 ref   
+| altname26   
+| altname26 ref   
+| altname27   
+| altname27 ref   
+| altname28   
+| altname28 ref   
+| altname29   
+| altname29 ref   
+| altname30   
+| altname30 ref   
+| altname31   
+| altname31 ref   
+| altname32   
+| altname32 ref   
+| altname33   
+| altname33 ref   
+| altname34   
+| altname34 ref   
+| altname35   
+| altname35 ref   
+| altname36   
+| altname36 ref   
+| altname37   
+| altname37 ref   
+| altname38   
+| altname38 ref   
+| altname39   
+| altname39 ref   
+| altname40   
+| altname40 ref   
+| altname41   
+| altname41 ref   
+| altname42   
+| altname42 ref   
+| altname43   
+| altname43 ref   
+| altname44   
+| altname44 ref   
+| altname45   
+| altname45 ref   
+| altname46   
+| altname46 ref   
+| altname47   
+| altname47 ref   
+| altname48   
+| altname48 ref   
+| altname49   
+| altname49 ref   
+| altname50   
+| altname50 ref   
+| altname51   
+| altname51 ref   
+| altname52   
+| altname52 ref   
+| altname53   
+| altname53 ref   
+| altname54   
+| altname54 ref   
+| altname55   
+| altname55 ref   
+| altname56   
+| altname56 ref   
+| altname57   
+| altname57 ref   
+| altname58   
+| altname58 ref   
+| altname59   
+| altname59 ref   
+| altname60   
+| altname60 ref   
+| altname61   
+| altname61 ref   
+| altname62   
+| altname62 ref   
+| altname63   
+| altname63 ref   
+| altname64   
+| altname64 ref   
+| altname65   
+| altname65 ref   
+| altname66   
+| altname66 ref   
+| altname67   
+| altname67 ref   
+| altname68   
+| altname68 ref   
+| altname69   
+| altname69 ref   
+| altname70   
+| altname70 ref   
+| altname71   
+| altname71 ref   
+| altname72   
+| altname72 ref   
+| altname73   
+| altname73 ref   
+| altname74   
+| altname74 ref   
+| altname75   
+| altname75 ref   
+| altname76   
+| altname76 ref   
+| altname77   
+| altname77 ref   
+| altname78   
+| altname78 ref   
+| altname79   
+| altname79 ref   
+| altname80   
+| altname80 ref   
+| altname81   
+| altname81 ref   
+| altname82   
+| altname82 ref   
+| altname83   
+| altname83 ref   
+| altname84   
+| altname84 ref   
+| altname85   
+| altname85 ref   
+| altname86   
+| altname86 ref   
+| altname87   
+| altname87 ref   
+| altname88   
+| altname88 ref   
+| altname89   
+| altname89 ref   
+| altname90   
+| altname90 ref   
+| altname91   
+| altname91 ref   
+| altname92   
+| altname92 ref   
+| altname93   
+| altname93 ref   
+| altname94   
+| altname94 ref   
+| altname95   
+| altname95 ref   
+| altname96   
+| altname96 ref   
+| altname97   
+| altname97 ref   
+| altname98   
+| altname98 ref   
+| altname99   
+| altname99 ref   
+| altname100   
+| altname100 ref   
+| altname101   
+| altname101 ref   
+| altname102   
+| altname102 ref   
+| altname103   
+| altname103 ref   
+| altname104   
+| altname104 ref   
+| altname105   
+| altname105 ref   
+| altname106   
+| altname106 ref   
+| altname107   
+| altname107 ref   
+| altname108   
+| altname108 ref   
+| altname109   
+| altname109 ref   
+| altname110   
+| altname110 ref   
+| altname111   
+| altname111 ref   
+| altname112   
+| altname112 ref   
+| altname113   
+| altname113 ref   
+| altname114   
+| altname114 ref   
+| altname115   
+| altname115 ref   
+| altname116   
+| altname116 ref   
+| altname117   
+| altname117 ref   
+| altname118   
+| altname118 ref   
+| altname119   
+| altname119 ref   
+| altname120   
+| altname120 ref   
+| altname121   
+| altname121 ref   
+| altname122   
+| altname122 ref   
+| altname123   
+| altname123 ref   
+| altname124   
+| altname124 ref   
+| altname125   
+| altname125 ref   
+| altname126   
+| altname126 ref   
+| altname127   
+| altname127 ref   
+| altname128   
+| altname128 ref   
+| altname129   
+| altname129 ref   
+| altname130   
+| altname130 ref   
+| altname131   
+| altname131 ref   
+| altname132   
+| altname132 ref   
+| altname133   
+| altname133 ref   
+| altname134   
+| altname134 ref   
+| altname135   
+| altname135 ref   
+| altname136   
+| altname136 ref   
+| altname137   
+| altname137 ref   
+| altname138   
+| altname138 ref   
+| altname139   
+| altname139 ref   
+| altname140   
+| altname140 ref   
+| altname141   
+| altname141 ref   
+| altname142   
+| altname142 ref   
+| altname143   
+| altname143 ref   
+| altname144   
+| altname144 ref   
+| altname145   
+| altname145 ref   
+| altname146   
+| altname146 ref   
+| altname147   
+| altname147 ref   
+| altname148   
+| altname148 ref   
+| altname149   
+| altname149 ref   
+| altname150   
+| altname150 ref   
+| altname151   
+| altname151 ref   
+| altname152   
+| altname152 ref   
+| altname153   
+| altname153 ref   
+| altname154   
+| altname154 ref   
+| altname155   
+| altname155 ref   
+| altname156   
+| altname156 ref   
+| altname157   
+| altname157 ref   
+| altname158   
+| altname158 ref   
+| altname159   
+| altname159 ref   
+| altname160   
+| altname160 ref   
+| altname161   
+| altname161 ref   
+| altname162   
+| altname162 ref   
+| altname163   
+| altname163 ref   
+| altname164   
+| altname164 ref   
+| altname165   
+| altname165 ref   
+| altname166   
+| altname166 ref   
+| altname167   
+| altname167 ref   
+| altname168   
+| altname168 ref   
+| altname169   
+| altname169 ref   
+| altname170   
+| altname170 ref   
+| altname171   
+| altname171 ref   
+| altname172   
+| altname172 ref   
+| altname173   
+| altname173 ref   
+| altname174   
+| altname174 ref   
+| altname175   
+| altname175 ref   
+| altname176   
+| altname176 ref   
+| altname177   
+| altname177 ref   
+| altname178   
+| altname178 ref   
+| altname179   
+| altname179 ref   
+| altname180   
+| altname180 ref   
+| altname181   
+| altname181 ref   
+| altname182   
+| altname182 ref   
+| altname183   
+| altname183 ref   
+| altname184   
+| altname184 ref   
+| altname185   
+| altname185 ref   
+| altname186   
+| altname186 ref   
+| altname187   
+| altname187 ref   
+| altname188   
+| altname188 ref   
+| altname189   
+| altname189 ref   
+| altname190   
+| altname190 ref   
+| altname191   
+| altname191 ref   
+| altname192   
+| altname192 ref   
+| altname193   
+| altname193 ref   
+| altname194   
+| altname194 ref   
+| altname195   
+| altname195 ref   
+| altname196   
+| altname196 ref   
+| altname197   
+| altname197 ref   
+| altname198   
+| altname198 ref   
+| altname199   
+| altname199 ref   
+| altname200   
+| altname200 ref   
+| altname201   
+| altname201 ref   
+| altname202   
+| altname202 ref   
+| altname203   
+| altname203 ref   
+| altname204   
+| altname204 ref   
+| altname205   
+| altname205 ref   
+| altname206   
+| altname206 ref   
+| altname207   
+| altname207 ref   
+| altname208   
+| altname208 ref   
+| altname209   
+| altname209 ref   
+| altname210   
+| altname210 ref   
+| altname211   
+| altname211 ref   
+| altname212   
+| altname212 ref   
+| altname213   
+| altname213 ref   
+| altname214   
+| altname214 ref   
+| altname215   
+| altname215 ref   
+| altname216   
+| altname216 ref   
+| altname217   
+| altname217 ref   
+| altname218   
+| altname218 ref   
+| altname219   
+| altname219 ref   
+| altname220   
+| altname220 ref   
+| altname221   
+| altname221 ref   
+| altname222   
+| altname222 ref   
+| altname223   
+| altname223 ref   
+| altname224   
+| altname224 ref   
+| altname225   
+| altname225 ref   
+| altname226   
+| altname226 ref   
+| altname227   
+| altname227 ref   
+| altname228   
+| altname228 ref   
+| altname229   
+| altname229 ref   
+| altname230   
+| altname230 ref   
+| altname231   
+| altname231 ref   
+| altname232   
+| altname232 ref   
+| altname233   
+| altname233 ref   
+| altname234   
+| altname234 ref   
+| altname235   
+| altname235 ref   
+| altname236   
+| altname236 ref   
+| altname237   
+| altname237 ref   
+| altname238   
+| altname238 ref   
+| altname239   
+| altname239 ref   
+| altname240   
+| altname240 ref   
+| altname241   
+| altname241 ref   
+| altname242   
+| altname242 ref   
+| altname243   
+| altname243 ref   
+| altname244   
+| altname244 ref   
+| altname245   
+| altname245 ref   
+| altname

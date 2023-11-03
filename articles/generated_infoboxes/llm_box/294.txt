@@ -1,0 +1,19 @@
+{{Infobox book
+| name   Heretics of Dune
+| image   
+| alt   
+| caption   
+| author   Frank Herbert
+| cover artist   
+| country   United States
+| language   English
+| series   Dune
+| genre   Science fiction
+| publisher   G.P. Putnam's Sons
+| release date   1984
+| media type   Print (hardcover and paperback)
+| pages   
+| isbn   
+| preceded by   God Emperor of Dune
+| followed by   Chapterhouse: Dune
+}}

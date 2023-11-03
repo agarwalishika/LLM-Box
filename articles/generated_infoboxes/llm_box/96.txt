@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Maybelle "May" Parker-Jameson
+| image   
+| imagesize   
+| alt   
+| caption   
+| publisher   Marvel Comics
+| debut   Amazing Fantasy  15 (August 1962)
+| creators   Stan Lee, Steve Ditko
+| voiced by   Lily Tomlin
+| first series   
+| first episode   
+| first comic   
+| real name   May Reilly Parker-Jameson
+| alter   
+| alter ego   
+| full name   Maybelle Parker-Jameson
+| full   
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   Spider-Man
+| aliases   Aunt May
+| powers   None
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Parker-Jameson, Maybelle
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

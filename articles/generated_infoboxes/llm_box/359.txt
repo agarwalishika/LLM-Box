@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Germany
+| Image   Flag of Germany.svg
+| Image size   250px
+| Alt   The national flag of Germany
+| Use   National flag
+| Symbol   
+| Proportion   3:5
+| Adoption   23 May 1949 (reintroduced)
+| Design   A tricolour consisting of three equal horizontal bands displaying the national colours of Germany: black, red, and gold
+| Designer   
+}}

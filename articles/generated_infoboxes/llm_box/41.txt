@@ -1,0 +1,22 @@
+{{Infobox character
+| name   Leonard H. McCoy
+| image   DeForest Kelley as Leonard McCoy.jpg
+| caption   DeForest Kelley as Leonard McCoy
+| franchise   Star Trek
+| portrayer   DeForest Kelley (1966 1991)
+| Karl Urban (2009 present)
+| first appearance   "The Man Trap" (1966)
+| last appearance   Star Trek Beyond (2016)
+| species   Human
+| gender   Male
+| occupation   Chief Medical Officer
+| birth date   2227
+| birth place   Atlanta, Georgia, United States
+| spouse   Natira (m. unknown)
+| children   None
+| nickname   Bones
+| nationality   American
+| affiliation   Starfleet
+| rank   Commander
+| years active   2266 2371
+}}

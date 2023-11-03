@@ -1,0 +1,10 @@
+{{Infobox 
+| "Requiem"   "Requiem" 
+| Short story by Robert A. Heinlein   Short story by Robert A. Heinlein 
+| Country   USA 
+| Language   English 
+| Genre(s)   science fiction 
+| Publication   Publication 
+| Published in   Astounding 
+| Publication date   January 1940 
+}}

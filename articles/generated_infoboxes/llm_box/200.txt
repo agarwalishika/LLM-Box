@@ -1,0 +1,27 @@
+{{Infobox film
+| name   Actresses
+| image   
+| alt   
+| caption   
+| native name   Actrius
+| language   Catalan
+| title   Actrius
+| director   Ventura Pons
+| producer   Ventura Pons
+| screenplay   Josep Maria Benet i Jornet
+| based on   E.R. by Josep Maria Benet i Jornet
+| starring   N ria Espert, Rosa Maria Sard , Anna Lizaran, Merc  Pons
+| music   Carles Cases
+| cinematography   Tom s Pladevall
+| editing   Pere Abadal
+| studio   Els Films de la Rambla S.A.
+| distributor   Els Films de la Rambla S.A.
+| released   1997
+| runtime   90 minutes
+| country   Spain
+| language   Catalan
+| budget   
+| gross   
+| screenplay   Josep Maria Benet i Jornet
+| based on   E.R. by Josep Maria Benet i Jornet
+}}

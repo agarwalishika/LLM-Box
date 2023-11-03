@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Squonk
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Cryptid
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   American folklore
+| First Attested   1910
+| AKA   
+| Country   United States
+| Region   Northern Pennsylvania
+| Habitat   Hemlock forests
+| Details   The squonk is a mythical creature reputed to live in the hemlock forests of northern Pennsylvania. It was first mentioned in the 1910 book "Fearsome Creatures of the Lumberwoods" and later in the 1939 book "Fearsome Critters." The squonk is described as having a misfitting skin covered with warts and moles, making it constantly unhappy. It is known to weep constantly, leaving a tear-stained trail that skilled hunters can track. When cornered or frightened, the squonk may dissolve itself in tears. According to folklore, squonks are slowest on moonlit nights as they avoid seeing their own ugly appearance in illuminated bodies of water. The creature's scientific name, Lacrimacorpus dissolvens, refers to its supposed ability to dissolve when captured.
+}}

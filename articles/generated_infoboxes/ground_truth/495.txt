@@ -1,0 +1,13 @@
+{{Infobox 
+| Hypoglycemia   Hypoglycemia 
+| Other names   Hypoglycaemia, hypoglyc mia, low blood glucose, low blood sugar 
+| Glucose meter   Glucose meter 
+| Specialty   Endocrinology 
+| Symptoms   Headache, blurred vision, shakiness, dizziness, weakness, tiredness, sweating, clamminess, fast heart rate, pounding heartbeat, nervousness or anxiety, hunger, nausea, pins and needles sensation, difficulty talking, confusion,loss of consciousness, unusual behavior, lightheadedness, pale skin color,seizures, death 1  2  3  4  5  
+| Usual onset   Rapid 1  
+| Causes   Medications(insulin,glinidesandsulfonylureas),sepsis,kidney failure, certaintumors,liver disease 1  6  
+| Diagnostic method   Whipple's triad: Symptoms of hypoglycemia, serum blood glucose level  70 mg dL (3.9 mmol L), and resolution of symptoms when blood glucose returns to normal 2  
+| Treatment   Eating foods high in simple sugars,dextrose,glucagon 1  
+| Frequency   In type 1 diabetics, mild hypoglycemia occurs twice per week on average, and severe hypoglycemia occurs once per year. 3  
+| Deaths   In type 1 diabetics, 6 10  will die of hypoglycemia. 3  
+}}

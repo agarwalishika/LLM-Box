@@ -1,0 +1,31 @@
+{{Infobox film
+| name   Final Fantasy: The Spirits Within
+| image   Final Fantasy The Spirits Within.jpg
+| caption   Theatrical release poster
+| director   Hironobu Sakaguchi
+| producer   Jun Aida
+| writer   Hironobu Sakaguchi
+| screenplay   Al Reinert
+| based on   ''Final Fantasy'' by Hironobu Sakaguchi
+| starring   Ming-Na Wen
+Alec Baldwin
+Donald Sutherland
+James Woods
+Ving Rhames
+Peri Gilpin
+Steve Buscemi
+| music   Elliot Goldenthal
+| cinematography   Motonori Sakakibara
+| editing   Christopher S. Capp
+| studio   Square Pictures
+| distributor   Columbia Pictures
+| released   {{Film date|2001|07|02|Los Angeles premiere|2001|07|11|United States}}
+| runtime   106 minutes
+| country   United States
+| language   English
+| budget    137 million
+| gross    85.1 million
+| preceded by   
+| followed by   
+}}
+

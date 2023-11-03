@@ -1,0 +1,16 @@
+{{Infobox Le Mans driver
+| name   Coupe d'Aviation Maritime Jacques Schneider
+| image   
+| caption   The Schneider Trophy
+| nationality   International
+| birth name   
+| birth date   1912
+| birth place   
+| death date   
+| death place   
+| Years   1913 1931
+| Teams   
+| Best   British (permanent winner from 1931)
+| Class   Seaplanes and flying boats
+| updated   
+}}

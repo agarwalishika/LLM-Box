@@ -1,0 +1,22 @@
+{{Infobox comics character
+| character name   Cyclops
+| image   Cyclops (Marvel Comics character).jpg
+| imagesize   250px
+| caption   Cyclops, as depicted in Marvel Comics
+| publisher   Marvel Comics
+| debut   The X-Men  1 (September 1963)
+| creators   Stan Lee, Jack Kirby
+| real name   Scott Summers
+| species   Mutant
+| alliances   X-Men
+| affiliations   Xavier Institute, Summers family
+| powers   Emitting powerful beams of energy from his eyes, expert tactician and leader
+| partners   Jean Grey (Phoenix), Wolverine, Storm, Beast, Iceman
+| sortkey   Cyclops
+| subcat   Marvel Comics superheroes
+| cat   Superheroes
+| hero   yes
+| villain   no
+}}
+
+Note: The infobox has been filled out based on the given context text. Additional fields such as homeworld, aliases, and full name have been left blank as they were not mentioned in the context.

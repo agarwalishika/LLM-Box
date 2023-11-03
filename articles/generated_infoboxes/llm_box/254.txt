@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   The Plague
+| image   
+| image size   
+| border   
+| alt   
+| caption   
+| author   Albert Camus
+| audio read by   
+| title orig   La Peste
+| orig lang code   French
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   France
+| language   French
+| series   
+| release number   
+| subject   Absurdism, Existentialism
+| genre   Absurdist novel
+| set in   Oran, French Algeria
+| publisher   Gallimard
+| publisher2   
+| pub date   1947
+| english pub date   
+| published   
+| media type   Print (hardcover and paperback)
+| pages   278
+| awards   
+| isbn   978-2-07-022569-5
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   
+| followed by   
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

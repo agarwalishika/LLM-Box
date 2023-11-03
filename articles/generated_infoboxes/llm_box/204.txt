@@ -1,0 +1,26 @@
+{{Infobox film
+| name   Blazing Saddles
+| image   Blazing Saddles poster.jpg
+| caption   Theatrical release poster
+| director   Mel Brooks
+| producer   Michael Hertzberg
+| writer   Mel Brooks
+| screenplay   Mel Brooks, Andrew Bergman, Richard Pryor, Norman Steinberg, Alan Uger
+| story   Andrew Bergman
+| starring   Cleavon Little, Gene Wilder
+| music   John Morris
+| cinematography   Joseph F. Biroc
+| editing   Danford B. Greene
+| studio   Crossbow Productions
+| distributor   Warner Bros.
+| released   {{Film date|1974|02|07}}
+| runtime   93 minutes
+| country   United States
+| language   English
+| budget    2.6 million
+| gross    119.5 million
+| rating   R
+| awards   Nominated for 3 Academy Awards
+| website   
+}}
+

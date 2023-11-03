@@ -1,0 +1,8 @@
+{{Infobox 
+| Coma   Coma 
+| Image of a comatose man unresponsive to stimuli   Image of a comatose man unresponsive to stimuli 
+| Specialty   Neurology,psychiatry 
+| Symptoms   Unconsciousness 
+| Complications   Persistent vegetative state,death 
+| Duration   Can vary from a few days to several years (longest recorded is 42 years) 
+}}

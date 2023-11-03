@@ -1,0 +1,13 @@
+{{Infobox 
+| Sherlock Holmes   Sherlock Holmes 
+| Sherlock Holmes character   Sherlock Holmes character 
+| Sherlock Holmes in a 1904 illustration by Sidney Paget   Sherlock Holmes in a 1904 illustration by Sidney Paget 
+| First appearance   A Study in Scarlet(1887) 
+| Last appearance   "The Adventure of Shoscombe Old Place" (1927,canon) 
+| Created by   Sir Arthur Conan Doyle 
+| In-universe information   In-universe information 
+| Occupation   Consultingprivate detective 
+| Family   Mycroft Holmes(brother) 
+| Nationality   British 
+| Born   1854 
+}}

@@ -1,0 +1,17 @@
+{{Infobox mythical creature
+| name   Roc
+| image   
+| image size   
+| image upright   
+| caption   An illustration of a roc from Arabian fairy tales
+| Grouping   Legendary creature
+| Sub Grouping   Bird of prey
+| Similar entities   Garuda, Griffin
+| Family   
+| Folklore   Middle Eastern mythology
+| First Attested   Ancient Middle Eastern texts
+| AKA   Rukh, Rokh
+| Country   
+| Region   Middle East
+| Habitat   Mountains, deserts
+| Details   The roc is an enormous legendary bird of prey in the popular mythology of the Middle East. It is often depicted as a giant eagle-like creature with immense strength and the ability to carry off large animals, including elephants. The roc is featured in various Arabian fairy tales and sailors' folklore, including the tales "Abd al-Rahman the Maghribi's Story of the Rukh" and "Sinbad the Sailor" from One Thousand and One Nights. The concept of the roc is believed to have originated from the Indian solar bird Garuda and the chthonic serpent N ga. The roc is known for its association with great size and power, and its ability to fly vast distances.}}

@@ -1,0 +1,46 @@
+{{Infobox comics character
+| character name   Iceman
+| image   Iceman Marvel Comics.jpg
+| imagesize   250px
+| caption   Iceman, as depicted in Marvel Comics
+| publisher   Marvel Comics
+| debut   The X-Men  1 (Sept. 1963)
+| creators   Stan Lee, Jack Kirby
+| voiced by   Shawn Ashmore
+| first series   X-Men: The Animated Series
+| first episode   "Night of the Sentinels: Part 1"
+| first comic   The X-Men  1 (Sept. 1963)
+| real name   Robert Louis "Bobby" Drake
+| alter   
+| alter ego   
+| full name   Robert Louis Drake
+| full   Robert Louis "Bobby" Drake
+| species   Mutant
+| homeworld   Earth
+| alliances   X-Men
+| affiliations   
+| supports   
+| aliases   
+| powers   Manipulation of ice and cold, freezing objects, covering body with ice
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   yes
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

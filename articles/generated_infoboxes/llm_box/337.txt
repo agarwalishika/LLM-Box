@@ -1,0 +1,35 @@
+{{Infobox pharaoh
+| name   Harrison Bergeron
+| alt name   
+| image   
+| image alt   
+| caption   
+| role   Protagonist
+| reign   N A
+| coregency   N A
+| predecessor   N A
+| successor   N A
+| notes   Fictional character
+| prenomen   
+| prenomen hiero   
+| nomen   
+| nomen hiero   
+| horus   
+| horus prefix   
+| horus hiero   
+| nebty   
+| nebty hiero   
+| golden   
+| golden hiero   
+| spouse   N A
+| children   N A
+| dynasty   N A
+| father   George Bergeron
+| mother   Hazel Bergeron
+| birth date   N A
+| birth place   N A
+| death date   N A
+| death place   N A
+| burial   N A
+| monuments   N A
+}}

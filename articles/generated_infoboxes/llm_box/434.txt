@@ -1,0 +1,29 @@
+{{Infobox Doctor Who episode
+| number   122
+| serial name   Mawdryn Undead
+| show   Doctor Who
+| quotes   "You're a Time Lord, aren't you? You have two hearts. You must be the Doctor."
+| type   Television
+| image   Mawdryn Undead.jpg
+| caption   The Doctor (Peter Davison) and Turlough (Mark Strickson) in "Mawdryn Undead"
+| image size   250px
+| alt   The Doctor and Turlough standing in front of a spaceship
+| doctor   Fifth
+| doctors   Peter Davison
+| companion   Tegan Jovanka, Nyssa
+| companions   Janet Fielding, Sarah Sutton
+| cast   David Collings, Valentine Dyall, Nicholas Courtney
+| guests   Mark Strickson
+| director   Peter Moffatt
+| writer   Peter Grimwade
+| producer   John Nathan-Turner
+| executive producer   Barry Letts
+| composer   Peter Howell
+| production code   6F
+| series   Series 20
+| length   4 episodes, 25 minutes each
+| original airdate   1-9 February 1983
+| precedes   "Arc of Infinity"
+| follows   "Terminus"
+| based on   Original script
+}}

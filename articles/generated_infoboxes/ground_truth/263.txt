@@ -1,0 +1,10 @@
+{{Infobox 
+| Emblem of The World Factbook   Emblem of The World Factbook 
+| Country   United States 
+| Language   American English 
+| Subject   General 
+| Genre   Almanacabout the countries of the world 
+| Publisher   Central Intelligence Agency 
+| Publication date   Seefrequency of updates and availability, no longer published in paper book form by the CIA 
+| Website   www.cia.gov the-world-factbook  
+}}

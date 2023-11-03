@@ -1,0 +1,23 @@
+{{Infobox character
+| name   Jean Grey
+| image   
+| caption   
+| publisher   Marvel Comics
+| debut   The X-Men  1 (September 1963)
+| creators   Stan Lee, Jack Kirby
+| alter ego   Marvel Girl, Phoenix, Dark Phoenix
+| species   Mutant
+| abilities   Psionic powers, Omega-level mutant, cosmic Phoenix Force manifestation
+| significant other   Cyclops (husband), Wolverine (love interest), Storm (best friend), Charles Xavier (mentor)
+| children   Rachel Summers, Cable, Stryfe, X-Man
+| portrayed   Famke Janssen (adult), Sophie Turner (teenager young adult)
+| first appearance   The X-Men  1 (September 1963)
+| aliases   Marvel Girl, Phoenix, Dark Phoenix
+| alliances   X-Men
+| partners   Cyclops, Wolverine, Storm, Charles Xavier
+| notable works   The Dark Phoenix Saga
+| powers   Telepathy, telekinesis, energy manipulation, flight
+| relatives   
+| occupation   Superhero
+| nationality   American
+}}

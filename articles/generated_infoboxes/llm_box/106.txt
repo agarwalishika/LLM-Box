@@ -1,0 +1,17 @@
+{{Infobox knot
+| name   Nymph
+| names   Nymphe, Nymfi
+| image   
+| caption   A depiction of a nymph in ancient Greek art
+| type   Nature deity
+| type2   
+| strength   Immortal (except for Hamadryads)
+| origin   Ancient Greek folklore
+| related   Greek mythology, Nature spirits
+| releasing   
+| uses   Personification of nature, associated with specific places or landforms
+| caveat   Often confused with fairies
+| abok number   
+| conway notation   
+| ab notation   
+}}

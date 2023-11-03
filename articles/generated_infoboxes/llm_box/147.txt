@@ -1,0 +1,19 @@
+{{Infobox mythical creature
+| Name   Pixie
+| Image   Pixie.jpg
+| Image size   250px
+| Alt   A depiction of a pixie with pointed ears, wearing a green outfit and pointed hat
+| Grouping   Mythical creature
+| Sub grouping   
+| Country   United Kingdom
+| Region   Devon and Cornwall
+| Habitat   High moorland areas, ancient underground sites
+| First reported   
+| Last reported   
+| Mythology   British folklore
+| Similar creatures   Aos S , Mooinjer veggey, Tylwyth Teg
+| Etymology   Uncertain, possibly derived from Swedish dialectal pyske or Celtic origin
+| Characteristics   Benign, mischievous, short stature, childlike, fond of dancing and wrestling
+| Appearance   Pointed ears, often wearing a green outfit and pointed hat
+| Other   Traditional stories describe them as wearing dirty, ragged bundles of rags, which they discard for gifts containing new clothes. Victorian era conventions depict their eyes as pointed upwards at the outer end.
+}}

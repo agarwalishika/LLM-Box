@@ -1,0 +1,20 @@
+{{Infobox Doctor Who episode
+| number   1
+| serial name   Scream of the Shalka
+| show   Doctor Who
+| quotes   "I'm the Doctor, whether you like it or not."
+| type   Flash-animated series
+| image   Scream of the Shalka.jpg
+| caption   Promotional poster for Scream of the Shalka
+| image size   250px
+| alt   A promotional poster featuring the Doctor and Alison Cheney
+| doctor   Ninth Doctor
+| doctors   Richard E. Grant
+| companion   Alison Cheney
+| companions   Sophie Okonedo
+| cast   
+| guests   Derek Jacobi, David Tennant
+| director   Wilson Milam
+| writer   Paul Cornell
+| based on   Doctor Who
+}}

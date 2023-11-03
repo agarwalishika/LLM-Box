@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Chlamydia infection
+| synonyms   Chlamydia, Chlamydia trachomatis infection
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Infectious disease
+| symptoms   Often asymptomatic; vaginal discharge, burning with urination (in women); discharge from the penis, burning with urination, pain and swelling of testicles (in men)
+| complications   Pelvic inflammatory disease, infertility, ectopic pregnancy, trachoma
+| onset   2-6 weeks after infection
+| duration   
+| types   
+| causes   Bacterium ''Chlamydia trachomatis''
+| cause    
+| risks   Unprotected sexual activity, multiple sexual partners, young age, history of sexually transmitted infections
+| risk    
+| diagnosis   Screening tests (urine or swab of cervix, vagina, or urethra), rectal or mouth swabs for infections in those areas
+| differential   
+| prevention   Abstinence, condom use, monogamy, regular screening, safe sexual practices
+| treatment   Antibiotics (azithromycin, doxycycline); erythromycin or azithromycin for babies and during pregnancy
+| management    
+| medication   
+| prognosis   Curable with treatment; complications can lead to long-term consequences
+| frequency   Common
+| incidence    
+| prevalence    
+| deaths   
+| named   
+| eponym    
+}}

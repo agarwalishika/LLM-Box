@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Albinism
+| synonyms   Hypopigmentation
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Medical genetics, Dermatology, Ophthalmology
+| symptoms   Photophobia, Nystagmus, Amblyopia, Skin sensitivity, Increased susceptibility to sunburn and skin cancers
+| complications   Vision defects, Increased susceptibility to infection
+| onset   Congenital
+| duration   Lifelong
+| types   Oculocutaneous albinism, Ocular albinism
+| causes   Genetic mutation affecting the production of melanin
+| cause    Recessive gene alleles, Defect or absence of tyrosinase enzyme
+| risks   
+| risk    
+| diagnosis   Clinical examination, Genetic testing
+| differential   
+| prevention   Sun protection, Regular skin checks
+| treatment   No cure, Management of symptoms, Visual aids, Sun protection, Surgical interventions
+| management    
+| medication   
+| prognosis   Lifelong condition, Normal life expectancy
+| frequency   Rare
+| incidence    
+| prevalence    
+| deaths   
+| named   
+| eponym    
+}}

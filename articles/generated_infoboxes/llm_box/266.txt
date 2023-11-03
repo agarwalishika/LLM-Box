@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   Children of Dune
+| image   Children of Dune.jpg
+| image size   200px
+| border   
+| alt   
+| caption   First edition cover
+| author   Frank Herbert
+| audio read by   
+| title orig   
+| orig lang code   
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   United States
+| language   English
+| series   Dune
+| release number   3
+| subject   Science fiction
+| genre   
+| set in   
+| publisher   G.P. Putnam's Sons
+| publisher2   
+| pub date   April 1976
+| english pub date   
+| published   
+| media type   Print (hardcover and paperback)
+| pages   444
+| awards   Nominated for the Hugo Award for Best Novel (1977)
+| isbn   0-399-11689-4
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   Dune Messiah
+| followed by   God Emperor of Dune
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

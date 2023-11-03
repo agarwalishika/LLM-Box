@@ -1,0 +1,10 @@
+{{Infobox 
+| Nobel Prize   Nobel Prize 
+| Awarded for   Contributions that have conferred the greatest benefit to humankind in the areas ofPhysics,Chemistry,Physiology or Medicine,Literature,EconomicsandPeace. 
+| Country   Sweden(all prizes except the Peace Prize)Norway(Peace Prize only) 
+| Presented by   Royal Swedish Academy of Sciences(Physics,  Chemistry and Economic Sciences 1 )Nobel Assembly at the Karolinska Institute(Physiology or Medicine)Swedish Academy(Literature)Norwegian Nobel Committee(Peace) 
+| Reward(s)   A gold-platedgreen goldmedal, a diploma, and amonetary awardof 11 millionSEK 2  3  
+| First awarded   10 December 1901; 121 years ago(1901-12-10) 
+| Number of laureates   609 prizes to 975 laureates (as of 2021 update ) 2  
+| Website   nobelprize.org 
+}}

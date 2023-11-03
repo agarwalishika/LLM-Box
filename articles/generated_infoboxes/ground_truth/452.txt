@@ -1,0 +1,5 @@
+{{Infobox 
+| Ataxia   Ataxia 
+| Specialty   Neurology,Psychiatry 
+| Symptoms   Lack of coordinationSlurred speechTrouble eating and swallowingDeterioration of fine motor skillsDifficulty walkingGait abnormalitiesEye movement abnormalitiesTremorsHeart problems 
+}}

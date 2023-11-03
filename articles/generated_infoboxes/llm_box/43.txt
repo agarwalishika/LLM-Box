@@ -1,0 +1,31 @@
+{{Infobox character
+| name   Geordi La Forge
+| image   File:Geordi La Forge.jpg
+| alt   A headshot of Geordi La Forge
+| caption   LeVar Burton as Geordi La Forge
+| series   Star Trek: The Next Generation
+| first   "Encounter at Farpoint" (1987)
+| last   Star Trek: Picard (2020)
+| creator   Gene Roddenberry
+| portrayer   LeVar Burton
+| occupation   Chief Engineer
+| rank   Commodore
+| species   Human
+| gender   Male
+| birth date   
+| birth place   
+| death date   
+| death place   
+| nationality   
+| significant other   
+| children   
+| relatives   
+| residence   USS Enterprise-D
+| affiliations   Starfleet
+| years active   2364 2370 (USS Enterprise-D)
+| seasons   7 (Star Trek: The Next Generation)
+| films   4 (Star Trek: Generations, Star Trek: First Contact, Star Trek: Insurrection, Star Trek: Nemesis)
+| other appearances   Star Trek: Picard (2020)
+| awards   
+| website   
+}}

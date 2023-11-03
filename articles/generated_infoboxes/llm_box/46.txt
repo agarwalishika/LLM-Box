@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Slartibartfast
+| subheader   Character in The Hitchhiker's Guide to the Galaxy
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Designing planets, particularly coastlines
+| sponsor   
+| date   
+| YYYY   
+| MM   
+| DD   
+}}

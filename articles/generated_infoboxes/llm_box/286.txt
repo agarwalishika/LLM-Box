@@ -1,0 +1,22 @@
+{{Infobox character
+| name   Christina Parsons
+| series   Flambards
+| franchise   Flambards trilogy
+| image   
+| alt   
+| caption   
+| first major   Flambards
+| first minor   
+| first issue   
+| first date   1967
+| first   
+| last major   Flambards Divided
+| last minor   
+| last issue   
+| last date   1981
+| last   
+| creator   K. M. Peyton
+| based on   
+| character   
+| author   K. M. Peyton
+}}

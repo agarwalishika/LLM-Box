@@ -1,0 +1,14 @@
+{{Infobox 
+| Authors   Milton FriedmanRose Friedman 
+| Country   United States 
+| Language   English 
+| Genre   Nonfiction 
+| Publisher   Harcourt 
+| Publication date   1980 
+| Media type   hardback 
+| Pages   xii, 338 
+| ISBN   0-15-133481-1 
+| OCLC   797729203 
+| Dewey Decimal   330.12 2 
+| LC Class   HB501 .F72 
+}}

@@ -1,0 +1,34 @@
+{{Infobox pharaoh
+| name   State of Decay
+| image   
+| image alt   
+| caption   
+| role   Serial
+| reign   22 November 1980   13 December 1980
+| coregency   
+| predecessor   Full Circle
+| successor   
+| notes   Fourth serial of the 18th season of ''Doctor Who''
+| prenomen   
+| prenomen hiero   
+| nomen   
+| nomen hiero   
+| horus   
+| horus prefix   
+| horus hiero   
+| nebty   
+| nebty hiero   
+| golden   
+| golden hiero   
+| spouse   
+| children   
+| dynasty   
+| father   
+| mother   
+| birth date   
+| birth place   
+| death date   
+| death place   
+| burial   
+| monuments   
+}}

@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Huey, Dewey, and Louie
+| image   
+| imagesize   
+| alt   
+| caption   
+| publisher   The Walt Disney Company
+| debut   Donald's Nephews (1938)
+| creators   Carl Barks
+| voiced by   
+| first series   DuckTales
+| first episode   "The Treasure of the Golden Suns" (1987)
+| first comic   
+| real name   
+| alter   
+| alter ego   
+| full name   
+| full   
+| species   Ducks
+| homeworld   
+| alliances   
+| affiliations   Junior Woodchucks
+| supports   Donald Duck, Scrooge McDuck
+| aliases   
+| powers   
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

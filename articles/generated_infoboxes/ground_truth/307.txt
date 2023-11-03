@@ -1,0 +1,12 @@
+{{Infobox 
+| "The Sentinel"   "The Sentinel" 
+| Short story by Arthur C. Clarke   Short story by Arthur C. Clarke 
+| First appearance, in 10 Story Fantasy   First appearance, in 10 Story Fantasy 
+| Country   United Kingdom 
+| Language   English 
+| Genre(s)   Science fiction 
+| Publication   Publication 
+| Published in   10 Story Fantasy 
+| Publisher   Avon Periodicals 
+| Publication date   Spring 1951 
+}}

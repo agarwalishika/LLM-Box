@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Romania
+| Image   Flag of Romania.svg
+| Image size   250px
+| Alt   The national flag of Romania
+| Use   National flag
+| Symbol   
+| Proportion   2:3
+| Adoption   
+| Design   A vertical tricolour of cobalt blue, chrome yellow, and vermilion red
+| Designer   
+}}

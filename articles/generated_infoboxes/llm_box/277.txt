@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Danse Macabre
+| image   
+| caption   
+| author   
+| title orig   
+| translator   
+| country   France
+| language   French
+| series   
+| genre   Allegory
+| published in   
+| publication type   Artistic genre
+| publisher   
+| media type   Mural, illustration
+| pub date   1424-1425
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

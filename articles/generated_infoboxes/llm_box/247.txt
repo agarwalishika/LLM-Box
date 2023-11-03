@@ -1,0 +1,34 @@
+{{Infobox film
+| name   Glen or Glenda
+| image   
+| alt   
+| caption   Film poster
+| director   Ed Wood
+| producer   George Weiss
+| writer   Ed Wood
+| starring   Ed Wood, Dolores Fuller, Bela Lugosi
+| music   William Lava
+| cinematography   William C. Thompson
+| editing   Edward D. Wood Jr.
+| studio   Screen Classics
+| distributor   Screen Classics
+| released   October 1953
+| runtime   65 minutes
+| country   United States
+| language   English
+| budget    20,000
+| gross   
+| title   Glen or Glenda
+| native name   
+| screenplay   
+| based on   
+| cinematography   
+| production company   
+| distributor   
+| released   
+| runtime   
+| country   
+| language   
+| budget   
+| gross   
+}}

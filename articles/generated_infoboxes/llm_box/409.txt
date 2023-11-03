@@ -1,0 +1,21 @@
+{{Infobox Doctor Who episode
+| number   Special
+| serial name   Doctor Who: The Curse of Fatal Death
+| show   Doctor Who
+| quotes   "I'm the Doctor. I'm a Time Lord. I'm from the planet Gallifrey in the constellation of Kasterborous. I'm 903 years old, and I'm the man who's going to save your lives and all six billion people on the planet below. You got a problem with that?"
+| type   Charity special
+| image   Doctor Who The Curse of Fatal Death.jpg
+| caption   DVD cover
+| image size   250px
+| alt   DVD cover of Doctor Who: The Curse of Fatal Death
+| doctor   Rowan Atkinson (The Doctor)
+| doctors   9th Doctor (Richard E. Grant)
+| companion   Julia Sawalha (Emma)
+| companions   
+| cast   
+| doctor   Rowan Atkinson
+| guests   Jonathan Pryce, Julia Sawalha, Jim Broadbent, Hugh Grant, Joanna Lumley
+| director   John Henderson
+| writer   Steven Moffat
+| based on   Doctor Who by Sydney Newman, C. E. Webber, Donald Wilson
+}}

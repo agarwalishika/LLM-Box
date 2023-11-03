@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Green Arrow
+| image   Green Arrow.png
+| imagesize   250px
+| alt   A comic book illustration of Green Arrow
+| caption   Green Arrow, as depicted in the comics
+| publisher   DC Comics
+| debut   More Fun Comics  73 (November 1941)
+| creators   Mort Weisinger, George Papp
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   Oliver Jonas Queen
+| alter   
+| alter ego   
+| full name   Oliver Jonas Queen
+| full   Oliver Jonas Queen
+| species   Human
+| homeworld   Earth
+| alliances   Justice League
+| affiliations   Queen Industries
+| supports   
+| aliases   The Emerald Archer, The Hood, The Arrow
+| powers   Exceptional archery skills, skilled swordsman and martial artist, trick arrows with various special functions
+| partners   Black Canary, Speedy, Arsenal
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   yes
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

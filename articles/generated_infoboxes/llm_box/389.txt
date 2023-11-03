@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Alabama
+| Image   Flag of Alabama.svg
+| Image size   250px
+| Alt   The flag of Alabama
+| Use   110000
+| Symbol   
+| Proportion   3:5
+| Adoption   February 16, 1895
+| Design   A crimson cross of St. Andrew on a field of white
+| Designer   
+}}

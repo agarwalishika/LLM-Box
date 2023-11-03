@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Cerebral arteriovenous malformation
+| synonyms   Cerebral AVM, CAVM, cAVM, brain AVM, BAVM
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Headaches, seizures, cranial nerve afflictions, backaches, neckaches, nausea, pulsing noise in the head, progressive weakness, numbness, vision changes, excruciating pain, loss of consciousness, sudden and severe headache, vomiting, incontinence, blurred vision, seizure, hemiparesis, aphasia, stiff neck
+| complications   Intracranial hemorrhage, impairments caused by brain-tissue damage, hydrocephalus
+| onset   Prenatal
+| duration   
+| types   
+| causes   Prenatal origin
+| cause    
+| risks   
+| risk    
+| diagnosis   
+| differential   
+| prevention   
+| treatment   
+| management  
+| medication   
+| prognosis   
+| frequency   
+| incidence  
+| prevalence  
+| deaths   
+| named   
+| eponym  
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Greenland
+| Image   Flag of Greenland.svg
+| Image size   250px
+| Alt   The flag of Greenland
+| Use   National flag
+| Symbol   
+| Proportion   18:12
+| Adoption   21 June 1985
+| Design   Two horizontal bands of white and red with a red-and-white disk slightly to the hoist side of centre
+| Designer   Thue Christiansen
+}}

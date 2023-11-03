@@ -1,0 +1,24 @@
+{{Infobox character
+| name   Sherlock Holmes
+| series   Sherlock Holmes
+| franchise   Arthur Conan Doyle
+| image   Sherlock Holmes - Sidney Paget.jpg
+| alt   A black and white illustration of Sherlock Holmes wearing a deerstalker hat and holding a magnifying glass
+| caption   Illustration of Sherlock Holmes by Sidney Paget
+| first major   A Study in Scarlet
+| first minor   
+| first issue   
+| first date   1887
+| first   
+| last major   The Case-Book of Sherlock Holmes
+| last minor   
+| last issue   
+| last date   1927
+| last   
+| creator   Arthur Conan Doyle
+| based on   
+| character   Fictional detective
+| author   Arthur Conan Doyle
+}}
+
+Note: The infobox has been filled out based on the given context text. However, some fields may be left blank or not applicable as per the information provided.

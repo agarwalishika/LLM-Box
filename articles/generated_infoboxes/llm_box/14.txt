@@ -1,0 +1,26 @@
+{{Infobox film
+| name   Godzilla
+| image   Godzilla 1954 poster.jpg
+| alt   Japanese poster for the 1954 film Godzilla
+| caption   Japanese poster for the 1954 film Godzilla
+| native name      
+| language   Japanese
+| title   Gojira
+| director   Ishir  Honda
+| producer   Tomoyuki Tanaka
+| writer   Ishir  Honda
+| based on   
+| starring   Akira Takarada
+| music   Akira Ifukube
+| cinematography   Masao Tamai
+| editing   Kazuji Taira
+| studio   Toho Co., Ltd.
+| distributor   Toho Co., Ltd.
+| released   November 3, 1954
+| runtime   96 minutes
+| country   Japan
+| budget   
+| gross   
+| preceded by   
+| followed by   
+}}

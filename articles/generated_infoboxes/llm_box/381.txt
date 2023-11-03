@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of the Estonian Soviet Socialist Republic
+| Image   Flag of the Estonian SSR.svg
+| Image size   250px
+| Alt   Flag of the Estonian SSR
+| Use   110000
+| Symbol   Hammer and sickle, star, water waves
+| Proportion   1:2
+| Adoption   1940 (original design), 1953 (revised design)
+| Design   A red field with a yellow hammer and sickle in the upper hoist-side corner, an outlined yellow star above the hammer and sickle (from 1953), and a band of blue and white wavy stripes near the bottom (from 1953)
+| Designer   Unknown
+}}

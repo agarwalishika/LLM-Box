@@ -1,0 +1,18 @@
+{{Infobox film
+| name   Blade Runner 2: The Edge of Human
+| image   
+| alt   
+| caption   
+| author   K. W. Jeter
+| country   United States
+| language   English
+| series   Blade Runner
+| genre   Science fiction
+| publisher   Bantam Spectra
+| release date   1995
+| media type   Print (hardcover and paperback)
+| pages   384
+| isbn   978-0553576182
+| preceded by   Blade Runner
+| followed by   Blade Runner 3: Replicant Night
+}}

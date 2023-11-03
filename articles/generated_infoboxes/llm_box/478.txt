@@ -1,0 +1,41 @@
+{{Infobox medical condition
+| name   Charcot Marie Tooth disease
+| synonyms   CMT, hereditary motor and sensory neuropathy
+| image   
+| image size   
+| alt   
+| image thumbtime   
+| caption   
+| width   
+| image2   
+| image size2   
+| alt2   
+| image thumbtime2   
+| caption2   
+| width2   
+| pronounce   
+| pronounce   
+| specialty   Neurology
+| symptoms   Progressive loss of muscle tissue and touch sensation, foot drop, high arches, hammertoe, weakness in hands and forearms, loss of touch sensation in feet and hands, painful spasmodic muscular contractions, high-arched or flat-arched feet, numbness, spasm, painful cramping, involuntary grinding of teeth, squinting, breathing difficulties
+| complications   
+| onset   Early childhood or early adulthood
+| duration   Lifelong
+| types   Various types exist
+| causes   Genetic mutations affecting peripheral nerves
+| cause    
+| risks   Family history of CMT
+| risk    
+| diagnosis   Clinical evaluation, nerve conduction studies, genetic testing
+| differential   Other causes of peripheral neuropathy
+| prevention   Not known
+| treatment   Supportive care, physical therapy, orthopedic devices, pain management
+| management    
+| medication   No known cure, medications for pain management
+| prognosis   Variable, depends on the type and severity of the disease
+| frequency   Approximately 1 in 2,500 people
+| incidence    
+| prevalence    
+| deaths   
+| named   Jean-Martin Charcot, Pierre Marie, Howard Henry Tooth
+| eponym    
+}}

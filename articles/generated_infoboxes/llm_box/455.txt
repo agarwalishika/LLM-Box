@@ -1,0 +1,27 @@
+{{Infobox medical intervention
+| name   Arthritis
+| synonyms   Joint inflammation
+| image   
+| caption   
+| field   Rheumatology
+| symptoms   Joint pain, stiffness, redness, warmth, swelling, decreased range of motion
+| complications   Organ involvement (in some types)
+| types   Over 100 types, including osteoarthritis, rheumatoid arthritis, gout, lupus, fibromyalgia, septic arthritis
+| onset   Gradual or sudden
+| prevalence   Osteoarthritis:  3.8  of people
+Rheumatoid arthritis:  0.24  of people
+Gout: 1 2  of Western population
+Australia:  15  affected
+United States:  20  affected
+| causes   Various factors, including age, autoimmune disorders, genetics, infections
+| diagnosis   Medical history, physical examination, imaging tests, blood tests
+| treatment   Resting the joint, applying ice and heat, weight loss, exercise, pain medications (e.g., ibuprofen, acetaminophen), joint replacement (in some cases)
+| prognosis   Varies depending on the type and severity of arthritis
+| frequency   Common
+| deaths   
+| alt names   
+| medicinenet   
+| meshid   D001168
+}}
+
+Please note that the image and caption fields are left blank as they require specific images related to arthritis.

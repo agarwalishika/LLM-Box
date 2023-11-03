@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Unicorn
+| image   Unicorn.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of a unicorn
+| Grouping   Legendary creature
+| Sub Grouping   
+| Similar entities   
+| Family   Equidae
+| Folklore   European
+| First Attested   Antiquity
+| AKA   Monocerus, Monoceros
+| Country   
+| Region   Europe
+| Habitat   Woodlands
+| Details   The unicorn is a legendary creature described as a beast with a single large, pointed, spiraling horn projecting from its forehead. It is commonly depicted as a white horse-like or goat-like animal with a long straight horn with spiralling grooves, cloven hooves, and sometimes a goat's beard. In European literature and art, the unicorn has been a symbol of purity and grace. It was believed that only a virgin could capture a unicorn. The horn of the unicorn was believed to have the power to render poisoned water potable and to heal sickness. The narwhal tusk was sometimes sold as a unicorn horn in medieval and Renaissance times. The unicorn continues to hold a place in popular culture as a symbol of fantasy or rarity.
+}}

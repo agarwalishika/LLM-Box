@@ -1,0 +1,16 @@
+{{Infobox medical intervention
+| name   Dissociative Fugue
+| synonyms   Fugue state, Psychogenic fugue
+| image   
+| caption   
+| specialty   Psychiatry
+| symptoms   Reversible amnesia for one's identity, unplanned travel or wandering, establishment of a new identity, inability to recall personal information prior to symptoms
+| complications   Depression, grief, shame, discomfort, post-fugue anger, loss of identity
+| causes   Long-term traumatic episodes, childhood sexual abuse
+| diagnosis   Confusion about identity, puzzlement about the past, confrontations challenging new identity or absence of one
+| treatment   Recovery usually leads to return of previous memories, further treatment unnecessary
+| frequency   Rare
+| duration   Days, months, or longer
+| prognosis   Generally good after recovery
+| related conditions   Dissociative amnesia, dissociative identity disorder, delirium, dementia
+}}

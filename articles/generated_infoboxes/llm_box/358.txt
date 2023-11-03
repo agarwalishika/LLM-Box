@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of France
+| Image   Flag of France.svg
+| Image size   250px
+| Alt   The national flag of France
+| Use   National flag and ensign
+| Symbol   
+| Proportion   2:3
+| Adoption   15 February 1794 (current design)
+| Design   A tricolour featuring three vertical bands coloured blue (hoist side), white, and red
+| Designer   
+}}

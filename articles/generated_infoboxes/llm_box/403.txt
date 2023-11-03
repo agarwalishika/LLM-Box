@@ -1,0 +1,20 @@
+{{Infobox Doctor Who episode
+| number   90
+| serial name   The Robots of Death
+| show   Doctor Who
+| quotes   "Please do not throw hands at me."
+| type   Serial
+| image   Robots of Death.jpg
+| caption   The Doctor and Leela investigate the murders on the sandminer.
+| image size   250px
+| alt   The Doctor and Leela standing in front of a sandminer
+| doctor     Tom Baker  
+| doctors   Fourth Doctor
+| companion     Louise Jameson  
+| companions   Leela
+| cast   See   List of Doctor Who cast members The Robots of Death|cast  
+| director     Michael E. Briant  
+| writer     Chris Boucher  
+| based on   
+}}
+

@@ -1,0 +1,5 @@
+{{Infobox 
+| The kobold Heinzelmann   The kobold Heinzelmann 
+| Grouping   Mythological creatureFairySprite 
+| Country   Germany 
+}}

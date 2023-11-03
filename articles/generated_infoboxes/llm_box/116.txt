@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   Fairy
+| image   
+| caption   A depiction of a fairy
+| author   N A (folklore)
+| title orig   N A
+| translator   N A
+| country   Multiple European cultures
+| language   Various
+| series   N A
+| genre   Folklore, mythology
+| published in   N A
+| publication type   Oral tradition
+| publisher   N A
+| media type   N A
+| pub date   N A
+| english pub date   N A
+| preceded by   N A
+| followed by   N A
+| preceded by italics   N A
+| followed by italics   N A
+| pages   N A
+| wikisource   N A
+| native wikisource   N A
+| orig lang code   N A
+}}

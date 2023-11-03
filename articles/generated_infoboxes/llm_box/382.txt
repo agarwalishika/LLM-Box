@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   State Flag of the Union of Soviet Socialist Republics
+| Image   Flag of the Soviet Union.svg
+| Image size   150px
+| Alt   The flag of the Soviet Union
+| Use   National flag
+| Symbol   Hammer and sickle, red star
+| Proportion   1:2
+| Adoption   December 1922
+| Design   A plain red flag with a gold hammer and sickle placed beneath a gold-bordered red star in the upper left canton
+| Designer   
+}}

@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Animated Short Film
+| subheader   
+| current awards   93rd Academy Awards
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Excellence in animated short films
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

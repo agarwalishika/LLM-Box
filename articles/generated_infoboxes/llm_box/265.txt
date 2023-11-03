@@ -1,0 +1,31 @@
+{{Infobox film
+| name   Crash
+| image   
+| alt   
+| caption   
+| author   J. G. Ballard
+| cover artist   Bill Botten
+| country   United Kingdom
+| language   English
+| genre   Science fiction
+| publisher   Jonathan Cape
+| release date   1973
+| media type   Print (hardcover)
+| pages   
+| isbn   
+| film name   Crash
+| film director   David Cronenberg
+| film producer   David Cronenberg
+| screenplay   David Cronenberg
+| based on   ''Crash'' by J. G. Ballard
+| starring   James Spader, Holly Hunter, Elias Koteas, Deborah Kara Unger
+| music   Howard Shore
+| cinematography   Peter Suschitzky
+| editing   Ronald Sanders
+| studio   Recorded Picture Company
+| distributor   Fine Line Features
+| released   1996
+| runtime   100 minutes
+| country2   Canada
+| language2   English
+}}

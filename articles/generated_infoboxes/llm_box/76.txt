@@ -1,0 +1,46 @@
+{{Infobox comics character
+| character name   Iron Man
+| image   Iron Man Tony Stark.png
+| imagesize   250px
+| caption   Iron Man, as depicted in the comics
+| publisher   Marvel Comics
+| debut   Tales of Suspense  39 (1963)
+| creators   Stan Lee, Larry Lieber, Don Heck, Jack Kirby
+| voiced by   Adrian Pasdar, Robert Hays, Mick Wingert, Eric Loomis, Josh Keaton
+| first series   Iron Man (1968)
+| first episode   "Iron Man is Born!" (1966)
+| first comic   Iron Man  1 (1968)
+| real name   Anthony Edward "Tony" Stark
+| alter   
+| alter ego   
+| full name   Anthony Edward Stark
+| full   Anthony Edward "Tony" Stark
+| species   Human
+| homeworld   Earth
+| alliances   Avengers
+| affiliations   Stark Industries
+| supports   
+| aliases   Golden Avenger, Shellhead, Armored Avenger
+| powers   Superhuman strength, flight, energy projection, genius-level intellect, regenerative life support, advanced weaponry
+| partners   War Machine, Rescue, Ironheart
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Iron Man
+| subcat   Marvel Comics superheroes
+| cat   
+| hero   yes
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

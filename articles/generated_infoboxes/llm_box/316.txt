@@ -1,0 +1,14 @@
+{{Infobox Short story
+| name   The Menace From Earth
+| author   Robert A. Heinlein
+| country   United States
+| language   English
+| genre   Science fiction
+| published in   The Magazine of Fantasy   Science Fiction
+| publication type   Magazine
+| publisher   Fantasy House
+| media type   Print (Magazine)
+| pub date   August 1957
+| preceded by   
+| followed by   
+}}

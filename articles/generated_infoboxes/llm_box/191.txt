@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Costume Design
+| subheader   
+| current awards   93rd Academy Awards
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Achievement in film costume design
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

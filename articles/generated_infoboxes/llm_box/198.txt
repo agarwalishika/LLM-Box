@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Film Editing
+| subheader   
+| current awards   93rd Academy Awards
+| image   Academy Award for Best Film Editing.png
+| image size   150px
+| image upright   
+| alt   
+| caption   The Academy Award for Best Film Editing
+| awarded for   Excellence in film editing
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annually
+| YYYY   1934
+| MM   
+| DD   
+}}

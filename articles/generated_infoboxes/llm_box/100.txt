@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Bigfoot
+| image   Bigfoot.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of Bigfoot
+| Grouping   Cryptid
+| Sub Grouping   Hominid
+| Similar entities   Yeti, Yowie, Skunk ape
+| Family   Unknown
+| Folklore   North American folklore
+| First Attested   1958
+| AKA   Sasquatch
+| Country   United States, Canada
+| Region   Pacific Northwest
+| Habitat   Forests
+| Details   Large, hairy, bipedal creature
+}}

@@ -1,0 +1,42 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Vernor Vinge
+| honorific suffix   
+| native name   
+| native name lang   
+| image   Vernor Vinge.jpg
+| image size   
+| image upright   
+| landscape   
+| alt   
+| caption   Vernor Vinge at the Computers, Freedom and Privacy Conference in 2006
+| birth name   Vernor Steffen Vinge
+| birth date   
+| YYYY   1944
+| MM   10
+| DD   2
+| birth place   Waukesha, Wisconsin, U.S.
+| death date   
+| death place   
+| nationality   American
+| field   Science fiction, computer science
+| work institutions   San Diego State University
+| alma mater   Michigan State University
+| thesis title   
+| thesis url   
+| thesis year   
+| doctoral advisor   
+| doctoral students   
+| known for   A Fire Upon the Deep, True Names, The Singularity
+| author abbrev bot   
+| author abbrev zoo   
+| influences   
+| influenced   
+| awards   Hugo Award (1993)
+| spouse   
+| children   
+| signature   
+| signature alt   
+| website   
+| footnotes   
+}}

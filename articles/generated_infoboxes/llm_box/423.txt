@@ -1,0 +1,28 @@
+{{Infobox Doctor Who episode
+| number   51
+| serial name   Spearhead from Space
+| show   Doctor Who
+| quotes   "Look, Doctor, I've got enough trouble without my scientific advisor turning into a clown!"
+| type   Serial
+| image   Spearhead from Space.jpg
+| caption   The Doctor (Jon Pertwee) and Liz Shaw (Caroline John) investigate the Autons.
+| image size   250px
+| alt   A black and white image of the Doctor and Liz Shaw examining a plastic Auton.
+| doctor   Third
+| doctors   Jon Pertwee
+| companion   Liz Shaw
+| companions   Caroline John
+| cast   
+  Jon Pertwee as the Doctor
+  Nicholas Courtney as Brigadier Lethbridge-Stewart
+  Caroline John as Liz Shaw
+| guests   
+  Hugh Burden as Channing
+  Derek Smee as Ransome
+  John Woodnutt as Hibbert
+  Neil Wilson as Mullins
+| director   Derek Martinus
+| writer   Robert Holmes
+| based on   
+}}
+

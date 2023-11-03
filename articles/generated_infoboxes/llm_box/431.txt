@@ -1,0 +1,21 @@
+{{Infobox Doctor Who episode
+| number   50
+| serial name   The War Games
+| show   Doctor Who
+| quotes   "We're going home!"
+| type   Serial
+| image   WarGames.jpg
+| caption   Title card from the original broadcast
+| image size   250px
+| alt   
+| doctor   Second
+| doctors   Second Doctor
+| companion   Jamie McCrimmon, Zoe Heriot
+| companions   Jamie McCrimmon, Zoe Heriot
+| cast   
+| doctor   Patrick Troughton
+| guests   Philip Madoc
+| director   David Maloney
+| writer   Malcolm Hulke, Terrance Dicks
+| based on   
+}}

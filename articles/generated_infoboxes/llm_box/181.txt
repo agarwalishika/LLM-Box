@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Supporting Actress
+| subheader   
+| current awards   2023
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Outstanding performance in a supporting role in the film industry
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

@@ -1,0 +1,22 @@
+{{Infobox_Doctor_Who_episode
+| number = N/A
+| serial_name = Davros
+| show = Doctor Who
+| quotes = "I am Davros, creator of the Daleks!"
+| type = Television episode
+| image = Davros.jpg
+| caption = Davros as depicted in the television series
+| image_size = 250px
+| alt = A close-up image of Davros, a disfigured and wheelchair-bound character with a cybernetic eye
+| doctor = N/A
+| doctors = N/A
+| companion = N/A
+| companions = N/A
+| cast = 
+| doctor = N/A
+| guests = 
+| director = N/A
+| writer = Terry Nation
+| based_on = N/A
+}}
+

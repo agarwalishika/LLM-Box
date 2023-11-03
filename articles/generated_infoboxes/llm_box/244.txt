@@ -1,0 +1,27 @@
+{{Infobox film
+| name   Godzilla
+| image   Godzilla 1954 poster.jpg
+| alt   Japanese movie poster for Godzilla
+| caption   Japanese movie poster
+| native name      
+| director   Ishir  Honda
+| producer   Tomoyuki Tanaka
+| writer   Ishir  Honda
+| starring   Akira Takarada
+Momoko K chi
+Akihiko Hirata
+Takashi Shimura
+| music   Akira Ifukube
+| cinematography   Masao Tamai
+| editing   Kazuji Taira
+| studio   Toho Co., Ltd.
+| distributor   Toho Co., Ltd.
+| released   
+| runtime   96 minutes
+| country   Japan
+| language   Japanese
+| budget    64 million
+| gross    183 million
+| preceded by   
+| followed by   Godzilla Raids Again
+}}

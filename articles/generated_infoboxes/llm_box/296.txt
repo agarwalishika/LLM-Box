@@ -1,0 +1,16 @@
+{{Infobox Book
+| name   I, Robot
+| image   
+| caption   
+| author   Isaac Asimov
+| country   United States
+| language   English
+| genre   Science fiction
+| publisher   Gnome Press
+| release date   1950
+| media type   Print (hardcover)
+| pages   
+| isbn   
+| preceded by   
+| followed by   
+}}

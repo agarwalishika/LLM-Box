@@ -1,0 +1,11 @@
+{{Infobox drug
+| drug name   Hypoxia
+| type   Medical condition
+| caption   A condition in which the body or a region of the body is deprived of adequate oxygen supply at the tissue level.
+| routes of administration   N A
+| legal status   N A
+| CAS number   N A
+| IUPAC name   N A
+| chemical formula   N A
+| molecular weight   N A
+}}

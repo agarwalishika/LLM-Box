@@ -1,0 +1,20 @@
+{{Infobox Doctor Who episode
+| number   6
+| serial name   The Aztecs
+| show   Doctor Who
+| quotes   "You can't rewrite history! Not one line!"
+| type   Science fiction
+| image   Aztecs Doctor Who.jpg
+| caption   The Doctor and Barbara in the Aztec empire
+| image size   250px
+| alt   The Doctor and Barbara in the Aztec empire
+| doctor     William Hartnell  
+| doctors   1
+| companion     Susan Foreman|Susan  ,   Ian Chesterton|Ian  ,   Barbara Wright|Barbara  
+| companions   3
+| cast   See   List of Doctor Who cast members The Aztecs|cast  
+| director     John Crockett  
+| writer     John Lucarotti  
+| based on   Aztec civilization
+}}
+

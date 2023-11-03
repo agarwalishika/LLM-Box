@@ -1,0 +1,20 @@
+{{Infobox Doctor Who episode
+| number   N A
+| serial name   "The Masque of the Red Death"
+| show   Doctor Who
+| quotes   "Sharp pains", "sudden dizziness", "profuse bleeding at the pores"
+| type   Short story
+| image   
+| caption   
+| image size   
+| alt   
+| doctor   N A
+| doctors   N A
+| companion   N A
+| companions   N A
+| cast   N A
+| guests   N A
+| director   N A
+| writer   Edgar Allan Poe
+| based on   "The Masque of the Red Death" by Edgar Allan Poe
+}}

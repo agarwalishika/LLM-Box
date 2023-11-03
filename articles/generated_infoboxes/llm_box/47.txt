@@ -1,0 +1,35 @@
+{{Infobox noble
+| name   Simon Templar
+| title   The Saint
+| image   
+| caption   
+| alt   
+| CoA   
+| more   
+| succession   
+| reign   
+| reign-type   
+| predecessor   
+| successor   
+| suc-type   
+| spouse   
+| spouse-type   
+| issue-type   
+| issue   
+| issue-link   
+| issue-pipe   
+| full   Simon Templar
+| native name   
+| styles   
+| other titles   
+| noble   
+| house-type   
+| father   
+| mother   
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| df y   
+}}

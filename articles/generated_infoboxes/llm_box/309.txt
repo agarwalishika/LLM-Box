@@ -1,0 +1,15 @@
+{{Infobox award
+| name   The Gift of the Magi
+| subheader   Short story
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Sentimental story with a moral lesson about gift-giving
+| sponsor   
+| date   December 10, 1905
+| YYYY   
+| MM   
+| DD   
+}}

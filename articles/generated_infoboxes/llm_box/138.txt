@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Orang Pendek
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Cryptid
+| Sub Grouping   Primate
+| Similar entities   Bigfoot, Yeti
+| Family   Unknown
+| Folklore   Indonesian folklore
+| First Attested   At least 100 years ago
+| AKA   Orang Pendek, Short Person
+| Country   Indonesia
+| Region   Sumatra
+| Habitat   Remote, mountainous forests
+| Details   Ground-dwelling, bipedal primate covered in short fur, standing between 80 and 150 cm (30 and 60 in) tall.
+}}

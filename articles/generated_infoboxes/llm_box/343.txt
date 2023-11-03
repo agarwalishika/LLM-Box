@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Cats of Ulthar
+| image   
+| caption   
+| author   H. P. Lovecraft
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Fantasy, Horror
+| published in   Tryout
+| publication type   Literary journal
+| publisher   
+| media type   Print (Magazine)
+| pub date   November 1920
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

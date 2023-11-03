@@ -1,0 +1,45 @@
+{{Infobox character
+| name   The Narrator
+| series   
+| franchise   
+| image   
+| alt   
+| caption   
+| first major   "The Tell-Tale Heart"
+| first minor   
+| first issue   
+| first date   1843
+| first   
+| last major   
+| last minor   
+| last issue   
+| last date   
+| last   
+| creator   Edgar Allan Poe
+| based on   
+| character   
+| author   
+}}
+
+{{Infobox character
+| name   The Old Man
+| series   
+| franchise   
+| image   
+| alt   
+| caption   
+| first major   "The Tell-Tale Heart"
+| first minor   
+| first issue   
+| first date   1843
+| first   
+| last major   
+| last minor   
+| last issue   
+| last date   
+| last   
+| creator   Edgar Allan Poe
+| based on   
+| character   
+| author   
+}}

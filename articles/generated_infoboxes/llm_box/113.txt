@@ -1,0 +1,36 @@
+{{Infobox pharaoh
+| name   Castalia
+| alt name   Castalian Spring
+| image   
+| image alt   
+| caption   
+| role   Spring
+| reign   
+| coregency   
+| predecessor   
+| successor   
+| notes   
+| prenomen   
+| prenomen hiero   
+| nomen   
+| nomen hiero   
+| horus   
+| horus prefix   
+| horus hiero   
+| nebty   
+| nebty hiero   
+| golden   
+| golden hiero   
+| spouse   
+| children   
+| dynasty   
+| father   Achelous
+| mother   
+| birth date   
+| birth place   
+| death date   
+| death place   
+| burial   
+| monuments   
+}}
+

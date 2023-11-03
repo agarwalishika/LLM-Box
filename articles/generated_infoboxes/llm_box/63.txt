@@ -1,0 +1,25 @@
+{{Infobox character
+| name   Spider-Man
+| image   Spider-Man.png
+| caption   Spider-Man as he appears in the comics
+| publisher   Marvel Comics
+| debut   Amazing Fantasy  15 (August 1962)
+| creators   Stan Lee, Steve Ditko
+| alter ego   Peter Benjamin Parker
+| species   Human
+| abilities   Superhuman strength, agility, reflexes, stamina, durability, coordination, and balance
+Clinging to surfaces and ceilings like a spider
+Detecting danger with his precognition ability called "spider-sense"
+Building and using wrist-mounted "web-shooter" devices that shoot artificial spider-webs
+| partners   
+| supports   Aunt May, Uncle Ben
+| enemies   Green Goblin, Doctor Octopus, Venom
+| relatives   Richard and Mary Parker (parents, deceased)
+| significant other   Gwen Stacy, Mary Jane Watson, Black Cat
+| education   High school student
+| hometown   New York City
+| residence   Queens, New York
+| occupation   Crimefighter, photographer
+| first appearance   Amazing Fantasy  15 (August 1962)
+| creators   Stan Lee, Steve Ditko
+}}

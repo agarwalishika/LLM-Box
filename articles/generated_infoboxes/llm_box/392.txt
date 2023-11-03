@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Poland
+| Image   Flag of Poland.svg
+| Image size   250px
+| Alt   The national flag of Poland
+| Use   National flag and ensign
+| Symbol   
+| Proportion   5:8
+| Adoption   1919
+| Design   Two horizontal stripes of equal width, the upper one white and the lower one red
+| Designer   
+}}

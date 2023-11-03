@@ -1,0 +1,16 @@
+{{Infobox Book
+| name   Erewhon: or, Over the Range
+| image   
+| caption   
+| author   Samuel Butler
+| country   England
+| language   English
+| genre   Satire, Utopian fiction
+| publisher   Tr bner   Co.
+| release date   1872
+| media type   Print (hardcover)
+| pages   
+| isbn   
+| preceded by   
+| followed by   
+}}

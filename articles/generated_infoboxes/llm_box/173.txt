@@ -1,0 +1,24 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Nobel Prize in Physics
+| honorific suffix   
+| native name   Nobelpriset i fysik
+| native name lang   Swedish
+| image   Nobel Prize Medal.png
+| image size   150px
+| image upright   
+| landscape   
+| alt   
+| caption   The Nobel Prize medal for Physics
+| birth name   
+| birth date   
+| YYYY   1901
+| MM   
+| DD   
+| awarded for   Outstanding contributions to the field of physics
+| presenter   Royal Swedish Academy of Sciences
+| year   1901
+| holder label   
+| holder   
+| website    https:  www.nobelprize.org nobel prizes physics  Nobel Prize in Physics 
+}}

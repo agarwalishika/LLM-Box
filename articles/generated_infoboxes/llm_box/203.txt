@@ -1,0 +1,27 @@
+{{Infobox film
+| name   Blade Runner
+| image   Blade Runner poster.jpg
+| alt   The poster for Blade Runner featuring a futuristic cityscape and the film's title in bold letters
+| caption   Theatrical release poster
+| director   Ridley Scott
+| producer   Michael Deeley
+| screenplay   Hampton Fancher
+David Peoples
+| based on   ''Do Androids Dream of Electric Sheep?'' by Philip K. Dick
+| starring   Harrison Ford
+Rutger Hauer
+Sean Young
+Edward James Olmos
+| music   Vangelis
+| cinematography   Jordan Cronenweth
+| editing   Terry Rawlings
+| studio   The Ladd Company
+Shaw Brothers
+| distributor   Warner Bros.
+| released   
+| runtime   117 minutes
+| country   United States
+| language   English
+| budget    28 million
+| gross    33.8 million
+}}

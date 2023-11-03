@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Gnome
+| image   Garden gnome.jpg
+| image size   250px
+| image upright   
+| caption   A garden gnome
+| Grouping   Mythological creature
+| Sub Grouping   
+| Similar entities   Dwarf, Elf
+| Family   Elemental
+| Folklore   Renaissance magic and alchemy
+| First Attested   16th century
+| AKA   
+| Country   Various
+| Region   Europe
+| Habitat   Underground, gardens
+| Details   Gnomes are small humanoids often depicted as living underground. They are associated with Renaissance magic and alchemy, and have been widely adopted in modern fantasy literature. Gnomes are commonly represented as garden ornaments, known as garden gnomes, which gained popularity during the 20th century.
+}}

@@ -1,0 +1,63 @@
+{{Infobox drug
+| drug name   Erectile dysfunction
+| type   Sexual dysfunction
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category  
+| routes of administration   Oral, urethral, injection, implant, vacuum pump
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   
+| bioavailability   
+| protein bound   
+| metabolism   
+| metabolites   
+| onset   
+| elimination half-life   
+| duration of action  
+| excretion   
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   
+| chemical formula   
+| molecular weight   
+}}
+
+   Signs and symptoms   
+ED is characterized by the persistent or recurring inability to achieve or maintain an erection of the penis with sufficient rigidity and duration for satisfactory sexual activity.
+
+   Causes   
+Majority of ED cases are attributed to physical risk factors and predictive factors. These factors can be categorized as vascular, neurological, local penile, hormonal, and drug-induced. Notable predictors of ED include aging, cardiovascular disease, diabetes mellitus, high blood pressure, obesity, abnormal lipid levels in the blood, hypogonadism, smoking, depression, and medication use. Approximately 10  of cases are linked to psychosocial factors, encompassing conditions like depression, stress, and problems within relationships. It is worth noting that the term erectile dysfunction does not encompass other erection-related disorders, such as priapism.
+
+   Treatment   
+Treatment of ED encompasses addressing the underlying causes, lifestyle modification, and addressing psychosocial issues. In many instances, medication-based therapies are used, specifically PDE5 inhibitors like sildenafil. These drugs function by dilating blood vessels, facilitating increased blood flow into the spongy tissue of the penis, analogous to opening a valve wider to enhance water flow in a fire hose. Less frequently employed treatments encompass prostaglandin pellets inserted into the urethra, the injection of smooth-muscle relaxants and vasodilators directly into the penis, penile implants, the use of penis pumps, and vascular surgery.
+
+   Epidemiology   
+ED is reported in 18  of males aged 50 to 59 years, and 37  in males aged 70 to 75.

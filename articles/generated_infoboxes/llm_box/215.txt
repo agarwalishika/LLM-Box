@@ -1,0 +1,26 @@
+{{Infobox film
+| name   Citizen Kane
+| image   Citizen Kane poster.png
+| alt   The poster for Citizen Kane
+| caption   Theatrical release poster
+| director   Orson Welles
+| producer   Orson Welles
+| writer   Orson Welles
+| screenplay   Orson Welles
+| based on   Composite character based on American media barons William Randolph Hearst and Joseph Pulitzer, Chicago tycoons Samuel Insull and Harold McCormick, as well as aspects of the screenwriters' own lives
+| starring   Orson Welles
+| music   Bernard Herrmann
+| cinematography   Gregg Toland
+| editing   Robert Wise
+| studio   RKO Pictures
+| distributor   RKO Radio Pictures
+| released   {{Film date|1941|5|1}}
+| runtime   119 minutes
+| country   United States
+| language   English
+| budget    839,727
+| gross    1.6 million
+| awards   Academy Awards for Best Writing (Original Screenplay)
+| website   
+}}
+

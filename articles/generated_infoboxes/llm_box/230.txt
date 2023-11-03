@@ -1,0 +1,21 @@
+{{Infobox film
+| name   The Pinchcliffe Grand Prix
+| image   
+| caption   
+| director   Ivo Caprino
+| producer   
+| screenplay   
+| based on   ''Fl klypa Grand Prix'' by Kjell Aukrust
+| starring   
+| music   
+| cinematography   
+| editing   
+| studio   
+| distributor   
+| released   1975
+| runtime   
+| country   Norway
+| language   Norwegian
+| budget   
+| gross   
+}}

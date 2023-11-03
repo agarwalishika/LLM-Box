@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Suriname
+| Image   Flag of Suriname.svg
+| Image size   250px
+| Alt   The flag of Suriname
+| Use   National flag
+| Symbol   
+| Proportion   2:3
+| Adoption   25 November 1975
+| Design   Five horizontal bands of green (top, double width), white, red (quadruple width), white, and green (double width) with a large, yellow, five-pointed star in the center.
+| Designer   Jack Pinas
+}}

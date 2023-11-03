@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Patterson Gimlin film
+| image   Patterson-Gimlin film frame 352.jpg
+| image size   250px
+| image upright   
+| caption   Frame from the Patterson Gimlin film
+| Grouping   Cryptid
+| Sub Grouping   Bigfoot
+| Similar entities   Yeti, Sasquatch
+| Family   Hominidae
+| Folklore   American folklore
+| First Attested   October 20, 1967
+| AKA   PGF, Patterson film
+| Country   United States
+| Region   Northern California
+| Habitat   Forested areas
+| Details   Short motion picture footage of an unidentified subject believed to be a Bigfoot, filmed by Roger Patterson and Robert "Bob" Gimlin in 1967 near Bluff Creek, California.
+}}

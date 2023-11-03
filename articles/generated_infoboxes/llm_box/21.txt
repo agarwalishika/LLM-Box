@@ -1,0 +1,16 @@
+{{Infobox Le Mans driver
+| name   Kermit the Frog
+| image   Kermit the Frog.jpg
+| caption   Kermit the Frog in 2011
+| nationality   American
+| birth name   
+| birth date   
+| birth place   WRC-TV's Sam and Friends
+| death date   
+| death place   
+| Years   1955-present
+| Teams   The Muppets, Sesame Street
+| Best   Showrunner and host of The Muppet Show
+| Class   
+| updated   
+}}

@@ -1,0 +1,22 @@
+{{Infobox Doctor Who episode
+| number   5-8
+| serial name   Mindwarp
+| show   Doctor Who
+| quotes   "I am the Doctor, whether you like it or not."
+| type   Television
+| image   
+| caption   
+| image size   
+| alt   
+| doctor   Sixth
+| doctors   Colin Baker
+| companion   Peri Brown
+| companions   Nicola Bryant
+| cast   
+| doctor   Colin Baker
+| guests   Michael Jayston, Nabil Shaban, Christopher Ryan
+| director   Ron Jones
+| writer   Philip Martin
+| based on   
+}}
+

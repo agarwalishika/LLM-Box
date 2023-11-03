@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   A Clockwork Orange
+| image   A Clockwork Orange.jpg
+| image size   200px
+| border   
+| alt   Cover of A Clockwork Orange
+| caption   Cover of the first edition
+| author   Anthony Burgess
+| audio read by   
+| title orig   
+| orig lang code   
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   United Kingdom
+| language   English
+| series   
+| release number   
+| subject   Dystopia, youth subculture, violence, state authority
+| genre   Satire, black comedy, dystopian fiction
+| set in   Near-future
+| publisher   William Heinemann
+| publisher2   
+| pub date   1962
+| english pub date   
+| published   
+| media type   Print (hardcover and paperback)
+| pages   192
+| awards   
+| isbn   978-0-434-09800-2
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   
+| followed by   
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

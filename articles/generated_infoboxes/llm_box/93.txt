@@ -1,0 +1,45 @@
+{{Infobox comics character
+| character name   The Lone Ranger
+| image   Lone Ranger.jpg
+| imagesize   250px
+| caption   The Lone Ranger in his iconic mask
+| publisher   Various
+| debut   1933 (radio show)
+| creators   George W. Trendle, Fran Striker
+| voiced by   Earle Graser, Brace Beemer
+| first series   The Lone Ranger (radio series)
+| first episode   1933
+| first comic   The Lone Ranger (comic strip)
+| real name   John Reid
+| alter ego   
+| full name   John Reid
+| full   John Reid
+| species   Human
+| homeworld   Earth
+| alliances   Texas Rangers
+| affiliations   
+| supports   Tonto
+| aliases   
+| powers   Skilled marksman, expert horseman, exceptional hand-to-hand combatant
+| partners   Tonto
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Lone Ranger
+| subcat   
+| cat   Fictional characters
+| hero   yes
+| villain   no
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

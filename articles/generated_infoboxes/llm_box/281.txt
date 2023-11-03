@@ -1,0 +1,36 @@
+{{Infobox noble
+| name   The Enchiridion or Handbook of Epictetus
+| title   Stoic ethical advice manual
+| image   
+| caption   
+| alt   
+| CoA   
+| more   
+| succession   
+| reign   
+| reign-type   
+| predecessor   
+| successor   
+| suc-type   
+| spouse   
+| spouse-type   
+| issue-type   
+| issue   
+| issue-link   
+| issue-pipe   
+| full   
+| native name                        
+| styles   
+| other titles   Manual, Handbook
+| noble   
+| house-type   
+| father   
+| mother   
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| df y   
+}}
+

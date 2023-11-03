@@ -1,0 +1,28 @@
+{{Infobox film
+| name   Eyes Wide Shut
+| image   Eyes Wide Shut poster.jpg
+| caption   Theatrical release poster
+| director   Stanley Kubrick
+| producer   Stanley Kubrick
+| writer   Stanley Kubrick
+| screenplay   Stanley Kubrick
+| based on   ''Traumnovelle'' by Arthur Schnitzler
+| starring   Tom Cruise
+Nicole Kidman
+| music   Jocelyn Pook
+| cinematography   Larry Smith
+| editing   Nigel Galt
+| studio   Warner Bros.
+Stanley Kubrick Productions
+| distributor   Warner Bros.
+| released   {{Film date|1999|7|13|United States}}
+| runtime   159 minutes
+| country   United States
+| language   English
+| budget    65 million
+| gross    162.1 million
+| preceded by   ''Full Metal Jacket'' (1987)
+| followed by   ''N A''
+| website   
+}}
+

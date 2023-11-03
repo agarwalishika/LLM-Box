@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   A Wizard of Earthsea
+| image   
+| caption   
+| author   Ursula K. Le Guin
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   Earthsea Cycle
+| genre   Fantasy, Children's literature
+| published in   
+| publication type   Novel
+| publisher   Parnassus
+| media type   Print (hardcover and paperback)
+| pub date   1968
+| english pub date   1968
+| preceded by   
+| followed by   The Tombs of Atuan
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of Slovenia
+| Image   Flag of Slovenia.svg
+| Image size   250px
+| Alt   The national flag of Slovenia
+| Use   National flag and ensign
+| Symbol   Coat of arms of Slovenia
+| Proportion   1:2
+| Adoption   25 June 1991
+| Design   A horizontal tricolor of white, blue, and red, with the coat of arms of Slovenia in the upper hoist side
+| Designer   Marko Poga nik
+}}

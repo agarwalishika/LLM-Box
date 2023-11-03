@@ -1,0 +1,51 @@
+{{Infobox drug
+| drug name   Alcohol intoxication
+| type   Psychoactive drug
+| image   
+| alt   
+| caption   
+| pronounce   
+| tradename   
+| Drugs.com   
+| MedlinePlus   
+| pregnancy AU   
+| pregnancy AU comment   
+| pregnancy category  
+| routes of administration   Oral
+| ATCvet   
+| ATC prefix   
+| ATC suffix   
+| legal AU   
+| legal AU comment   
+| legal BR   
+| legal BR comment   
+| legal CA   
+| legal CA comment   
+| legal DE   
+| legal DE comment   
+| legal NZ   
+| legal NZ comment   
+| legal UK   
+| legal UK comment   
+| legal US   
+| legal US comment   
+| legal EU   
+| legal EU comment   
+| legal UN   
+| legal UN comment   
+| legal status   Varies by jurisdiction
+| bioavailability   
+| protein bound   
+| metabolism   Hepatic
+| metabolites   Acetaldehyde
+| onset   Varies
+| elimination half-life   Varies
+| duration of action  Varies
+| excretion   Renal
+| CAS number   
+| PubChem   
+| DrugBank   
+| IUPAC name   Ethanol
+| chemical formula   C2H6O
+| molecular weight   46.07 g mol
+}}

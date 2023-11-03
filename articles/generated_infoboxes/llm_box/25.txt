@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Mickey Mouse
+| image   Mickey Mouse.png
+| imagesize   200px
+| alt   A cartoon image of Mickey Mouse
+| caption   Mickey Mouse in his classic outfit
+| publisher   The Walt Disney Company
+| debut   Plane Crazy (1928)
+| creators   Walt Disney, Ub Iwerks
+| voiced by   Walt Disney (1928-1947)
+| first series   
+| first episode   
+| first comic   
+| real name   
+| alter   
+| alter ego   
+| full name   Mickey Mouse
+| full   Mickey Theodore Mouse
+| species   Mouse
+| homeworld   
+| alliances   
+| affiliations   
+| supports   
+| aliases   Mortimer Mouse
+| powers   
+| partners   Minnie Mouse
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

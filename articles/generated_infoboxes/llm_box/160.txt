@@ -1,0 +1,18 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Alfred Nobel
+| honorific suffix   
+| native name   
+| native name lang   
+| image   Alfred Nobel 1887.jpg
+| image size   200px
+| image upright   
+| landscape   
+| alt   
+| caption   Alfred Nobel, inventor of dynamite
+| birth name   Alfred Bernhard Nobel
+| birth date   
+| YYYY   1833
+| MM   10
+| DD   21
+}}

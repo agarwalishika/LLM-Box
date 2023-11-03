@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Doctor Doom
+| image   Doctor Doom.jpg
+| imagesize   250px
+| alt   A depiction of Doctor Doom
+| caption   Doctor Doom, as depicted in the comics
+| publisher   Marvel Comics
+| debut   The Fantastic Four  5 (July 1962)
+| creators   Stan Lee, Jack Kirby
+| voiced by   Various actors in animated adaptations
+| first series   Fantastic Four (1967)
+| first episode   "The Menace of Doctor Doom"
+| first comic   The Fantastic Four  5 (July 1962)
+| real name   Victor von Doom
+| alter   
+| alter ego   
+| full name   Victor von Doom
+| full   Victor von Doom
+| species   Human
+| homeworld   Earth
+| alliances   
+| affiliations   
+| supports   
+| aliases   Doctor Doom, Doom, The Master, Invincible Man, Vincent Vaughn, Rabum Alal
+| powers   Genius-level intellect, mastery of science and sorcery, skilled inventor and strategist, superhuman strength and durability (with his suit), energy projection, force field generation, time travel, mind control
+| partners   Various allies and minions
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   Doom, Doctor
+| subcat   Marvel Comics characters
+| cat   Fictional characters with superhuman strength
+| hero   
+| villain   yes
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

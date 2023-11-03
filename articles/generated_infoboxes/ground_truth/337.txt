@@ -1,0 +1,12 @@
+{{Infobox 
+| "Harrison Bergeron"   "Harrison Bergeron" 
+| Short story by Kurt Vonnegut   Short story by Kurt Vonnegut 
+| Country   United States 
+| Language   English 
+| Genre(s)   Dystopia, science fiction,political fiction,satire 
+| Publication   Publication 
+| Published in   The Magazine of Fantasy and Science Fiction 
+| Publication type   Periodical 
+| Media type   Print (magazine) 
+| Publication date   1961 
+}}

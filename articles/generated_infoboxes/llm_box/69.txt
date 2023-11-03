@@ -1,0 +1,47 @@
+{{Infobox comics character
+| character name   Beyonder
+| image   
+| imagesize   
+| alt   
+| caption   
+| publisher   Marvel Comics
+| debut   Secret Wars  1 (May 1984)
+| creators   Jim Shooter, Mike Zeck
+| voiced by   
+| first series   
+| first episode   
+| first comic   
+| real name   None (Manifestation of the "Beyond-Realm")
+| alter   
+| alter ego   
+| full name   Beyonder
+| full   
+| species   Cosmic entity
+| homeworld   Beyond-Realm
+| alliances   
+| affiliations   
+| supports   
+| aliases   Cosmic Cube, Mutant Inhuman, Child of the Beyonder race
+| powers   Nigh-omnipotence, reality manipulation, energy projection, teleportation, time manipulation
+| partners   
+| IOM alter ego   
+| IOM full name   
+| IOM alliances   
+| IOM partners   
+| IOM aliases   
+| IOM powers   
+| sortkey   
+| subcat   
+| cat   
+| hero   
+| villain   
+| altcat   
+| addcharcat1   
+| addcharcat2   
+| addcharcat3   
+| addcharcat4   
+| addcharcat5   
+| addcharcat6   
+| noimage   
+| converted   
+}}

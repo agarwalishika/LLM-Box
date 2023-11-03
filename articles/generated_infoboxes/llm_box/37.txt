@@ -1,0 +1,108 @@
+{{Infobox Star Trek character
+| name   Kes
+| image   
+| caption   
+| portrayer   Jennifer Lien
+| species   Ocampa
+| affiliation   USS Voyager
+| position   Medical assistant
+| first   "Caretaker"
+| last   "Fury"
+| episodes   70
+| creator   Rick Berman, Michael Piller, Jeri Taylor
+| based on   
+| significant other   Neelix
+| abilities   Psionic powers
+| nationality   
+| home   
+| lbl21   
+| data21   
+| lbl22   
+| data22   
+| lbl23   
+| data23   
+| lbl24   
+| data24   
+| lbl25   
+| data25   
+| lbl31   
+| data31   
+| lbl32   
+| data32   
+| lbl33   
+| data33   
+| lbl34   
+| data34   
+| lbl35   
+| data35   
+| lbl36   
+| data36   
+| lbl37   
+| data37   
+| lbl38   
+| data38   
+| lbl39   
+| data39   
+| lbl40   
+| data40   
+| lbl41   
+| data41   
+| lbl42   
+| data42   
+| lbl43   
+| data43   
+| lbl44   
+| data44   
+| lbl45   
+| data45   
+| lbl46   
+| data46   
+| lbl47   
+| data47   
+| lbl48   
+| data48   
+| lbl49   
+| data49   
+| lbl50   
+| data50   
+| lbl51   
+| data51   
+| lbl52   
+| data52   
+| lbl53   
+| data53   
+| lbl54   
+| data54   
+| lbl55   
+| data55   
+| lbl56   
+| data56   
+| lbl57   
+| data57   
+| lbl58   
+| data58   
+| lbl59   
+| data59   
+| lbl60   
+| data60   
+| lbl61   
+| data61   
+| lbl62   
+| data62   
+| lbl63   
+| data63   
+| lbl64   
+| data64   
+| lbl65   
+| data65   
+| lbl66   
+| data66   
+| lbl67   
+| data67   
+| lbl68   
+| data68   
+| lbl69   
+| data69   
+| lbl70   
+| data70   
+}}

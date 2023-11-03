@@ -1,0 +1,17 @@
+{{Infobox book
+| name   Carmilla
+| image   Carmilla.jpg
+| alt   Cover of the book "Carmilla"
+| caption   Cover of the book "Carmilla"
+| author   Sheridan Le Fanu
+| country   Ireland
+| language   English
+| genre   Gothic, vampire fiction
+| published   1872
+| publisher   The Dark Blue (serial), In a Glass Darkly (collection)
+| media type   Print (serial and collection)
+| pages   Varies (depending on edition)
+| isbn   Varies (depending on edition)
+| preceded by   
+| followed by   
+}}

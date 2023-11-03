@@ -1,0 +1,26 @@
+{{Infobox short story
+| name   The Pit and the Pendulum
+| image   
+| caption   
+| author   Edgar Allan Poe
+| title orig   
+| translator   
+| country   United States
+| language   English
+| series   
+| genre   Horror, Gothic fiction
+| published in   The Gift: A Christmas and New Year's Present for 1843
+| publication type   Literary annual
+| publisher   
+| media type   Print (hardcover)
+| pub date   1842
+| english pub date   
+| preceded by   
+| followed by   
+| preceded by italics   
+| followed by italics   
+| pages   
+| wikisource   
+| native wikisource   
+| orig lang code   
+}}

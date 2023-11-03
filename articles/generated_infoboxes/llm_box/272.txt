@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Dracula
+| image   Dracula novel.jpg
+| image size   200px
+| image upright   
+| caption   First edition cover of Dracula
+| Grouping   Vampire
+| Sub Grouping   
+| Similar entities   
+| Family   Undead
+| Folklore   European folklore
+| First Attested   1897
+| AKA   Count Dracula
+| Country   Transylvania
+| Region   Eastern Europe
+| Habitat   Castle, Whitby
+| Details   Dracula is a vampire from Bram Stoker's novel of the same name. He is a Transylvanian nobleman who moves to England and plagues the seaside town of Whitby. The novel is an epistolary narrative, told through letters, diary entries, and newspaper articles. Dracula is one of the most famous characters in English literature and has been adapted for film over 30 times.
+}}

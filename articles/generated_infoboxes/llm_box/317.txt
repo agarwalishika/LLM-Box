@@ -1,0 +1,20 @@
+{{Infobox civilian attack
+| title   The New Lieutenant's Rap
+| partof   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| map   
+| map size   
+| map alt   
+| map caption   
+| location     ng H , Vietnam
+| target   Vietnamese civilians
+| coordinates   
+| date   Summer 1999
+| YYYY   1999
+| MM   
+| DD   
+}}

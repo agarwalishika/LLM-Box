@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   National Flag of Canada
+| Image   Flag of Canada.svg
+| Image size   250px
+| Alt   The flag of Canada
+| Use   National flag
+| Symbol   Red field with a white square at its centre, featuring a stylized, red, 11-pointed maple leaf charged in the centre
+| Proportion   1:2
+| Adoption   February 15, 1965
+| Design   A red field with a white square at its centre, featuring a stylized, red, 11-pointed maple leaf charged in the centre
+| Designer   George Stanley
+}}

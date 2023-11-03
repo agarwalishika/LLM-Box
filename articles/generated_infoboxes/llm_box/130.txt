@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   C n Annwn
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Spectral hounds
+| Sub Grouping   
+| Similar entities   Wild Hunt
+| Family   
+| Folklore   Welsh mythology and folklore
+| First Attested   
+| AKA   Ci Annwn, Hounds of Annwn, Hounds of Hell, Dogs of Hell
+| Country   Wales
+| Region   
+| Habitat   Annwn, associated with Cadair Idris
+| Details   In Welsh mythology and folklore, C n Annwn, also known as Ci Annwn or the Hounds of Annwn, were spectral hounds associated with the otherworld of Welsh myth. They were believed to be part of the Wild Hunt, presided over by Arawn, king of Annwn, or Gwyn ap Nudd, the underworld king. In Welsh folklore, their growling is said to foretell death, and their coming is seen as a death portent. They are sometimes accompanied by a fearsome hag called Mallt-y-Nos. The hounds are associated with migrating geese due to the similarity between their honking and barking. Christians later dubbed them "The Hounds of Hell" or "Dogs of Hell," although Annwn is not a place of punishment like the Christian concept of Hell.
+}}

@@ -1,0 +1,31 @@
+{{Infobox Doctor Who episode
+| number   68
+| serial name   Planet of the Daleks
+| show   Doctor Who
+| type   Serial
+| image   Planet of the Daleks.jpg
+| caption   The Doctor and Jo encounter the Daleks on the planet Spiridon.
+| image size   250px
+| alt   
+| doctor   Third
+| doctors   Jon Pertwee
+| companion   Jo Grant
+| companions   Katy Manning
+| cast   
+| doctor   Jon Pertwee
+| guests   
+| director   David Maloney
+| writer   Terry Nation
+| producer   Barry Letts
+| executive producer   
+| composer   Dudley Simpson
+| production code   
+| series   Series 10
+| length   6 episodes, 25 minutes each
+| first aired   7 April 1973
+| last aired   12 May 1973
+| preceded by   Frontier in Space
+| followed by   The Green Death
+| based on   
+}}
+

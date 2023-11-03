@@ -1,0 +1,28 @@
+{{Infobox film
+| name   Barry Lyndon
+| image   Barry Lyndon poster.jpg
+| caption   Theatrical release poster
+| director   Stanley Kubrick
+| producer   Stanley Kubrick
+| screenplay   Stanley Kubrick
+| based on   ''The Luck of Barry Lyndon'' by William Makepeace Thackeray
+| starring   Ryan O'Neal
+Marisa Berenson
+Patrick Magee
+Leonard Rossiter
+Hardy Kr ger
+| music   Leonard Rosenman
+| cinematography   John Alcott
+| editing   Tony Lawson
+| studio   Hawk Films
+| distributor   Warner Bros.
+| released   December 18, 1975
+| runtime   184 minutes
+| country   United Kingdom
+| language   English
+| budget    11 million
+| gross    20.9 million
+| awards   4 Academy Awards
+| website   
+}}
+

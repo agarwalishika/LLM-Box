@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   Don Quixote
+| image   Don Quixote.jpg
+| image size   200px
+| border   
+| alt   
+| caption   Title page of the first edition
+| author   Miguel de Cervantes
+| audio read by   
+| title orig   El ingenioso hidalgo Don Quijote de la Mancha
+| orig lang code   es
+| title working   
+| translator   
+| illustrator   
+| cover artist   
+| country   Spain
+| language   Spanish
+| series   
+| release number   
+| subject   Adventure, satire
+| genre   Novel
+| set in   La Mancha, Spain
+| publisher   Francisco de Robles
+| publisher2   
+| pub date   1605, 1615
+| english pub date   
+| published   
+| media type   Print (hardcover)
+| pages   Part 1: 312 pages, Part 2: 374 pages
+| awards   
+| isbn   
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   
+| followed by   
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

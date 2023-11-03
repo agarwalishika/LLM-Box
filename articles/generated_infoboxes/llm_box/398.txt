@@ -1,0 +1,12 @@
+{{Infobox flag
+| Name   Flag of England
+| Image   Flag of England.svg
+| Image size   250px
+| Alt   The flag of England, a red cross on a white field
+| Use   National flag
+| Symbol   Saint George's Cross
+| Proportion   3:5
+| Adoption   1190
+| Design   A red cross on a white field
+| Designer   Unknown
+}}

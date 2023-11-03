@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Mares of Diomedes
+| image   
+| image size   
+| image upright   
+| caption   
+| Grouping   Horses
+| Sub Grouping   
+| Similar entities   
+| Family   
+| Folklore   Greek mythology
+| First Attested   
+| AKA   Mares of Thrace
+| Country   Thrace
+| Region   
+| Habitat   Shores of the Black Sea
+| Details   Man-eating horses owned by Diomedes of Thrace, son of Ares and Cyrene. Bucephalus, Alexander the Great's horse, was said to be descended from these mares.
+}}

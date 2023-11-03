@@ -1,0 +1,14 @@
+{{Infobox 
+| Essential tremor   Essential tremor 
+| Other names   Idiopathic tremor 
+| Archimedean spiral drawings from a man with a unilateral essential tremor. The spiral on the left was drawn by the subject using the left hand, and the one on the right using the right hand.   Archimedean spiral drawings from a man with a unilateral essential tremor. The spiral on the left was drawn by the subject using the left hand, and the one on the right using the right hand. 
+| Specialty   Neurology 
+| Usual onset   Any age, but typically after 40 
+| Causes   Unknown 
+| Risk factors   Family history, exposure to particulartoxins 1  
+| Diagnostic method   Based on symptoms 2  
+| Differential diagnosis   Cerebellar tremor,dystonic tremor,multiple sclerosis,Parkinson's disease 3  
+| Treatment   Medications, surgery 4  
+| Medication   Beta blockers,primidone, anti-epileptics,topiramate,gabapentin,levetiracetam,benzodiazepines 4  
+| Frequency   Annual incidence of 23.7 per 100,000 (2010) 5  
+}}

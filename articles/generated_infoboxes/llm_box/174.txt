@@ -1,0 +1,24 @@
+{{Infobox scientist
+| honorific prefix   
+| name   Nobel Prize in Physiology or Medicine
+| honorific suffix   
+| native name   Nobelpriset i fysiologi eller medicin
+| native name lang   Swedish
+| image   Nobel Prize Medal.png
+| image size   200px
+| image upright   
+| landscape   
+| alt   
+| caption   The Nobel Prize medal for Physiology or Medicine
+| birth name   
+| birth date   
+| YYYY   
+| MM   
+| DD   
+| awarded for   Outstanding discoveries in physiology or medicine
+| presenter   Nobel Assembly at the Karolinska Institute
+| year   1901
+| location   Stockholm, Sweden
+| country   
+| website    https:  www.nobelprize.org nobel prizes medicine  Nobel Prize in Physiology or Medicine 
+}}

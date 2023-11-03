@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Picture
+| subheader   
+| current awards   95th Academy Awards
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   The Grand Staircase columns at the Dolby Theatre in Hollywood, showcasing every film that has won the Best Picture title since the award's inception.
+| awarded for   Outstanding achievement in filmmaking
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annually
+| YYYY   1929
+| MM   
+| DD   
+}}

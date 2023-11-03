@@ -1,0 +1,17 @@
+{{Infobox film
+| name   Faith of Our Fathers
+| image   
+| alt   
+| caption   
+| author   Philip K. Dick
+| country   United States
+| language   English
+| genre   Science fiction
+| published in   Dangerous Visions
+| published date   1967
+| plot   Tung Chien, a Vietnamese bureaucrat in a world conquered by Chinese-style atheist communism, discovers a horrible secret about the Party leader after receiving an illegal anti-hallucinogen.
+| reception   Algis Budrys praised the story, stating that the first three-quarters were very good. "Faith of Our Fathers" was nominated for the 1968 Hugo Award for Best Novelette.
+| awards   Nominated for the 1968 Hugo Award for Best Novelette
+| theme   Communism, drugs, sex, God
+| related   
+}}

@@ -1,0 +1,28 @@
+{{Infobox_film
+| name = Conan the Barbarian
+| image = Conan the Barbarian (1982 film).jpg
+| alt = The poster for the 1982 film "Conan the Barbarian"
+| caption = Theatrical release poster
+| native_name = 
+| language = English
+| title = Conan the Barbarian
+| director = John Milius
+| producer = Buzz Feitshans
+| screenplay = John Milius, Oliver Stone
+| based_on = Conan the Barbarian by Robert E. Howard
+| starring = Arnold Schwarzenegger, James Earl Jones, Sandahl Bergman
+| music = Basil Poledouris
+| cinematography = Duke Callaghan
+| editing = Carroll Timothy O'Meara
+| studio = Dino De Laurentiis Corporation
+| distributor = Universal Pictures
+| released = May 14, 1982
+| runtime = 129 minutes
+| country = United States
+| budget = $20 million
+| gross = $130 million
+| language = English
+| follows = Conan the Destroyer (1984)
+| preceded_by = 
+| followed_by = 
+}}

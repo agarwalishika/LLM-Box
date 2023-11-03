@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Ogopogo
+| image   
+| image size   
+| image upright   
+| caption   A depiction of the Ogopogo
+| Grouping   Lake monster
+| Sub Grouping   
+| Similar entities   Loch Ness Monster, Champ, Lake Tianchi Monster
+| Family   
+| Folklore   Canadian folklore
+| First Attested   Early 20th century
+| AKA   Oggy, Ogopups (smaller creatures)
+| Country   Canada
+| Region   Okanagan Valley, British Columbia
+| Habitat   Okanagan Lake
+| Details   The Ogopogo is a lake monster said to inhabit Okanagan Lake in British Columbia, Canada. It is described as a serpentine creature with smooth dark skin, a large body thicker than a telephone pole, and a length of up to 50 ft. It is known to move at incredible speeds, coiling its body in vertical undulations and propelling itself with a powerful tail. The creature has its origins in First Nations folklore and is a prominent figure in the commercial symbolism and media representation of the region.
+}}

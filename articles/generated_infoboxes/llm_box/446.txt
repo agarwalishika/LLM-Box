@@ -1,0 +1,24 @@
+{{Infobox Doctor Who episode
+| number   10
+| serial name   The Dalek Invasion of Earth
+| show   Doctor Who
+| quotes   "Resistance is useless!"
+| type   Serial
+| image   Dalek Invasion of Earth.jpg
+| caption   The Daleks in London
+| image size   250px
+| alt   The Daleks in London
+| doctor     First Doctor|First  
+| doctors   William Hartnell
+| companion     Susan Foreman  
+| companions   Carole Ann Ford
+| cast   
+  William Hartnell as the Doctor
+  Carole Ann Ford as Susan Foreman
+  William Russell as Ian Chesterton
+  Jacqueline Hill as Barbara Wright
+| director   Richard Martin
+| writer   Terry Nation
+| based on   
+}}
+

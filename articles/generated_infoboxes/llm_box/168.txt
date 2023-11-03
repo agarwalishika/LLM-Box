@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Writers and Illustrators of the Future
+| subheader   
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   Science fiction and fantasy story and art
+| sponsor   L. Ron Hubbard
+| date   1983
+| YYYY   
+| MM   
+| DD   
+}}

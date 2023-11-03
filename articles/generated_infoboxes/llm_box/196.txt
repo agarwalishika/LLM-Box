@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Prix Goncourt
+| subheader   Le prix Goncourt
+| current awards   
+| image   
+| image size   
+| image upright   
+| alt   
+| caption   
+| awarded for   The best and most imaginative prose work of the year
+| sponsor   Acad mie Goncourt
+| date   December
+| YYYY   
+| MM   
+| DD   
+}}

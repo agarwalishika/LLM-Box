@@ -1,0 +1,18 @@
+{{Infobox mythical creature
+| name   Kobold
+| image   File:Kobold.jpg
+| image size   250px
+| image upright   
+| caption   A depiction of a kobold
+| Grouping   Sprite
+| Sub Grouping   
+| Similar entities   Goblin, Hobgoblin
+| Family   Germanic mythology
+| Folklore   German folklore
+| First Attested   At least the 13th century
+| AKA   Cobold, Goblin, Hobgoblin
+| Country   Germany
+| Region   Europe
+| Habitat   Human homes, mines, ships
+| Details   A mythical sprite that can materialize in various forms, including non-human animals, fire, humans, and candles. Kobolds are commonly depicted as humanlike figures the size of small children. They are known for their ambivalent nature, performing domestic chores but playing malicious tricks if insulted or neglected. There are three major types of kobolds: household spirits, underground dwellers, and ship-dwelling kobolds known as Klabautermann. Belief in kobolds is evidence of the survival of pagan customs in Germany.
+}}

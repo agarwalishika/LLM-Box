@@ -1,0 +1,22 @@
+{{Infobox character
+| name = Baron Vladimir Harkonnen
+| image = 
+| caption = 
+| first = ''Dune'' (1965)
+| last = ''Sandworms of Dune'' (2007)
+| creator = Frank Herbert
+| portrayer = Kenneth McMillan (1984 film)
+| Ian McNeice (2000 miniseries)
+| Stellan Skarsgård (2021 film)
+| species = Human
+| gender = Male
+| occupation = Siridar Baron (planetary governor)
+| title = Baron
+| family = House Harkonnen
+| nationality = 
+| birth_date = 10,110 AG
+| death_date = 10,193 AG
+| role = Main antagonist
+| appearance = ''Dune'' (1965)
+}}
+

@@ -1,0 +1,44 @@
+{{Infobox book
+| italic   
+| name   In the Penal Colony
+| image   
+| image size   
+| border   
+| alt   
+| caption   
+| author   Franz Kafka
+| audio read by   
+| title orig   In der Strafkolonie
+| orig lang code   de
+| title working   In the Penal Settlement
+| translator   
+| illustrator   
+| cover artist   
+| country   Austria-Hungary
+| language   German
+| series   
+| release number   
+| subject   
+| genre   Short story
+| set in   Unnamed penal colony
+| publisher   
+| publisher2   
+| pub date   October 1919
+| english pub date   
+| published   
+| media type   Print
+| pages   
+| awards   
+| isbn   
+| isbn note   
+| oclc   
+| dewey   
+| congress   
+| preceded by   
+| followed by   
+| native wikisource   
+| wikisource   
+| notes   
+| exclude cover   
+| website   
+}}

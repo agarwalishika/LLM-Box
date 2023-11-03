@@ -1,0 +1,21 @@
+{{Infobox Doctor Who episode
+| number   36
+| serial name   The Evil of the Daleks
+| show   Doctor Who
+| type   Serial
+| image   
+| caption   
+| image size   
+| alt   
+| doctor     Second Doctor|Second  
+| doctors     Patrick Troughton  
+| companion     Jamie McCrimmon|Jamie  ,   Victoria Waterfield|Victoria  
+| companions     Frazer Hines  ,   Deborah Watling  
+| cast   
+| doctor   Patrick Troughton
+| guests   
+| director     Derek Martinus  
+| writer     David Whitaker  
+| based on   
+}}
+

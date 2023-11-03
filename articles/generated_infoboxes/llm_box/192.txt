@@ -1,0 +1,16 @@
+{{Infobox award
+| name   Academy Award for Best Director
+| subheader   Academy Award of Merit for Directing
+| current awards   2023
+| image   Academy Award for Best Director.png
+| image size   150px
+| image upright   
+| alt   
+| caption   The official statuette of the Academy Award for Best Director
+| awarded for   Outstanding directing in the film industry
+| sponsor   Academy of Motion Picture Arts and Sciences (AMPAS)
+| date   Annually
+| YYYY   
+| MM   
+| DD   
+}}

@@ -1,0 +1,29 @@
+{{Infobox character
+| name   Terror of Mechagodzilla
+| series   Godzilla
+| franchise   Godzilla
+| image   Terror of Mechagodzilla poster.jpg
+| alt   
+| caption   Japanese theatrical release poster
+| director   Ishir  Honda
+| producer   Tomoyuki Tanaka, Henry G. Saperstein
+| writer   Yukiko Takayama
+| screenplay   
+| story   
+| based on   
+| starring   Katsuhiko Sasaki, Tomoko Ai, Akihiko Hirata, Gor  Mutsumi
+| music   
+| cinematography   
+| editing   
+| studio   Toho, Toho Eizo
+| distributor   Toho
+| released   March 15, 1975 (Japan)
+| runtime   
+| country   Japan
+| language   Japanese
+| budget   
+| gross   
+| preceded by   Godzilla vs. Mechagodzilla
+| followed by   The Return of Godzilla
+| website   
+}}

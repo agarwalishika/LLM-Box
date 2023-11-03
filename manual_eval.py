@@ -19,7 +19,7 @@ import pickle
 import re
 
 ## CHANGE ME:
-REVIEWER_NAME = "Ishika"
+REVIEWER_NAME = "Siddharth"
 
 with open('articles.pkl', 'rb') as f:
     ARTICLES = pickle.load(f)
@@ -167,7 +167,7 @@ def select_label():
     return random.choice(labels)
 
 def generate_visual_infobox(rev_num, label):
-    with open(os.path.join(os.getcwd(), "./", "generated_infoboxes",label,f"{rev_num}.txt")) as file:
+    with open(os.path.join(os.getcwd(),"articles","generated_infoboxes",label,f"{rev_num}.txt")) as file:
         lines = file.readlines()
         with open(os.path.join(os.getcwd(), "manual_eval", "temp.html"), "+w") as html_file:
             html_file.write(beginning_html)

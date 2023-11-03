@@ -1,0 +1,46 @@
+{{Infobox medical intervention
+| name   Bacterial vaginosis
+| synonyms   BV, vaginal bacteriosis
+| image   
+| caption   
+| pronounce   
+| specialty   Gynecology
+| complications   Increased risk of sexually transmitted infections, increased risk of early delivery in pregnant women
+| symptoms   Increased vaginal discharge, fishy odor, burning with urination (sometimes), itching (rare)
+| onset   
+| duration   
+| causes   Imbalance of naturally occurring bacteria in the vagina, change in bacterial composition, increase in total bacterial count
+| risk factors   Douching, new or multiple sex partners, antibiotic use, intrauterine device use
+| diagnosis   Based on symptoms, vaginal discharge testing, higher vaginal pH, presence of large numbers of bacteria
+| differential diagnosis   Vaginal yeast infection, Trichomonas infection
+| treatment   Antibiotics (clindamycin, metronidazole), probiotics
+| medication   
+| prognosis   Recurrence is common after treatment
+| frequency   5  to 70  of women of reproductive age affected at any given time
+| deaths   
+| mortality   
+| morbidity   
+| prevalence   Most common in parts of Africa, least common in Asia and Europe
+| incidence   
+| age   Women of reproductive age
+| sex   
+| gender   
+| population   
+| related conditions   
+| prevention   
+| medications   
+| interventions   
+| prognosis   
+| frequency   
+| deaths   
+| mortality   
+| morbidity   
+| prevalence   
+| incidence   
+| age   
+| sex   
+| gender   
+| population   
+| related conditions   
+| prevention   
+}}

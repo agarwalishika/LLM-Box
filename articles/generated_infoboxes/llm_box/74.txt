@@ -1,0 +1,18 @@
+{{Infobox comics character
+| character name   Phoenix Force
+| image   Phoenix Force.jpg
+| imagesize   250px
+| caption   The Phoenix Force, as depicted in the comics.
+| publisher   Marvel Comics
+| debut   The Uncanny X-Men  101 (October 1976)
+| creators   Chris Claremont, Dave Cockrum
+| real name   N A
+| species   Cosmic entity
+| alliances   X-Men
+| affiliations   Shi'ar Empire
+| powers   Manipulation of psionic energy, immortality, resurrection, cosmic fire manipulation, telepathy, telekinesis, cosmic awareness
+| sortkey   Phoenix Force
+| cat   Marvel Comics characters
+| hero   yes
+| villain   no
+}}
