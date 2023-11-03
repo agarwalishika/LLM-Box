@@ -3,3 +3,4 @@ pagerank.bz2
 pagerank.rank
 *.sqlite3
 __pycache__/
+config.py

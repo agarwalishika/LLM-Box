@@ -17,7 +17,6 @@ from langchain.document_loaders import TextLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.docstore.document import Document
 
-# models
 EMBEDDING_MODEL = "text-embedding-ada-002"
 GPT_MODEL = "gpt-3.5-turbo"
 
@@ -158,26 +157,26 @@ def batch_documents(docs, chunk_size):
 if __name__=="__main__":
 
     template_links = [
-            "https://en.wikipedia.org/wiki/Template:Infobox_character", 
-            "https://en.wikipedia.org/wiki/Template:Infobox_comics_character",
-            "https://en.wikipedia.org/wiki/Template:Infobox_mythical_creature",
-            "https://en.wikipedia.org/wiki/Template:Infobox_award",
-            "https://en.wikipedia.org/wiki/Template:Infobox_film",
-            "https://en.wikipedia.org/wiki/Template:Infobox_book",
-            "https://en.wikipedia.org/wiki/Template:Infobox_short_story",
-            "https://en.wikipedia.org/wiki/Template:Infobox_flag",
-            "https://en.wikipedia.org/wiki/Template:Infobox_Doctor_Who_episode",
-            "https://en.wikipedia.org/wiki/Template:Infobox_medical_condition",
-            "https://en.wikipedia.org/wiki/Template:Infobox_drug",
-            "https://en.wikipedia.org/wiki/Template:Infobox_medical_intervention",
-            "https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict",
-            "https://en.wikipedia.org/wiki/Template:Infobox_civilian_attack",
-            "https://en.wikipedia.org/wiki/Template:Infobox_knot",
-            "https://en.wikipedia.org/wiki/Template:Infobox_pharaoh",
-            "https://en.wikipedia.org/wiki/Template:Infobox_noble",
-            "https://en.wikipedia.org/wiki/Template:Infobox_Le_Mans_driver",
-            "https://en.wikipedia.org/wiki/Template:Infobox_Motocross_rider",
-            "https://en.wikipedia.org/wiki/Template:Infobox_scientist"
+        "https://en.wikipedia.org/wiki/Template:Infobox_character", 
+        "https://en.wikipedia.org/wiki/Template:Infobox_comics_character",
+        "https://en.wikipedia.org/wiki/Template:Infobox_mythical_creature",
+        "https://en.wikipedia.org/wiki/Template:Infobox_award",
+        "https://en.wikipedia.org/wiki/Template:Infobox_film",
+        "https://en.wikipedia.org/wiki/Template:Infobox_book",
+        "https://en.wikipedia.org/wiki/Template:Infobox_short_story",
+        "https://en.wikipedia.org/wiki/Template:Infobox_flag",
+        "https://en.wikipedia.org/wiki/Template:Infobox_Doctor_Who_episode",
+        "https://en.wikipedia.org/wiki/Template:Infobox_medical_condition",
+        "https://en.wikipedia.org/wiki/Template:Infobox_drug",
+        "https://en.wikipedia.org/wiki/Template:Infobox_medical_intervention",
+        "https://en.wikipedia.org/wiki/Template:Infobox_civil_conflict",
+        "https://en.wikipedia.org/wiki/Template:Infobox_civilian_attack",
+        "https://en.wikipedia.org/wiki/Template:Infobox_knot",
+        "https://en.wikipedia.org/wiki/Template:Infobox_pharaoh",
+        "https://en.wikipedia.org/wiki/Template:Infobox_noble",
+        "https://en.wikipedia.org/wiki/Template:Infobox_Le_Mans_driver",
+        "https://en.wikipedia.org/wiki/Template:Infobox_Motocross_rider",
+        "https://en.wikipedia.org/wiki/Template:Infobox_scientist"
     ]
 
     docs = assign_metadata_to_source_docs(template_links)
