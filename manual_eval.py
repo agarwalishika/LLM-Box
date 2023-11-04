@@ -54,6 +54,13 @@ beginning_html =  """
         border-spacing: 2px 5px;
     }
 
+    .left {
+        flex:2;
+    }
+    .right {
+        flex:1;
+    }
+
     tbody {
         --font-size-medium: 0.875rem;
         font-family: sans-serif;
@@ -72,6 +79,10 @@ beginning_html =  """
         font-size: 88%;
         line-height: 1.5em;
         border-spacing: 2px 5px;
+    }
+
+    p {
+        flex: 2;
     }
 
     .infobox-label {
@@ -97,13 +108,26 @@ beginning_html =  """
         vertical-align: top;
         text-align: left;
     }
+    .container {
+        display: flex;
+    }
     </style>
+    <div class="container">
+    <div class="left">
+        <p>
+    """
+middle_html = """ 
+        </p>
+    </div>
+    <div class="right">
     <table class="infobox" style="border-spacing: 2px 5px;">
         <tbody>
     """
 ending_html =  """
         </tbody> 
     </table>
+    </div>
+    </div>
     """
 
 row_template = """
@@ -156,8 +180,6 @@ def start_new_review(rev_num, label):
     with open(os.path.join(os.getcwd(),"manual_eval",REVIEWER_NAME,f'feedback_{rev_num}.txt'),"+w") as file:
         for q in questions:
             file.write(f'{q}\n\n')
-        article_temp = re.sub(r'[^a-zA-Z0-9,.!?;:(){}|\n"\'-]', ' ', ARTICLES[rev_num])
-        file.write(f'{"".join(["-"]*100)}\n\n{article_temp}\n\n')
         
     
     generate_visual_infobox(rev_num, label)
@@ -170,7 +192,11 @@ def generate_visual_infobox(rev_num, label):
     with open(os.path.join(os.getcwd(),"articles","generated_infoboxes",label,f"{rev_num}.txt")) as file:
         lines = file.readlines()
         with open(os.path.join(os.getcwd(), "manual_eval", "temp.html"), "+w") as html_file:
+            article_temp = re.sub(r'[^a-zA-Z0-9,.!?;:(){}|\n"\'-]', ' ', ARTICLES[rev_num])
+            article = f'{"".join(["-"]*100)}\n\n{article_temp}\n\n'
             html_file.write(beginning_html)
+            html_file.write(article)
+            html_file.write(middle_html)
             for line in lines:
                 if line.startswith("|"):
                     line = line.replace("|","")
