@@ -144,7 +144,7 @@ def setup_review():
         os.makedirs(os.path.join(os.getcwd(),"manual_eval",REVIEWER_NAME))
 
 def review_loop():
-    i = 0
+    i = 100
 
     user_prompt_string = """Thank you for reviewing!\n 
     We have created a file named 'feedback_{i}' for you under 'manual_eval/{reviewer}/'\n 
