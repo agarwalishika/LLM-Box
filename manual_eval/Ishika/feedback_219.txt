@@ -1,7 +1,0 @@
-(1) Is all the information in the infobox accurate to the information in the article? Please identify any potential discrepancies.
-Yes
-(2) On a scale of 1 to 10, where 1 is too verbose and 10 is too concise, please rate the field values on their succinctness.
-7
-(3) Please list any additional fields you would have added to the infobox to make it a more holistic summary of the article, if any
-Rating
-219 ground_truth
