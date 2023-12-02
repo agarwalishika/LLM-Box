@@ -3,7 +3,7 @@
 ### Group 2
 
 ## Run the repository
-This repository contains all scripts required for the project LLM-Box. Below we describe how to run the different components:
+This repository contains all scripts required for the project LLM-Box done as part of our CS 598: ML + Data Systems class. Below we describe how to run the different components:
 
 ### Data Collection
 `data_collection` folder contains the scripts for collecting Wikipedia articles and infoboxes.
