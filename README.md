@@ -2,8 +2,9 @@
 
 ### Group 2
 
-## Run our experiments
 This repository contains all scripts required for the project LLM-Box done as part of our CS 598: ML + Data Systems class. Below we describe how to run the different components:
+
+## Run our experiments
 
 ### Data Collection
 `data_collection` folder contains the scripts for collecting Wikipedia articles and infoboxes.
